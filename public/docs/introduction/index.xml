@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Home</title>
+    <link>http://localhost:51909/docs/introduction/</link>
+    <description>Recent content in Introduction on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:51909/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:51909/docs/introduction/getting-started/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:51909/docs/introduction/getting-started/</guid>
+      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—A guide to writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;This guide isn&amp;rsquo;t just for &amp;hellip; In fact, &lt;em&gt;anyone&lt;/em&gt; can learn the skill of writing great copy. Really, it isn&amp;rsquo;t that hard. You just have to be willing to write (something you can learn to love) and know what kinds of elements &amp;hellip; And if you follow the steps here, you&amp;rsquo;ll do just that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing Tips</title>
+      <link>http://localhost:51909/docs/introduction/writing-tips/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:51909/docs/introduction/writing-tips/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

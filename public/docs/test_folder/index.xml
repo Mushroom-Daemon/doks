@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychological Triggers on Home</title>
+    <link>http://localhost:1313/docs/test_folder/</link>
+    <description>Recent content in Psychological Triggers on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/test_folder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Sense of Urgency</title>
+      <link>http://localhost:1313/docs/test_folder/a-sense-of-urgency/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/test_folder/a-sense-of-urgency/</guid>
+      <description>&lt;h2 id=&#34;creating-a-sense-of-urgency&#34;&gt;Creating a Sense of Urgency&lt;/h2&gt;&#xA;&lt;p&gt;A while back I had this girlfriend. We had a lot of fun, but she was hesitant to commit to me. No matter what I tried, she just wouldn&amp;rsquo;t become &amp;ldquo;official.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
