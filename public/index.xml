@@ -10,6 +10,20 @@
     <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/introduction/getting-started/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/getting-started/</guid>
+      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—a practical, user-friendly guide for writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;The Kickass Copy Playbook was written for anyone interested in writing persuasive copy—regardless of whether you write ads for a living, hope to persuade someone of something, or just want to convince the girl next door that you&amp;rsquo;re not a total creep. I&amp;rsquo;ve tried both. (Some with greater success than others.) And through my many trials and failures have learned a thing or two I&amp;rsquo;ve found helpful. You&amp;rsquo;ll find those tips here. But that&amp;rsquo;s not all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrity</title>
+      <link>http://localhost:1313/docs/introduction/integrity/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/integrity/</guid>
+      <description>&lt;p&gt;This might go at the top… Along with &amp;ldquo;honesty.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Keep your communications straight-forward, honest, and credible. Simple.&lt;/p&gt;&#xA;&lt;p&gt;This is just a guiding principle. Write with integrity. Only write it if you believe it. Don&amp;rsquo;t make shit up.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Example Post</title>
       <link>http://localhost:1313/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
@@ -31,25 +45,11 @@
       <description>&lt;p&gt;Write with integrity. Only include examples I actually relate to. Don&amp;rsquo;t regurgitate.&lt;/p&gt;&#xA;&lt;p&gt;edit: go through all triggers and see if I have questions for those.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1. Getting Started</title>
-      <link>http://localhost:1313/docs/introduction/1.-getting-started/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/introduction/1.-getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—a practical, user-friendly guide for writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;The Kickass Copy Playbook was written for anyone interested in writing persuasive copy—regardless of whether you write ads for a living, hope to persuade someone of something, or just want to convince the girl next door that you&amp;rsquo;re not a total creep. I&amp;rsquo;ve tried both. (Some with greater success than others.) And through my many trials and failures have learned a thing or two I&amp;rsquo;ve found helpful. You&amp;rsquo;ll find those tips here. But that&amp;rsquo;s not all.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>2. Writing Tips</title>
       <link>http://localhost:1313/docs/writing/2.-writing-tips/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>http://localhost:1313/docs/writing/2.-writing-tips/</guid>
       <description>&lt;p&gt;just get started and you&amp;rsquo;ll get better and better.&lt;/p&gt;&#xA;&lt;p&gt;Maybe this goes under the research part. Under &amp;ldquo;The Big Ones&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3. Integrity</title>
-      <link>http://localhost:1313/docs/introduction/3.-integrity/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/introduction/3.-integrity/</guid>
-      <description>&lt;p&gt;This might go at the top… Along with &amp;ldquo;honesty.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Keep your communications straight-forward, honest, and credible. Simple.&lt;/p&gt;&#xA;&lt;p&gt;This is just a guiding principle. Write with integrity. Only write it if you believe it. Don&amp;rsquo;t make shit up.&lt;/p&gt;</description>
     </item>
     <item>
       <title>4. Credibility</title>

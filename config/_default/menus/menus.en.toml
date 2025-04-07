@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Playbook"
-  url = "docs/introduction/1.-getting-started/"
+  url = "docs/introduction/getting-started/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
