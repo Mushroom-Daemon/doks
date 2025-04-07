@@ -14,12 +14,6 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-
-Authority
-
-18 February, 2025
-2:53 PM
-
 A little while back I decided I wanted to buy a bike. After poking around online, I found one I liked and walked to a local shop to see if they could order for me. They could.
 
 They actually had a few in the shop. I hopped on one and thought it felt great. I ordered the model I wanted online and excitedly awaited my present to myself.
@@ -66,16 +60,19 @@ EXAMPLES
 Is there anything you're the biggest at? The smartest? The most well-equipped? The first?
 
 
-
+Talk about the success of your many students.
 
 
 
 ^ Some of the covers say "See why we're the fastest…" (Ads in some curiosity)
 
+Bottom line, they want to know they are making a good choice.
 
 
-
-
+Other ways to demonstrate authority:
+* Brand names and company names: "the tool shack" won't sell many computers.
+* Where you post ads: QVC, Amazon, etc.
+* The city your business (or mailing address) is in: NYC publisher or jazz musician, an LA studio cat, perfume from Paris, a pub in Glasgow, Brooklyn pizza...
 
 
 

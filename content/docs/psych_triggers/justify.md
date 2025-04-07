@@ -13,6 +13,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+note for me: do we offer the proof of value here? You want them to feel like they are getting value. Is that different than justifying the purchase?
+
 ## Justify the Purchase
 There's this watch I wear. It cost me less than $20 and I love it. I've been wearing the watch for years and talk about it all the time.
 

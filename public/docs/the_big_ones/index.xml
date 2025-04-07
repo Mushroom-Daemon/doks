@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2. The Big Ones on Home</title>
+    <link>http://localhost:1313/docs/the_big_ones/</link>
+    <description>Recent content in 2. The Big Ones on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/the_big_ones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature of Your Product</title>
+      <link>http://localhost:1313/docs/the_big_ones/nature-of-your-product/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/the_big_ones/nature-of-your-product/</guid>
+      <description>&lt;p&gt;could also be called &amp;ldquo;What Are You Selling&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As a copywriter, it&amp;rsquo;s up to you to discover the product&amp;rsquo;s uniqueness. There are dozens. You must find the most potent of the litter and ramp the &lt;em&gt;fuck&lt;/em&gt; out of it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nature of Your Prospect</title>
+      <link>http://localhost:1313/docs/the_big_ones/nature-of-your-prospect/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/the_big_ones/nature-of-your-prospect/</guid>
+      <description>&lt;p&gt;who are you selling to and what do they want?&lt;/p&gt;&#xA;&lt;p&gt;This is the primary desire.&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t feed the fish what you&amp;rsquo;re hungry for. Feed them what &lt;em&gt;they&amp;rsquo;re&lt;/em&gt; hungry for.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

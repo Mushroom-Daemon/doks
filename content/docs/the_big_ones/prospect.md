@@ -1,0 +1,39 @@
+---
+title: "Nature of Your Prospect"
+description: ""
+summary: ""
+date: 2023-09-07T16:13:18+02:00
+lastmod: 2023-09-07T16:13:18+02:00
+draft: false
+weight: 910
+toc: true
+seo:
+  title: "" # custom title (optional)
+  description: "" # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  robots: "" # custom robot tags (optional)
+---
+
+who are you selling to and what do they want?
+
+This is the primary desire.
+
+Don't feed the fish what you're hungry for. Feed them what *they're* hungry for.
+
+**What is the transformation they are hoping for?**
+
+Just give the people what they want. Being in a frat is only as appealing and chicks and friends.
+
+The prospect has basic emotional needs your product will solve&mdash;regardless of what it is.
+
+It is through *emotion* that you will reach the core essence of your prospect's motivation. It is from this essence that you will get all the clues you need to uncover the way to that prospect's heart and soul and eventually to his or her pocketbook.
+
+* Remember the power savers
+* Appeal to their *true* interests... not what they say
+* The key is to gather as much information about them as possible and then try to, you know, be the ideal lover. Study them. Listen. Pay Attention. This is why you get to know them and their hobbies. To gain a sense of their emotional needs. Me and the food and the security and routine and safety. This is why I get into all these brands that are durable. Safety. Security.
+
+Do not try to communicate *to* this person. *Become this person*.
+
+Colin's notes on this one. Also maybe S.B.
+
+ASK customers what is important to them about your product. Test different emotional appeals and see which on works.

@@ -1,27 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Home</title>
-    <link>http://localhost:51909/docs/introduction/</link>
-    <description>Recent content in Introduction on Home</description>
+    <title>1. Introduction on Home</title>
+    <link>http://localhost:1313/docs/introduction/</link>
+    <description>Recent content in 1. Introduction on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
-    <atom:link href="http://localhost:51909/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started</title>
-      <link>http://localhost:51909/docs/introduction/getting-started/</link>
+      <title>***edit notes for me***</title>
+      <link>http://localhost:1313/docs/introduction/edit-notes-for-me/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:51909/docs/introduction/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—A guide to writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;This guide isn&amp;rsquo;t just for &amp;hellip; In fact, &lt;em&gt;anyone&lt;/em&gt; can learn the skill of writing great copy. Really, it isn&amp;rsquo;t that hard. You just have to be willing to write (something you can learn to love) and know what kinds of elements &amp;hellip; And if you follow the steps here, you&amp;rsquo;ll do just that.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/introduction/edit-notes-for-me/</guid>
+      <description>&lt;p&gt;Write with integrity. Only include examples I actually relate to. Don&amp;rsquo;t regurgitate.&lt;/p&gt;&#xA;&lt;p&gt;edit: go through all triggers and see if I have questions for those.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Writing Tips</title>
-      <link>http://localhost:51909/docs/introduction/writing-tips/</link>
+      <title>1. Getting Started</title>
+      <link>http://localhost:1313/docs/introduction/1.-getting-started/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:51909/docs/introduction/writing-tips/</guid>
-      <description></description>
+      <guid>http://localhost:1313/docs/introduction/1.-getting-started/</guid>
+      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—a practical, user-friendly guide for writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;The Kickass Copy Playbook was written for anyone interested in writing persuasive copy—regardless of whether you write ads for a living, hope to persuade someone of something, or just want to convince the girl next door that you&amp;rsquo;re not a total creep. I&amp;rsquo;ve tried both. (Some with greater success than others.) And through my many trials and failures have learned a thing or two I&amp;rsquo;ve found helpful. You&amp;rsquo;ll find those tips here. But that&amp;rsquo;s not all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3. Integrity</title>
+      <link>http://localhost:1313/docs/introduction/3.-integrity/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/3.-integrity/</guid>
+      <description>&lt;p&gt;This might go at the top… Along with &amp;ldquo;honesty.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Keep your communications straight-forward, honest, and credible. Simple.&lt;/p&gt;&#xA;&lt;p&gt;This is just a guiding principle. Write with integrity. Only write it if you believe it. Don&amp;rsquo;t make shit up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4. Credibility</title>
+      <link>http://localhost:1313/docs/introduction/4.-credibility/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/4.-credibility/</guid>
+      <description>&lt;p&gt;Credibility is about being believable. That is the most persuasive bit of all. If someone doesn&amp;rsquo;t believe you, you&amp;rsquo;re not going to inspire them to act. People will do crazy shit for something they believe in though.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General Copy Notes</title>
+      <link>http://localhost:1313/docs/introduction/general-copy-notes/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/general-copy-notes/</guid>
+      <description>&lt;p&gt;Sell the market what they want. Not what you want to sell. (If you want to make a living, that is.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Playbook Tips</title>
+      <link>http://localhost:1313/docs/introduction/playbook-tips/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/introduction/playbook-tips/</guid>
+      <description>&lt;p&gt;The &lt;link&gt;Persuasive elements&lt;/link&gt; can be used as a checklist.&lt;/p&gt;&#xA;&lt;p&gt;Once you understand the elements, you can go through as a little checklist and jot down copy/selling ideas. Master your favorite ten. Practice, do your homework, try them out.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -24,9 +24,9 @@ A breakup.
 
 And both times the dumper came crawling back.
 
-When we feel like we might lose something—especially when we perceive that thing as being good for us—the game changes. Suddenly, it's time to shit or get off the pot. And caught with a case of ameobic dysintery, we discover we have to shit *real bad*.
+When we feel like we might lose something—especially when we perceive that thing as being good for us—the game changes. Suddenly, it's time to shit or get off the pot. And we might just realize we have to shit *real bad*.
 
-That feeling of scarcity is a powerful motivator—one you're wise to exploit in every piece of copy you write. I'll tell you why.
+A feeling of scarcity is a powerful motivator—one you're wise to exploit in every piece of copy you write. I'll tell you why.
 
 Because even after the perfect pitch, an unbelievable offer, people won't take action. They'll want to think it over. They'll hem and haw. They'll move on. So you have to find a way to spur them into action. Otherwise...
 
@@ -34,6 +34,18 @@ They *need* to be tipped over the edge
 
 They'll probably find themselves another boyfriend or girlfriend...
 
-So you have to stoke that fire with the fear of loss. Give your prospects a reason to buy now. Create that scarcity, the deadline, every time. The possibilities for doing so are limited only by your imagination. Here are a few examples to get you started.
+Stoke the fire with the fear of loss. Give your prospects a reason to buy *now*. Do it every time. The possibilities for doing so are limited only by your imagination.
+
+Here are a few examples to get you started.
 
 ## Swipes
+
+more scarcity stuff:
+
+"I screwed up, the price is supposed yto be 69 bucks, not 49, but if you respodnd before Friday, you can have it for 49."
+
+If you take something people want, and suddenly lower the price, they will buy it.
+
+This is specific scarcity...
+
+I have something for sale. It normally costs $750K. I'll sell it now for $150K. (Value/Greed) Why? (Tell them why.) Because someone left a huge deposit and bailed. It's the missing person sale. You cover the rest and we're all good here. (Scarcity---once only. Greed.)
