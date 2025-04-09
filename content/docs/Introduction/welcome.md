@@ -22,3 +22,5 @@ I've also stolen from some of the best direct-response copywriters throughout th
 Before we move on, I'm of the opinion that anyone, yes *anyone*&mdash;*even you!*&mdash;can learn to write kickass copy that converts. It isn't that hard. Hell, it's even kind of fun. All you need is something you're ... and ... And in the following pages you'll find everything you need to succeed.
 
 On your first pass, read through each section one at a time. Then, once you're familiar with the information, you can use the checklists (link) while working through your copy assignments.
+
+What I want them to believe the whole time is that it's easy and it's fun.

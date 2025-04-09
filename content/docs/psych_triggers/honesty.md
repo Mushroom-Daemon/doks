@@ -42,7 +42,7 @@ How can you include total transparency?
 
 Like, I'm not this or that. I'm not such and such. I'm just a regular guy who does this a few hours per week because I enjoy getting folks started on the right foot. The people I work with really appreciate it---and maybe that's you, too.
 
-
+be totally *transparent* ... that's really the key. and it's credible.
 
 people respect the truth
 

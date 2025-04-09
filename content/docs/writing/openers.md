@@ -18,6 +18,10 @@ Solitary confinement. Self-imposed.
 
 I have a confession.
 
+This just in.
+
+Breaking news.
+
 I have a secret.
 
 It's easy.

@@ -23,3 +23,5 @@ seo:
 
 
 Try patterning ads. Copying a format.
+
+The thing here is this: there is not perfect formula, no template that all of your persuasive bits will fit into nicely. You must know the foundations of your pitch. Then, write it how it needs to be said. But I will help you navigate the templates we do use.
