@@ -13,7 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide for writing kickass copy that converts.
+TEST
+
+Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide to writing kickass copy that converts.
 
 The Kickass Copy Playbook was written for anyone interested in writing persuasive copy&mdash;regardless of whether you write ads for a living, hope to persuade someone of something, or just want to convince the girl next door that you're not a total creep. I've tried both. (Some with greater success than others.) And through my many trials and failures have learned a thing or two I've found helpful. You'll find those tips here. But there's more to it than that.
 
