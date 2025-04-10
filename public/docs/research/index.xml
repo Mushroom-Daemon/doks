@@ -10,6 +10,13 @@
     <lastBuildDate>Thu, 07 Sep 2023 16:13:18 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>***edit notes for me***</title>
+      <link>http://localhost:1313/docs/research/edit-notes-for-me/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/research/edit-notes-for-me/</guid>
+      <description>&lt;p&gt;Write with integrity. Only include examples I actually relate to. Don&amp;rsquo;t regurgitate.&lt;/p&gt;&#xA;&lt;p&gt;edit: go through all triggers and see if I have questions for those.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>test</title>
       <link>http://localhost:1313/docs/research/test/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>

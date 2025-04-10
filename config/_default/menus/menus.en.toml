@@ -44,6 +44,11 @@
   url = "/street-cred/"
   weight = 30
 
+[[main]]
+name = "Writing"
+url = "/writing/writing_tips/start/"
+weight = 30
+
 
 # [[social]]
 #   name = "X"

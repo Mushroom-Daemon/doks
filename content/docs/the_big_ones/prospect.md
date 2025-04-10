@@ -14,6 +14,18 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+
+***(maybe the deal here is to think about the most important bits then break then emotional outpouring then edit)***
+
+Sell the market what they want. Not what you want to sell. (If you want to make a living, that is.)
+
+The prospect, their needs and wants comes first. It's that simple.
+
+It doesn't take genius. It's just the simple matter of listening and observing. And maybe a little intuition helps, too. [ COULD GO WITH NATURE OF PROSPECT ]
+
+You will tie the two together in the next two sections.
+
+
 who are you selling to and what do they want?
 
 This is the primary desire.

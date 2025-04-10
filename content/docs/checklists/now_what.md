@@ -1,5 +1,5 @@
 ---
-title: "2a. Writing Your Copy"
+title: "next steps/now what"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
@@ -17,4 +17,7 @@ seo:
 ---
 
 
-The outpouring of emotions.
+
+The <link>Persuasive elements</link> can be used as a checklist.
+
+Once you understand the elements, you can go through as a little checklist and jot down copy/selling ideas. Master your favorite ten. Practice, do your homework, try them out.

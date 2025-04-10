@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1. Introduction on Home</title>
+    <title>Introduction on Home</title>
     <link>http://localhost:1313/docs/introduction/</link>
-    <description>Recent content in 1. Introduction on Home</description>
+    <description>Recent content in Introduction on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/docs/introduction/getting-started/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>http://localhost:1313/docs/introduction/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Kickass Copy Playbook—a practical, user-friendly guide for writing kickass copy that converts.&lt;/p&gt;&#xA;&lt;p&gt;The Kickass Copy Playbook was written for anyone interested in writing persuasive copy—regardless of whether you write ads for a living, hope to persuade someone of something, or just want to convince the girl next door that you&amp;rsquo;re not a total creep. I&amp;rsquo;ve tried both. (Some with greater success than others.) And through my many trials and failures have learned a thing or two I&amp;rsquo;ve found helpful. You&amp;rsquo;ll find those tips here. But there&amp;rsquo;s more to it than that.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Who is this for? someone that wants to get what they want through the written word. Sarah&amp;hellip; Teddy&amp;hellip; who?&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the Kickass Copy Playbook—a practical, user-friendly guide to writing kickass copy that converts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrity</title>
@@ -24,32 +24,11 @@
       <description>&lt;p&gt;This might go at the top… Along with &amp;ldquo;honesty.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Keep your communications straight-forward, honest, and credible. Simple.&lt;/p&gt;&#xA;&lt;p&gt;This is just a guiding principle. Write with integrity. Only write it if you believe it. Don&amp;rsquo;t make shit up.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>***edit notes for me***</title>
-      <link>http://localhost:1313/docs/introduction/edit-notes-for-me/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/introduction/edit-notes-for-me/</guid>
-      <description>&lt;p&gt;Write with integrity. Only include examples I actually relate to. Don&amp;rsquo;t regurgitate.&lt;/p&gt;&#xA;&lt;p&gt;edit: go through all triggers and see if I have questions for those.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>4. Credibility</title>
       <link>http://localhost:1313/docs/introduction/4.-credibility/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>http://localhost:1313/docs/introduction/4.-credibility/</guid>
       <description>&lt;p&gt;Credibility is about being believable. That is the most persuasive bit of all. If someone doesn&amp;rsquo;t believe you, you&amp;rsquo;re not going to inspire them to act. People will do crazy shit for something they believe in though.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>General Copy Notes</title>
-      <link>http://localhost:1313/docs/introduction/general-copy-notes/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/introduction/general-copy-notes/</guid>
-      <description>&lt;p&gt;Sell the market what they want. Not what you want to sell. (If you want to make a living, that is.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Playbook Tips</title>
-      <link>http://localhost:1313/docs/introduction/playbook-tips/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/introduction/playbook-tips/</guid>
-      <description>&lt;p&gt;The &lt;link&gt;Persuasive elements&lt;/link&gt; can be used as a checklist.&lt;/p&gt;&#xA;&lt;p&gt;Once you understand the elements, you can go through as a little checklist and jot down copy/selling ideas. Master your favorite ten. Practice, do your homework, try them out.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

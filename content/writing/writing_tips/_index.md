@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
+title: "Writing Tips"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 1
+weight: 900
 toc: true
 sidebar:
   collapsed: false
@@ -15,3 +15,4 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+

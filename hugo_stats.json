@@ -244,7 +244,8 @@
       "toc-mobile",
       "visually-hidden",
       "w-100",
-      "wrap"
+      "wrap",
+      "writing"
     ],
     "ids": [
       "TableOfContents",
@@ -276,6 +277,7 @@
       "start-with-objections",
       "svg-info-circle",
       "swipes",
+      "taglines",
       "the-feeling-of-ownership",
       "the-human-stuff",
       "this-is-mel-whats-his-nuts",
