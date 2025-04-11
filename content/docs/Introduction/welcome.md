@@ -17,7 +17,7 @@ Who is this for? someone that wants to get what they want through the written wo
 
 Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide to writing kickass copy that converts.
 
-The Kickass Copy Playbook was written for anyone interested in writing persuasive copy&mdash;whether you write ads for a living, hope to suade donors or volunteers to give more of themselves, or just want to convince the girl next door you're worth it. I've tried it all, and through my mistakes and collosal failures have learned a thing of two that works. You'll find that here.
+The Kickass Copy Playbook was written for anyone interested in writing persuasive copy&mdash;whether you write ads for a living, hope to suade donors or volunteers to give more of themselves, or just want to convince the girl next door you're worth it. I've tried it all, and through my mistakes and collosal failures have learned a thing of two that works. You'll find that here. hi.
 
 But there's more to it than that. I've also stolen and learned from some of the best. Direct-response legends like Eugene Schwartz, Joseph Sugarman, Mel Martin, Gary Halpbert, Gary Bencivenga, Tom McElligot, and more. All folks who've moved hearts, minds, and a hell of a lot of money through the power of the written word.
 
