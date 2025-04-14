@@ -17,6 +17,14 @@ seo:
 Stolen from Anne Lammott, the title basically says it all.
 The look of the first draft makes absolutely no diufference. It is an emotional outpouring. Get your feeligs about the product and how it should be sold on paper. If you can do that, you have *mastered* someething fundamentally important.
 
+sometimes the shit just flows out of you. mostly not. mostly it's a labor. contraction after contraction, sweating, cursing your partner for giving you the one thing you wanted most in this world.
+
+here;s the truth. your first draft is going to suck. maybe the first few. accept it. write a shitty first draft. you'll work faster. you'll finish the assignment faster.
+
+is thetimer still going? keep writing. take you shitteist workavble idea, put it down, and keep working down the page. you aren't the next steinbeck or faulkner or stephen king. get over it. accept your fate as a shitty writer and just keep going.
+
+accept that it will suck. you suck. everything you write sucks. accept it and just write some stupid shit. here'
+
 I suggest practicing writing about the shot your parents put you through, or your bitch ex wife, or...
 
 (My ex wife is actually really cool.)
