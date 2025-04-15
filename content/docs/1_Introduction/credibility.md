@@ -18,7 +18,7 @@ This is about **Integrity**
 
 In the lessons that follow, you will learn some of the most useful elements of persuasion in written copy&mdash;how to channel your prospect’s innermost desires and link them to your cause, product, or offer in a unique way that inspires action. Learning to do this is a superpower that must be treated with wielded responsibly.
 
-Because there is a fine line between persuasion and manipulation. Persuasion is the pursuit of truth. It is a means of manipulation. Manipulation, on the other hand, involves using deceptive or coercive tactics to exploit vulnerabilities or mislead someone into making a decision that is not in their best interest. It often involves hidden motives and a lack of transparency.
+Because there is a fine line between persuasion and manipulation. Persuasion is the pursuit of truth. Seek the truth, believe it, and you will find yourself a persuasive writer. It is a means of manipulation. Manipulation, on the other hand, involves using deceptive or coercive tactics to exploit vulnerabilities or mislead someone into making a decision that is not in their best interest. It often involves hidden motives and a lack of transparency.
 
 Doing so, in my most humble opinion, is not about trickery.
 
