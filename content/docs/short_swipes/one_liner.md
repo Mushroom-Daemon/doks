@@ -1,5 +1,5 @@
 ---
-title: "Nature of Your Product"
+title: "One Liner"
 description: "Proving you've got what it takes to solve your prospect's problem."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -13,6 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+THERE IS MORE CRAP IN ONE NOTE
 
 Always talk about your customer's problems. It attracts them to you more--it deepens their interest in the story you're telling.
 
