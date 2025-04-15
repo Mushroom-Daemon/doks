@@ -24,7 +24,7 @@ Getting people to read your copy. It isn't hard to do.
 
 But there are a few practical steps you need to be aware of. For one, your copy should be easy to read. That means no big words and no long sentences. No giants blocks of text.
 
-
+emotional outpouring-----BE that person, the tired mom, the lazy bitch, the person who's riddled with insecurity (you? never.) ... my trainwell thing I sent to darian is pretty dope...
 
 To get people to read your copy, make it easy to read.
 

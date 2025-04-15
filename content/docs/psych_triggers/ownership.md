@@ -47,3 +47,6 @@ The more you get them involved in that feeling of ownership, the closer you are 
 In person, get them to actually use it. To type in the stuff themselves. Have them do all the work. Just guide them along. Teach me and … involve me and…
 
 TEST CHANGE.
+
+
+This comes down to them beeing able to *see* what you write. the puppies romping and playing bit.

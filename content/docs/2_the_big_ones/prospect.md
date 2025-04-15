@@ -25,6 +25,7 @@ It doesn't take genius. It's just the simple matter of listening and observing. 
 
 You will tie the two together in the next two sections.
 
+ask what they want then why why why why why.
 
 who are you selling to and what do they want?
 
@@ -40,7 +41,7 @@ The prospect has basic emotional needs your product will solve&mdash;regardless 
 
 It is through *emotion* that you will reach the core essence of your prospect's motivation. It is from this essence that you will get all the clues you need to uncover the way to that prospect's heart and soul and eventually to his or her pocketbook.
 
-* Remember the power savers
+* Remember the power savers (what is the point of this... the incentives. they don't want to save power because it's the right thing to do. or to save money. to not pollute the world. they did it because... )
 * Appeal to their *true* interests... not what they say
 * The key is to gather as much information about them as possible and then try to, you know, be the ideal lover. Study them. Listen. Pay Attention. This is why you get to know them and their hobbies. To gain a sense of their emotional needs. Me and the food and the security and routine and safety. This is why I get into all these brands that are durable. Safety. Security.
 
@@ -49,3 +50,11 @@ Do not try to communicate *to* this person. *Become this person*.
 Colin's notes on this one. Also maybe S.B.
 
 ASK customers what is important to them about your product. Test different emotional appeals and see which on works.
+
+incentives:
+  1. figure out what people really care about—not what they say they do
+  2. incentivize on what is valuable to them and cheap to you
+  3. pay attention to how people respond; keep experimenting
+  4. switch from adversarial to cooperative incentives (whatever that means)
+  5. never ever think people will do something because it's the "right" thing to do
+people will ALWAYS game the system; applaud their creativity

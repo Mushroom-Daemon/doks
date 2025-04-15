@@ -14,7 +14,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Hey, can I cut you in line? vs Hey, can I cut you in line, my flight leaves in 10 minutes.
+Hey, can I cut you in line? You ask them why. There's resistance. vs Hey, can I cut you in line, my flight leaves in 10 minutes.
 
 Which is more likely to move you?
 
@@ -36,4 +36,4 @@ Our president, on the other hand, does not get paid for endorsing products–jus
 . . . then he went on to show how they sold and shipped more efficiently. The end result? A better product for $100 less.\\e
 
 
-Explain everything: my shipping, I ship media mail to keep costs low, it takes a week.
+Explain everything: why does shipping cost that much. be an annoying kid, keep asking why. my shipping, I ship media mail to keep costs low, it takes a week.

@@ -29,6 +29,8 @@ You can transform those problems into major benefits.
 
 By dong this, you come across as honest and trustworthy. It lowers defenses and opens them up to the real benefits of your product or service.
 
+  • :To make it easy, we provide you with the tools. In our tests, it only took five minutes for somebody with very little mechanical skill to put it together."
+
 Try It:
 
 List all objections on one side of a piece of paper. then, how can you resolve those and turn them into opportunities? In your copy, only raise serious concerns--not the little stuff.
