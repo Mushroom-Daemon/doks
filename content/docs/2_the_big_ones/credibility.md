@@ -1,11 +1,11 @@
 ---
-title: "4. Credibility"
+title: "A Persuasive Backbone"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 2
+weight: 1
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -16,7 +16,9 @@ seo:
 
 This is about **Integrity**
 
-In the lessons that follow, you will learn some of the most useful elements of persuasion in written copy&mdash;how to channel your prospect’s innermost desires and link them to your cause, product, or offer in a unique way that inspires action. Learning to do this is a superpower that must be treated with wielded responsibly.
+In the lessons that follow, you will learn the basics of persuasive writing: channeling your prospect’s innermost desires and linking them to your cause, product, or offer in a way that inspires action.
+
+As far as I'm concerned, learning to do this is magic. And as such, it's a superpower that must be wielded responsibly
 
 Because there is a fine line between persuasion and manipulation. Persuasion is the pursuit of truth. Seek the truth, believe it, and you will find yourself a persuasive writer. It is a means of manipulation. Manipulation, on the other hand, involves using deceptive or coercive tactics to exploit vulnerabilities or mislead someone into making a decision that is not in their best interest. It often involves hidden motives and a lack of transparency.
 
@@ -33,9 +35,6 @@ Doing so, in my most humble opinion, is not about trickery.
 Credibility is about being believable&mdash;perhaps the most persuasive element of all. if someone doesn’t believe you, they don’t trust you, and you aren’t going to inspire them to act. The moment the reader says no or i don’t believe this or I don’t think this is me, they’re gone. You’ve lost them. On the flip side, people will do crazy shit for something they believe in&mdash;love, this, this… Crazy, crazy shit. (heck, they might even read all of your copy.)
 
 To be believable, be honest. Raise common objections and air them out in the light of day&mdash;*own them*. Tell your prospects why. Be specific with your copy. Answer questions/Keep your communication straight-forward, honest, and credible. Don’t beat around the bush. And don’t make shit up.
-
-
-* Align yourself with your thoughts, words, and deeds
 
 
 So there you have it. Your first lesson. Don’t make shit up. Don’t be a bullshitter.

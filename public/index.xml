@@ -10,6 +10,13 @@
     <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Persuasive Backbone</title>
+      <link>http://localhost:1313/docs/2_the_big_ones/a-persuasive-backbone/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/2_the_big_ones/a-persuasive-backbone/</guid>
+      <description>&lt;p&gt;This is about &lt;strong&gt;Integrity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the lessons that follow, you will learn the basics of persuasive writing: channeling your prospect’s innermost desires and linking them to your cause, product, or offer in a way that inspires action.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Getting Started</title>
       <link>http://localhost:1313/docs/1_introduction/getting-started/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
@@ -24,11 +31,18 @@
       <description>&lt;p&gt;I am linking this page just to have something in the header menu. I&amp;rsquo;ll write an introduction of sorts.&lt;/p&gt;&#xA;&lt;p&gt;The outpouring of emotions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>4. Credibility</title>
-      <link>http://localhost:1313/docs/1_introduction/4.-credibility/</link>
+      <title>Nature of Your Prospect</title>
+      <link>http://localhost:1313/docs/2_the_big_ones/nature-of-your-prospect/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/1_introduction/4.-credibility/</guid>
-      <description>&lt;p&gt;This is about &lt;strong&gt;Integrity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the lessons that follow, you will learn some of the most useful elements of persuasion in written copy—how to channel your prospect’s innermost desires and link them to your cause, product, or offer in a unique way that inspires action. Learning to do this is a superpower that must be treated with wielded responsibly.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/2_the_big_ones/nature-of-your-prospect/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;(maybe the deal here is to think about the most important bits then break then emotional outpouring then edit)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sell the market what they want. Not what you want to sell. (If you want to make a living, that is.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nature of Your Product</title>
+      <link>http://localhost:1313/docs/2_the_big_ones/nature-of-your-product/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>http://localhost:1313/docs/2_the_big_ones/nature-of-your-product/</guid>
+      <description>&lt;p&gt;could also be called &amp;ldquo;What Are You Selling&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As a copywriter, it&amp;rsquo;s up to you to discover the product&amp;rsquo;s uniqueness. There are dozens. You must find the most potent of the litter and ramp the &lt;em&gt;fuck&lt;/em&gt; out of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Example Post</title>
@@ -64,20 +78,6 @@
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
       <guid>http://localhost:1313/writing/writing_tips/writing_tips/</guid>
       <description>&lt;p&gt;just get started and you&amp;rsquo;ll get better and better.&lt;/p&gt;&#xA;&lt;p&gt;Maybe this goes under the research part. Under &amp;ldquo;The Big Ones&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Sense of Urgency</title>
-      <link>http://localhost:1313/docs/psych_triggers/a-sense-of-urgency/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/psych_triggers/a-sense-of-urgency/</guid>
-      <description>&lt;h2 id=&#34;creating-a-sense-of-urgency&#34;&gt;Creating a Sense of Urgency&lt;/h2&gt;&#xA;&lt;p&gt;A while back I had this girlfriend. We had a lot of fun, but she was hesitant to commit to me. No matter what I tried, she just wouldn&amp;rsquo;t become &amp;ldquo;official.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ad Flow</title>
-      <link>http://localhost:1313/writing/writing_tips/ad_flow/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/writing/writing_tips/ad_flow/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;The point is to anticipate next questions and answer (or tease) it&lt;/li&gt;&#xA;&lt;li&gt;Write headline. Will it grab reader?&lt;/li&gt;&#xA;&lt;li&gt;Write subhead. Will it compell reader to read further?&lt;/li&gt;&#xA;&lt;li&gt;Write caption for imaginary picture. Strong enough to pull them into first sentence?&lt;/li&gt;&#xA;&lt;li&gt;Write the first sentence. Suck them in like a vacuum.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Try patterning ads. Copying a format.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
