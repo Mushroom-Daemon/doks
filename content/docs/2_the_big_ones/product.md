@@ -13,9 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-I live in this great little east coast town. It's super walkable and there's a local ice cream shop only block from my house. It was warm the other day so I brought my sons there to get a cone.
+I live in this great little east coast town. It's super walkable and has cool brownstone neighborhoods. My family and I live in a rowhome tucked away in an alley a block down the road from a local ice cream shop. Sometimes when it's nice I bring my sons there after school.
 
-Unless it's some weird organic froyo shit, you don't sell ice cream for its nutritional value. I wasn't thinking about nourishing my children's growing bodies. I was thinking about us having a nice time, them being happy&mdash;being happy with *me*.
+Now, the thing with ice cream is that it's food. But unless you're selling some weird organic froyo shit, no one buys ice cream for its nurtitional value. I certainly wasn't thinking about nourishing my children's growing bodies. I was thinking about us having a nice time, them being happy&mdash;being happy with *me*.
 
 Products each have a unique nature, or emotional appeal. This is your angle.
 
@@ -26,6 +26,8 @@ Products each have a unique nature, or emotional appeal. This is your angle.
 * there are logical reasons too
 
  For people to buy, they have to first recognize a need. then, they will look for the solution that makes sense to their situation. *What are they looking for in that situation*? **That** is what you sell them.
+
+ There are many answers to this question.
 
  A smoke alarm should A) work, B) be easy to install.
 
