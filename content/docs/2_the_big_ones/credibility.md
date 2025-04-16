@@ -1,5 +1,5 @@
 ---
-title: "A Persuasive Backbone"
+title: "Writing with Integrity"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -14,9 +14,25 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-This is about **Integrity**
+In the lessons that follow, you will learn the basics of persuasive writing. As far as I'm concerened, that's magic&mdash;linking your prospect's inner most desires to your cause, product, or offering in a way that inspires action.
 
-In the lessons that follow, you will learn the basics of persuasive writing: channeling your prospect’s innermost desires and linking them to your cause, product, or offer in a way that inspires action.
+Before that, though, I want to call out the elephant in the room. Many people are of the opinion that marketers (which as a persuasive writer, you are) are practicing a kind of dark magic. They're manipulators. They'll do anything for a sale. And I, too, have doubted the marketing tactics used by certain parties.
+
+I think what's important to understand is that manipulation and persuasion have a core difference. They're riding a different wave, so to speak. Manipulative practices are those that are deceptive. They exploit the vulnerable (and we all are) and lead them into making a decision that is not in their best interest. Persuasion has a different bent.
+
+That's the pursuit of truth.
+
+
+
+
+But I don't believe that is the case. And here's why.
+
+Manipulation is a practice of deceipt or trickery or ... which is why it's so important for you, as a persuasive writer, to practice integrity.
+
+
+
+
+ channeling your prospect’s innermost desires and linking them to your cause, product, or offer in a way that inspires action.
 
 As far as I'm concerned, learning to do this is magic. And as such, it's a superpower that must be wielded responsibly
 
@@ -48,3 +64,6 @@ Ways to give your ad integrity:
   • The look of your ad
   • Clean and neat
 Even the typeface you choose
+
+
+By searching for safety I make myself feel unsafe. Do not search for the thing you want. Act. And let that identity fall over you. I dig through the past, rifle through the files, every word, every conversation, every assumption. And in doing so---in searching for the one thing I so desperately crave---I make myself feel unsafe.
