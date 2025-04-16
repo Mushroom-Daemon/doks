@@ -18,7 +18,7 @@ I am linking this page just to have something in the header menu. I'll write an 
 
 The outpouring of emotions.
 
-Focus on what you know, the main bits.
+Focus on what you know, the main bits. the nature of your prospect, the nature of your product.
 
 Then break.
 
