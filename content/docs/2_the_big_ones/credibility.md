@@ -13,6 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+*** what;s a story about integrity***?
 
 In the lessons that follow, you will learn the basics of persuasive writing. As far as I'm concerened, that's magic&mdash;and a power that must be weilded responsibly. Do so and melt away your prospect's resistance to your message. Ignore this responsibility and fortify that resistance.
 
