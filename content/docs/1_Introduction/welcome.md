@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Who is this for? someone that wants to get what they want through the written word. Sarah... Teddy... who?
+*Who is this for? someone that wants to get what they want through the written word. Sarah... Teddy... who? This is for anyone interested in improving their skills as a persuasive writer. I think folks with a creative and psychology bent will also find the information here interesting. Or maybe you just like a good story. There are plenty of those, as well.*
 
 Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide to writing kickass copy that converts.
 

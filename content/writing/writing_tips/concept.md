@@ -13,6 +13,16 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+buying environment:
+this could also be the buying environment.
+Ways to give your ad integrity:
+  • The look of your ad
+  • Clean and neat
+Even the typeface you choose
+
+Your copy has to set up the right environment. Don't use this word so much. Just get them saying "yes" "yes" "yes" or pique curiosity.
+
+
 
 What is this? Is it elsewhere?
 

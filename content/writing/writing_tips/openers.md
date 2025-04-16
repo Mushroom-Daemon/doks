@@ -33,3 +33,5 @@ Short, sweet, and almost incomplete.
 Picture this.
 
 This may surprise you.
+
+"We all take our food supply for granted. And for good reason. Americans have always had plenty. But we may be heading for one of the most serious periods in our history. Let me explain."
