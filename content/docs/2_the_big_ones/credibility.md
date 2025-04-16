@@ -29,12 +29,3 @@ Believability may be the most important persuasive element of all. And you've go
 So what's the big deal here? To write with integrity. To only write what you believe. To bring up and answer common questions and objections in a straight-forward, honest, and credible way. Don't hide things. Don't beat around the bush. Don't make shit up.
 
 So there you have it. Your first lesson. Tell the truth. And don’t make shit up.
-
-
-"We all take our food supply for granted. And for good reason. Americans have always had plenty. But we may be heading for one of the most serious periods in our history. Let me explain."
-
-
-
-
-
-By searching for safety I make myself feel unsafe. Do not search for the thing you want. Act. This is playing make believe&mdash;how you make belief. And let that identity fall over you. I dig through the past, rifle through the files, every word, every conversation, every assumption. And in doing so---in searching for the one thing I so desperately crave---I make myself feel unsafe.
