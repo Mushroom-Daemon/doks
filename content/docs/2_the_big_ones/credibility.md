@@ -13,35 +13,21 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-When I first discovered the field of copywriting, I was entranced by the concept "junk mail."
+Junk mail. I was&mdash;and am&mdash;mesmerized by it.
 
-To me, if you could send a stranger a letter, get them to open it, *read it*, and then buy whatever it was you were selling, you weilded a magic power. That magic drew me in and plays its part in holding my interest today. (And I still dream of making it big self-publishing or selling pet rocks through the mail.)
+Send a stranger a letter, get them to open it, *read it*, and then buy whatever you're selling? That's magic. A magic that drew me into the field and remains a part of what holds my interest today.
 
-My interest in the spells those early direct-response marketers were casting are also part of the reason I built this site... To share some of my favorite magic ingredients so you can use them to concoct potions of your own. Before we get into all that, however, I would like to mention something.
+However, not everyone has such a positive view on sales and persuasion. Many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or to trick you into doing something that benefits *them*. And truth-be-told, sometimes those folks are right.
 
-Many people are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen who will do or say anything to win you over to their vantage. And the thing is, sometimes those people are right.
+But as with most things, there is a positive side to that sorcery&mdash;the good witch or wizard that uses these magic ingredients to concoct potions that benefit both parties. It's about having integrity&mdash;pursuing the truth. Your truth and mine and aligning them in a way that inspires the kind of action where both sides win.
 
-Persuasion, on the other hand, is the pursuit of truth&mdash;your truth and mine and aligning those two in a way that inspires positive action. Seek this truth, believe it, and you will find your arguments far more persuasive.
+In other words, don't try to hide things. Don't beat around the bush. Don't make shit up. Bring up questions and objections and answer them in a straight-forward, honest, and credible way. Doing so will make your arguments far more persuasive because they'll be *believable*&mdash;perhaps the most persuasive element of all.
 
-What I'm trying to say is this...
+And when you get down to it, people will do crazy, crazy shit for something they believe in. Heck, they might even read what you wrote.
 
-Write with integrity. Don't hide things, don't beat around the bush, and don't make shit up. It is your job to bring up questions and objections and address them in a straight-forward, honest, and credible way. Doing so makes you more believable---perhaps the most persuasive element of all---and people will do crazy shit for something they believe in. They might even read what you wrote.
+So there you go. Your first lesson. Tell the truth. (And don't make shit up.)
 
-So there you go. Your first lesson. Tell the truth. And don't make shit up.
-
-
+In the next one we'll get to the heart of selling: discovering and appealing to your prospect's deepest desires. Click on through and I'll see you there.
 
 
-
-
-
-Believability may be the most important persuasive element of all. And you've got to understand something: people are smart. They can sniff out the bullshit. ...
-
- On the flip side, people will do crazy shit for something they believe in&mdash;love, this, this… Crazy, crazy shit. (heck, they might even read all of your copy.)
-
-
-
-So t
-
-
-In the lessons that follow, you will learn the basics of persuasive writing. As far as I'm concerened, this is akin to wielding magic&mdash;the magic of finding, channeling, and linking your prospect's inner most desires to your cause or offering in a way that inspires action.
+Seek this truth, believe it, and you will find your arguments far more persuasive.
