@@ -13,15 +13,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Junk mail. I was mesmerized by it. Still am.
 
-Send a stranger a letter, get them to open it, read it, and then buy whatever you’re selling? That’s magic—a magic that drew me into the field of persuasive writing and a big part of what holds my interest today.
 
-But not everyone has such a positive view on the field of persuasion. Many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of dark magic. They’re manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or vote. And the thing is…
 
-Sometimes they’re right.
-
-But as with most things, there is a positive side to that sorcery—the good witch or wizard that uses these magic ingredients to concoct potions that benefit both parties. It’s about having integrity—pursuing the truth. Your truth and mine and aligning them in a way that inspires the kind of action where both sides win.
+## this stuff is where it's at here...
 
 In other words, don’t try to hide things. Don’t beat around the bush. Don’t make shit up. Bring up questions and objections and answer them in a straight-forward, honest, and credible way. Doing so will make your arguments far more persuasive because they’ll be believable—perhaps the most persuasive element of all.
 
