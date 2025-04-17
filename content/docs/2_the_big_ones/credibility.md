@@ -13,11 +13,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Junk mail. I was&mdash;and am&mdash;mesmerized by it.
+Junk mail. I was mesmerized by it. Still am.
 
-Send a stranger a letter, get them to open it, *read it*, and then buy whatever you're selling? That's magic. A magic that drew me into the field and remains a part of what holds my interest today.
+Send a stranger a letter, get them to open it, *read it*, and then buy whatever you're selling? That's magic&mdash;a magic that drew me into the field of persuasive writing and a big part of what holds my interest today.
 
-However, not everyone has such a positive view on sales and persuasion. Many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or to trick you into doing something that benefits *them*. And truth-be-told, sometimes those folks are right.
+ But not everyone has such a positive view on the field of persuasion. Many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or vote. And the thing is...
+
+ Sometimes they're right.
 
 But as with most things, there is a positive side to that sorcery&mdash;the good witch or wizard that uses these magic ingredients to concoct potions that benefit both parties. It's about having integrity&mdash;pursuing the truth. Your truth and mine and aligning them in a way that inspires the kind of action where both sides win.
 

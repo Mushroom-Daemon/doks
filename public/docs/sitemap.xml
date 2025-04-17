@@ -74,6 +74,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://localhost:1313/docs/3_psych_triggers/disarming-honesty/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -92,12 +98,6 @@
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/disarming-honesty/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/edit-for-specificity/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -105,12 +105,6 @@
       </url>
       <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/exclusivity-rarity-or-uniqueness/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/extra-stuff/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -248,19 +242,7 @@
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/research/test/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
         <loc>http://localhost:1313/docs/5_checklists/23-ad-elements/</loc>
-        <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/docs/5_checklists/next-steps/now-what/</loc>
         <lastmod>2023-09-07T16:12:37+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

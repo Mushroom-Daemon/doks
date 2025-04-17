@@ -7,21 +7,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/1_introduction/</loc>
-    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/1_introduction/getting-started/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/2_the_big_ones/</loc>
-    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/docs/2_the_big_ones/writing-with-integrity/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -37,16 +22,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/</loc>
-    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/blog/example-post/</loc>
     <lastmod>2023-09-07T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,6 +29,36 @@
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-09-07T16:21:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/1_introduction/</loc>
+    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/1_introduction/getting-started/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/2_the_big_ones/</loc>
+    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/</loc>
+    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/disarming-honesty/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -68,11 +73,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/5_checklists/</loc>
-    <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/5_checklists/next-steps/now-what/</loc>
     <lastmod>2023-09-07T16:12:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -132,11 +132,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/disarming-honesty/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/docs/3_psych_triggers/edit-for-specificity/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -148,11 +143,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/3_psych_triggers/exclusivity-rarity-or-uniqueness/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/extra-stuff/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -278,11 +268,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/3_psych_triggers/tell-your-prospect-why/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/research/test/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

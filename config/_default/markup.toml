@@ -31,3 +31,6 @@ defaultMarkdownHandler = "goldmark"
   endLevel = 3
   ordered = false
   startLevel = 2
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
