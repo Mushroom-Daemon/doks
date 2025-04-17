@@ -15,8 +15,6 @@ seo:
 ---
 
 
-***(maybe the deal here is to think about the most important bits then break then emotional outpouring then edit)***
-
 Sell the market what they want. Not what you want to sell. (If you want to make a living, that is.)
 
 The prospect, their needs and wants comes first. It's that simple.
@@ -53,7 +51,6 @@ ASK customers what is important to them about your product. Test different emoti
 
 incentives:
   1. figure out what people really care about—not what they say they do
-  2. incentivize on what is valuable to them and cheap to you
   3. pay attention to how people respond; keep experimenting
   4. switch from adversarial to cooperative incentives (whatever that means)
   5. never ever think people will do something because it's the "right" thing to do

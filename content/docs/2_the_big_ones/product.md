@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-I live in this great little east coast town. It's super walkable and has cool brownstone neighborhoods. My family and I live in a rowhome tucked away in an alley a block down the road from a local ice cream shop. Sometimes when it's nice I bring my sons there after school.
+I live in this great little east coast town. It's super walkable there's a local ice cream shop only a block from my house. Sometimes when it's nice I bring my sons there after school.
 
 Now, the thing with ice cream is that it's food. But unless you're selling some weird organic froyo shit, no one buys ice cream for its nurtitional value. I certainly wasn't thinking about nourishing my children's growing bodies. I was thinking about us having a nice time, them being happy&mdash;being happy with *me*.
 

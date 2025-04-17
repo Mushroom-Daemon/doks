@@ -42,6 +42,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/blog/example-post/</loc>
     <lastmod>2023-09-07T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -187,11 +192,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/identify-and-belonging/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/docs/3_psych_triggers/instant-gratification/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -237,6 +237,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/patterning/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/docs/3_psych_triggers/proof-of-value/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -263,11 +268,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/writing/writing_tips/simplicity/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/so-easy-a-monkey-could/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

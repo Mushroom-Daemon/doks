@@ -74,6 +74,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/a-sense-of-urgency/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -146,12 +152,6 @@
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/identify-and-belonging/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/instant-gratification/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -194,6 +194,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://localhost:1313/docs/3_psych_triggers/patterning/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/proof-of-value/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -207,12 +213,6 @@
       </url>
       <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/sell-cures-not-preventions/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/so-easy-a-monkey-could/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

@@ -68,6 +68,8 @@ Thjis is good. This is bad. make sure…
 
 CTA: I'M READY FOR MORE SALES
 
+Looking for premium products at discount prices? Swing by King's for top-tier products for less. Because you never know what's in store.
+
 
 Don’t let key details go missing. With Precise Builder, you can run your exterior contracting business with confidence—using simple tools that keep everything your crews need in one place.
 

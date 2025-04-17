@@ -32,3 +32,5 @@ The key story. My guilt for breaking the key... a fix that did not even need to 
 what did someone give me that created a sense of obligation? Tell that story. Then ask them to tell theirs?
 
 What can you provide that costs very little but leaves people feeling indebted to you? What will make them want to buy?
+
+signed up for one of their classes, donated a bike,
