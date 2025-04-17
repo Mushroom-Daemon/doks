@@ -129,3 +129,8 @@ Tips:
 * Rearrange thoughts
 
 Try to find periodicials and remove as many words as possible.
+
+
+
+EDITING
+Edit for specificity <link>

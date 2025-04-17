@@ -37,6 +37,9 @@ First
 
 As you can see, coaching can be well worth the upfront investment. You just need to make sure of two things&mdash;<mark>The next of which we'll cover right now</mark>.
 
+
+for eyesight, blue is not a good color too. <mark>There are several reasons<mark>. First...
+
 ==But almost immediately, something strange happened==.
 
 Bold, gut-wrenching copy. (==Which you'll see in a moment==.)
