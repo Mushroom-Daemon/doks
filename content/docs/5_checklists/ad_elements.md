@@ -16,6 +16,9 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+***checkist*** my shortlist" include "concessions"
+
+
 23 COPY ELEMENTS TO REVIEW FOR EVERY AD
 
   1. typeface: use serif. choose typeface for greatest comprehension possible. then, second (by a long shot) what conveys the image of the company

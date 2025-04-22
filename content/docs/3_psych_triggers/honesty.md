@@ -84,3 +84,10 @@ can they use something else? do they have other options?k
 Ideas…
 
   • Include negative reviews and flaws (and then, of course, show why those reviews aren't that bad at all. The "Too Advanced" review.
+
+
+It’s true.
+
+There are a lot of cabinet businesses. And when it comes to custom built cabinetry in Lancaster, PA, you have plenty of options.
+
+But by choosing Twin Valley Woodcrafts, you’re choosing a family-owned and operated custom cabinet manufacturer based in the heart of Amish Country—Lancaster, PA. And we’re still a small company—which is a good thing because you get a personal touch and one-on-one relationship with a custom cabinet builder who cares about you and your home.
