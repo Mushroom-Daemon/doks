@@ -15,7 +15,9 @@ seo:
 ---
 After you've written your copy, read through and make your claims more specific. Be exacting in your explanations of why things are and how they work. Doing so makes you seem more credible... And as a result, *believable*!
 
-Here are a few examples:
+Here are a few examples.
+
+### Example 1
 
 > *"New dentists everywhere use and recommend CapSnap toothpase."*
 
@@ -23,8 +25,7 @@ vs.
 
 > *"92 percent of dentists use and recommend..."*
 
-
----
+### Example 2
 
 > *"Your feet are filled with nerve endings."*
 
@@ -32,7 +33,7 @@ vs.
 
 > *"There are 72,000 nerve endings in the bottom of your feet."*
 
-And here's one more...
+### Example 3
 
 > *"BluBlocker sunglasses let you see clearer, sharper, and with more definition."*
 
@@ -41,3 +42,7 @@ vs.
 > *"... blue rays have one of the shortest wavelengths in the visible spectum (red is the longest). As a result, the color blue will focus slightly in front of the retina which is the "focusing screen" in your eye. By blocking the blue from the sunlight through a special filtration process, and only letting those rays through that indeed focus clearly on the retina, object appear to be sharper and clearer.*
 >
 > *The second reason...*
+
+### Action
+
+Where can you be more specific in your copy?
