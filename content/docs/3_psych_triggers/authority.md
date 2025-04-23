@@ -1,11 +1,11 @@
 ---
-title: "Authority"
+title: "Establish Authority"
 description: "Proving you've got what it takes to solve your prospect's problem."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 910
+weight: 302
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -16,19 +16,23 @@ seo:
 
 A little while back I decided I wanted to buy myself a bike. After poking around online, I found a model I liked and went to a local shop to see if they could order for me.
 
-When I got to the shop, I was excited to find they actually had a few in stock. I rode one around for a bit and thought it was great fun. The colorway I wanted was sold online&mdash;and I was hoping to take advantage of a Black Friday deal&mdash;and they were totally cool with all that. They'd let me place the order through the shop and then assemble the bike for me when it arrived... Which ended up being kind of a hassle.
+When I got to the shop, I was excited to find they had a few in stock. I rode one around for a bit and found it great fun. They didn't have the color I wanted, so the shop placed an order for me online.
 
-For starters, the manufacturer sent the wrong bike.  so they had to pack it back up and return it. Then, the sent the right bike, but I became the problem. For some reason, it felt too big for me. I couldn’t stand over the bike without getting racked, for one. And the whole thing just felt too big. I was going back and forth and back and forth until someone set me straight.
+When the bike finally arrived&mdash;after the manufacturer first sent the wrong one&mdash;I excitedly rode it home. However, in riding it around the neighborhood, I couldn't help but feel a little buyer's remorse.
 
-It was my mailman. He saw me whip around the corner on my new wheels and wanted to talk all about it. This guy, Louie, to me, is an expert. He walks something like eight hours a day, and when he isn't on foot, he's riding around town on his road bike or cargo bike. The dude knows and loves bikes, something he made clear while admiring my new whip.
+I felt like the frame was the wrong size for me. They had two sizes in the shop&mdash;the size I had ordered and a larger one&mdash;and this felt the best of the two. However, I was feeling like an even smaller size would suit me and was kicking myself for not having thought of that sooner.
 
-I told him I was self-conscious about the size choice. He asked if it was because I thought it was too big, which I did. I then explained my complaints to him and he said he believes a person should love their bike---that way they'll ride it. And I should go through the hassle of returning it. So I did.
+I went back and forth for awhile and didn't know what to do. I didn't want to be a burden to the shop any longer (they had already put up with me going back and forth while making the initial decision) but I also didn't want to regret my decision. I was stressed. Until someone set me straight.
 
-His authority and strong opinion on the matter---just knowing and loving bikes---helped me make a tough decision with confidence. His reassurance made it okay for me to go with what I thought. I took his advice and now I have a bike I love--and his my
-mailman's expert validation and reassurance played no small part in that. Your job as copywriter (or business leader or marketer or whoever) is to provide that reassurance.
+It was the mailman. He saw me whip around the corner on my new wheels and was eager to talk shop. He admired the frame, the wheel size, the build and colorway... And in the process demonstrated his deep interest and authority on the subject of bikes.
 
+I told him I was self-conscious about the size choice. He asked if it was because I thought it was too big, which I did. He then said to me that while I would probably get used to the bike, he believes that everyone should *love* their bike. His opinion was that I should go through the hassle of returning it and getting a new one. So I did.
 
-Be the knowledgeable friend, the neutral third-party that wants you to appreciate the money you've spent. You do this by establishing yourself as an authority---by reassuring them that you can solve their problem.
+His knowledge and strong opinion on the matter helped me make a tough decision with confidence. That reassurance was priceless, and now I have a bike I love. Your job as kickass copywriter is to provide that reassurance.
+
+That means being the knowledgeable friend. *Knowing what you're talking about*. Being the knowledgeable friend who wants you to appreciate the money you've spent. This means establishing yourself as an *authority*. here are a few ways how.
+
+###
 
 
 
@@ -99,7 +103,7 @@ biggest? smartest? most well-equipped? (only proton therapy in PA) hardest worki
 
 
 
-HOW TO USE A STRAP-ON, ACCORDING TO QUEER SEX EXPERTS
+HOW TO USE A STRAP-ON, ACCORDING TO QUEER SEXPERTS
 
 
 
@@ -110,7 +114,7 @@ YOU MIGHT DO THIS ONCE IN YOUR LIFE––WE DO IT EVERYDAY
 Social Proof
 
 BACK BY POPULAR DEMAND
-tell stories of your customer's successes
+
 
 Testimonial headlines
 

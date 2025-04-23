@@ -52,7 +52,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/disarming-honesty/</loc>
+    <loc>http://localhost:1313/docs/3_psych_triggers/disarm-with-honesty/</loc>
+    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/3_psych_triggers/establish-authority/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -98,11 +103,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/writing/writing_tips/ad_flow/</loc>
-    <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/authority/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -212,7 +212,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/3_psych_triggers/patterning/</loc>
+    <loc>http://localhost:1313/writing/writing_tips/patterning/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

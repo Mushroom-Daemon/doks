@@ -14561,5 +14561,8 @@ body {
   background-color: {{ site.Params.doks.backGround }};
 }
 */
+img {
+  width: 100%;
+  height: auto; }
 
 /*# sourceMappingURL=main.css.map */
