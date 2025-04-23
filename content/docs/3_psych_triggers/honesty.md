@@ -16,16 +16,26 @@ seo:
 
 What is this about? Trust. If they trust you, you're in.
 
-* this is my favorite persuasive element
-* people want to buy from someone they trust---they'll pay a premium for it
-* This makes you believable
-* That may be the most persuasive element of all
-* people are smart. they will have doubts. bring them up in the beginning
-* get them thinking... "Can I commit to this?" If they're thinking about your product... GOOD!
+Here's the bottom line.
+
+People want to buy from someone they trust&mdash;and they'll pay a premium for it.
+
+This brings us to my favorite persuasive element: honesty. But the key to lowering your prospect's defenses takes more than simply telling the truth. You have to tell the truth about your shortcomings.
+
+When you are honest about potential shortcomings, it makes you *believable*&mdash;perhaps the most persuasive element of all.
+
+I like to think about it like telling someone your red flags in the beginning of a relationship. It gets them thinking, "Can I commit to this?"
+
+And if they're thinking about you (or your product), that's good.
+
+
+
+
 
 
 ### Don't
 * hide things (it won't work)
+* people are smart. they will have doubts. bring them up in the beginning
 * beat aroundthe bush
 * make shit up
 
@@ -36,23 +46,19 @@ What is this about? Trust. If they trust you, you're in.
 * be simple, truthful, frank... esp about shortcomings
 * total transparency
 
-### Darlings
-* And when you get down to it, people will do crazy, crazy shit for something they believe in. Heck, they might even read what you wrote.
+### Example 1: Precise Builder
 
+> *Learning a new software takes time and effort&mdash;and Precise Builder is no different. Let our team walk with you until your crews are completely comfortable. If after six months Precise Builder hasn’t become one of the most valuable tools at your company, we’ll give you your money back&mdash;and help you find a different software.*
 
-### Example 1 Precise Builder
+### Example 2: Smucker Exteriors
 
-Learning a new software takes time and effort&mdash;and Precise Builder is no different. Let our team walk with you until your crews are completely comfortable. If after six months Precise Builder hasn’t become one of the most valuable tools at your company, we’ll give you your money back&mdash;and help you find a different software.
+> *There’s no question about it. Upgrading your home is an investment. And truth-be-told, Smucker Exteriors sometimes comes in higher than the competition. There’s a reason for that.*
+>
+> *Because we quote fair prices for service that goes above and beyond. And we’re legit&mdash;our employees are vetted at the highest possible level. The guys have integrity.‍*
+>
+> *To be fair, you should shop around to make sure you’re getting the best deal. But before you go with the lowballers, ask if they’re PA licensed and fully insured. If not, it could come back to haunt you.*
 
-### Example 2 Smucker Exteriors
-
-There’s no question about it. Upgrading your home is an investment. And truth-be-told, Smucker Exteriors sometimes comes in higher than the competition. There’s a reason for that.
-
-Because we quote fair prices for service that goes above and beyond. And we’re legit&mdash;our employees are vetted at the highest possible level. The guys have integrity.‍
-
-To be fair, you should shop around to make sure you’re getting the best deal. But before you go with the lowballers, ask if they’re PA licensed and fully insured. If not, it could come back to haunt you.
-
-### Example 3 Twin Valley Woodcrafts
+### Example 3: Twin Valley Woodcrafts
 
 It’s true.
 
@@ -64,6 +70,8 @@ But with Twin Valley Woodcrafts, you’re choosing a family-owned and operated c
 
 Include negative reviews and flaws (then, of course, show why the reviews aren't bad at all)
 
+![One Star](/images/one_star_review.jpg "One Star Review")
+
 ### Action Items
 
-What concessions can you make about your product? What stinks about it? Bring this up first in your copy!
+What concessions can you make about your product? What stinks about it? List all objections on a side of paper and then resolve those, turning them into opportunities. Show how they are minor... Or how a certain kind of person would benefit from that. Or overshadow them. Bring this up first in your copy!
