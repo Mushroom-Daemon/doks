@@ -24,17 +24,25 @@ This brings us to my favorite persuasive element: honesty. But the key to loweri
 
 When you are honest about potential shortcomings, it makes you *believable*&mdash;perhaps the most persuasive element of all.
 
-I like to think about it like telling someone your red flags in the beginning of a relationship. It gets them thinking, "Can I commit to this?"
+I like to think about it like this:
+
+Telling someone your red flags in the beginning of a relationship. It might seem like a liability, but it gets them thinking...
+
+"Can I commit to this?"
 
 And if they're thinking about you (or your product), that's good.
 
+### How to Be Honest
 
+If you don't know how to be honest, this may not help. But here goes anyways.
+
+**Don't** try to hide shortcomings. People are smart. They will have doubts and be able to see straight through to what you're skating around.
 
 
 
 
 ### Don't
-* hide things (it won't work)
+
 * people are smart. they will have doubts. bring them up in the beginning
 * beat aroundthe bush
 * make shit up
