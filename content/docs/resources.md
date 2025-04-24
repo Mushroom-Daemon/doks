@@ -15,3 +15,7 @@ seo:
 ---
 
 Link to valuable, relevant resources.
+
+
+### Taglines
+They'll fight over it when they're dead.

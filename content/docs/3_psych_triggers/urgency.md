@@ -16,15 +16,15 @@ seo:
 ## Creating a Sense of Urgency
 A while back I had this girlfriend. We had a lot of fun, but she was hesitant to commit to me. No matter what I tried, she just wouldn't become "official."
 
-Then, there was this other time—with another girlfriend—and I was the one having a hard time committing to *her*. We had a great time together, all systems go, but I couldn't help but wonder what else was out there...
+Then, there was another time&mdash;with another girlfriend&mdash;and *I* was the one having a hard time committing to *her*. I just couldn't help but wonder what else was out there...
 
-In both relationships, a committment was finally made. But SOMETHING WAS NEEDED TO. Can you guess what it was? I'll tell you.
+Both relationships eventually led to committment. But something needed to happen first. He's what tipped the scales...
 
 A breakup.
 
 And both times the dumper came crawling back.
 
-When we feel like we might lose something—especially when we perceive that thing as being good for us—the game changes. Suddenly, it's time to shit or get off the pot. And we might just realize we have to shit *real bad*.
+Humans are funny. We sometimes don't appreciate what we have. But, man, when there's a threat of it being taken away, we sure want to hold on tight. The time to shit or get off the pot is over, and with no bathroom in sight, we realize we've got to shit *real bad*.
 
 A feeling of scarcity is a powerful motivator—one you're wise to exploit in every piece of copy you write. I'll tell you why.
 

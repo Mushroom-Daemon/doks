@@ -13,6 +13,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+* When we buy, it's an emotional decision, but we have to be able to justify that cost
+* I do this with girlfriends. I stick with them because of some underlying emotional need... but I do a good job of explaining to myself why it's a good idea when the doubt creeps in
+* Proving the value of your product is a great way to provide that justification
+
 note for me: do we offer the proof of value here? You want them to feel like they are getting value. Is that different than justifying the purchase?
 
 ## Justify the Purchase

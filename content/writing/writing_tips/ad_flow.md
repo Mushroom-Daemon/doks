@@ -13,7 +13,11 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency. As does you copy. To get them to feel that way, feel that way. Maybe this goes with "emotion sells."
 
+In fact, every element is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
+
+METHOD WRITING. BE THAT PERSON!
 
 * The point is to anticipate next questions and answer (or tease) it
 * Write headline. Will it grab reader?
