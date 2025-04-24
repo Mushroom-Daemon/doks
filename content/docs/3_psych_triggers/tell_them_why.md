@@ -37,3 +37,5 @@ Our president, on the other hand, does not get paid for endorsing products–jus
 
 
 Explain everything: why does shipping cost that much. be an annoying kid, keep asking why. my shipping, I ship media mail to keep costs low, it takes a week.
+
+I have something for sale. It normally costs $750K. I'll sell it now for $150K. (Value/Greed) Why? (Tell them why.) Because someone left a huge deposit and bailed. It's the missing person sale. You cover the rest and we're all good here. (Scarcity---once only. Greed.)

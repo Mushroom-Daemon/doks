@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 304
+weight: 309
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -22,7 +22,7 @@ And it's not just because she's pretty and I liked her smile. Oh no, her psychol
 
 And I will never forget it.
 
-The thing is, we like what we know. When we're familiar with something&mdash;a neighborhood, an operating system, an old beater automobile&mdash;we just like it. If you want to write kickass copy that persuades, people liking you is going to make a big difference.
+The thing is, we like what we know. When we're familiar with something&mdash;a neighborhood, an operating system, an old beater automobile&mdash;we just plain like it. Getting people to like you and your kickass copy makes a big difference.
 
 I actually stole megsquats into idea for a newsletter and video series I used to put out about trumpeting. I opened every letter and video by saying (or writing) "Hello my trumpet playing friends," and closed each with the saying "Happy trumpeting!" And it worked.
 
@@ -30,7 +30,7 @@ People loved it. They would respond to me all the time and sign their emails wit
 
 The bottom line here is *being known*. Joe Sugarman, the copywriter who I learned many of these psychological triggers from served some time in the military. He wanted to be known&mdash;and liked&mdash;among the commanding officers. To achieve this, he gave their children bubble gum every day and said...
 
-*"Don't tell anybody Mr. Sugarman gave you this gum. That's Mr. Sugarman. remember, Mr. Sugarman did not give you this gum."*
+*"Don't tell anybody Mr. Sugarman gave you this gum. That's Mr. Sugarman. Remember, Mr. Sugarman did not give you this gum."*
 
 In other words, you want to be known, be liked, a familiar face in the crowd. It'll make folks comfortable with you&mdash;and all that more interested in what you have to say.
 
@@ -44,6 +44,7 @@ Here are a few ways you can do that in your kickass copy. What others will you c
   * "When you do, you're in for a treat!" (John Rose)
   * "Rooting for you" (Integro)
   * "All good wishes and (always!) higher response" (Gary Bencivegna)
+  * Kickass copy
 * Familiar words or numbers like "Bible" or "The Seven... "
 
 Write something and post it and make it clear who wrote it.

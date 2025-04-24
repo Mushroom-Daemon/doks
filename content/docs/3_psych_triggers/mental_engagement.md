@@ -13,12 +13,15 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+##### Sometimes, it pays to be vague.
 
-AKA, sometimes, be   vague.
+### Heading for Formatting
 
-I recently took a trip to southern California. While there, my girlfriend and I were visiting some friends and bopping around the Los Angeles area. I had lived there for about nine years, and she had some friends in town, as well.
+I recently took a trip to southern California. My girlfriend and I were visiting old friends and bopping around the Los Angeles area, where I had lived for nine years before moving to the amazing town of Lancaster, PA.
 
-While there, we borrowed a car from a close friend of hers sister. It was an old Corolla and I loved driving it, and drove it as if it were my own. We picked up the car the evening we arrived and then drove it to the apartment where we would be staying.
+While we were out there, we borrowed a car from a friend of hers (my girlfriend's). It was an old Corolla and I loved driving it. It reminded me of the piece of shit I used to cruise down the freeway on and drove it as if it were my own.
+
+We picked up the car on the first evening of our arrival. The next morning, however, we didn't need the car as a friend of mine was coming to pick us up for some galavanting about town.
 
 The next morning, we had plans to hangout with a friend of mine who lived close by. He offered to come pick us up and take us wherever we'd like to go. I was wearing a puffer coat and the pockets were stuffed to the gills with multiple key sets, trash from reciepts and gum wrappers, my wallet, etc. I was tired of carrying all that crap around and decided to streamline my pocket contents before we took off.
 

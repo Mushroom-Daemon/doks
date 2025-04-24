@@ -1,11 +1,11 @@
 ---
-title: "A Sense of Urgency"
+title: "Create A Sense of Urgency"
 description: "How to create a sense of urgency in your copy."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 910
+weight: 304
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -20,32 +20,54 @@ Then, there was another time&mdash;with another girlfriend&mdash;and *I* was the
 
 Both relationships eventually led to committment. But something needed to happen first. He's what tipped the scales...
 
-A breakup.
+A breakup...
 
-And both times the dumper came crawling back.
+And both times the dumper came crawling back for more.
 
-Humans are funny. We sometimes don't appreciate what we have. But, man, when there's a threat of it being taken away, we sure want to hold on tight. The time to shit or get off the pot is over, and with no bathroom in sight, we realize we've got to shit *real bad*.
+Humans are funny. We sometimes don't appreciate what we have in the moment, but man, oh man, when there's a threat of it being taken away, we sure can hold on tight. The time to shit or get off the pot is over, and with no bathroom in sight, suddenly we've got to shit *real bad*.
 
-A feeling of scarcity is a powerful motivator—one you're wise to exploit in every piece of copy you write. I'll tell you why.
+As a kickass copywriter, you must use this to your advantage. Because even after the perfect pitch, the most incredible offer (like getting to be my girlfriend) people might not take the bait...
 
-Because even after the perfect pitch, an unbelievable offer, people won't take action. They'll want to think it over. They'll hem and haw. They'll move on. So you have to find a way to spur them into action. Otherwise...
+They'll want to think over their options. They'll hem and haw. They'll move on. *They'll probably find themselves another boyfriend or girlfriend.* Unless you do one thing.
 
-They *need* to be tipped over the edge
+Stoke the fire with the fear of loss. Motivate your prospects with a feeling of scarcity. Do it in every piece of kickass copy you write.
 
-They'll probably find themselves another boyfriend or girlfriend...
-
-Stoke the fire with the fear of loss. Give your prospects a reason to buy *now*. Do it every time. The possibilities for doing so are limited only by your imagination.
-
-Here are a few examples to get you started.
+Here are a few ideas to get you started.
 
 ## Swipes
 
-more scarcity stuff:
+* Deadlines
+* Limited supplies/product shortages
+* Limited time price opportunity
+* Closeout sales
+* Limited editions
+* Special add-ons for buying now
+* Items are selling FAST
+* Current customers getting first dibs before the rest of the masses
+  * *"Properties like these sell pretty fast. I wanted to show you guys first."*
 
-"I screwed up, the price is supposed yto be 69 bucks, not 49, but if you respodnd before Friday, you can have it for 49."
 
-If you take something people want, and suddenly lower the price, they will buy it.
 
-This is specific scarcity...
+![Breakthrough Advertising](/images/breakthrough2.png "Only a few copies left worldwide")
 
-I have something for sale. It normally costs $750K. I'll sell it now for $150K. (Value/Greed) Why? (Tell them why.) Because someone left a huge deposit and bailed. It's the missing person sale. You cover the rest and we're all good here. (Scarcity---once only. Greed.)
+(The above example is almost certainly a lie (which means it fails the first rule of kickass copy LINK) but it worked on me. I persuaded the department LINK to buy it for my personal library for $200. It's a great book.)
+
+{{< callout note >}} The company Brooklinin&mdash;a linen manufacturer based out of Brooklyn&mdash;really drives the scarcity home. Here are a handful of their email subject lines. I guess selling sheets is scary business.
+
+* THIS WILL ONLY HAPPEN ONCE&mdash;*TAKE ADVANTAGE NOW*
+* WE DON’T WANT YOU TO MISS OUT ON THESE SAVINGS
+* SHOP NOW BEFORE OUR BEST SELLERS RUN OUT
+* LIMITED EDITION: NEW SILK SELLING FAST
+* [SOMETHING] BEFORE IT’S TOO LATE
+* [SOMETIMES] IS ALMOST GONE
+* SELLING FAST: [SOMETHING]
+* DON’T LET THESE SAVINGS SLIP AWAY
+* LAST CALL: [SOMETHING]
+
+Obviously, [SOMETHING] was usually cozy flannels or high threadcount pillow cases or... Use at your discretion.
+
+{{< /callout >}}
+
+### Action Items
+
+What **legitimate** reason do you have for urging your customers to act now? What incentives can you offer? There's always something&mdash;Be creative!

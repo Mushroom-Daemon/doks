@@ -1,5 +1,5 @@
 ---
-title: "Writing with Integrity"
+title: "The First Rule of Kickass Copy"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -17,7 +17,7 @@ Junk mail. I was mesmerized by it. Still am.
 
 Send a stranger a letter, get them to open it, *read it*, and then buy whatever you're selling? That's magic&mdash;a magic that drew me into this field years ago and a big part of what holds me here today.
 
- But not everyone has such a positive view on the topic of persuasion. Many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or vote. And here's the thing.
+ But not everyone has such a positive view on the topic of persuasion. In fact, many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or vote. And here's the thing.
 
  Sometimes they're right.
 

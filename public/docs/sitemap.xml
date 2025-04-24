@@ -35,13 +35,6 @@
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
-    <url>
-      <loc>http://localhost:1313/docs/resources/</loc>
-      <lastmod>2024-02-27T09:30:56+01:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
     <url>
         <loc>http://localhost:1313/docs/1_introduction/getting-started/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
@@ -49,7 +42,7 @@
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/2_the_big_ones/writing-with-integrity/</loc>
+        <loc>http://localhost:1313/docs/2_the_big_ones/the-first-rule-of-kickass-copy/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -85,6 +78,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://localhost:1313/docs/3_psych_triggers/create-a-sense-of-urgency/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/be-a-familiar-face/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -98,12 +97,6 @@
       </url>
       <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/a-sense-of-urgency/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -188,6 +181,12 @@
       </url>
       <url>
         <loc>http://localhost:1313/docs/short_swipes/one-liner/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/docs/short_swipes/taglines/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
