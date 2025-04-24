@@ -79,6 +79,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>http://localhost:1313/docs/3_psych_triggers/show-proof-of-value/</loc>
+        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/self-identify-and-belonging/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -170,12 +176,6 @@
       </url>
       <url>
         <loc>http://localhost:1313/docs/3_psych_triggers/news-fads-current-affairs/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>http://localhost:1313/docs/3_psych_triggers/proof-of-value/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
