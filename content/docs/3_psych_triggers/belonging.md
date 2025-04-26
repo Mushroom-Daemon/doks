@@ -54,3 +54,5 @@ However someone sees themselves, *treat them that way* in your copy.
 ### Action Items
 
 Determine the group of people who already own your product and why/how they relate to it and see themselves. Craft your sales presentations accordingly.
+
+What group can you ask them to join? (Walnut Valley Puppies)
