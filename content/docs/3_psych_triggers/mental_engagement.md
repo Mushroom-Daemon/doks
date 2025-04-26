@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 910
+weight: 306
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -17,42 +17,44 @@ seo:
 
 ### Heading for Formatting
 
-I recently took a trip to southern California. My girlfriend and I were visiting old friends and bopping around the Los Angeles area, where I had lived for nine years before moving to the amazing town of Lancaster, PA.
+I recently took a trip to southern California. My girlfriend and both had friends in the area and we spent a week bopping around Los Angeles.
 
-While we were out there, we borrowed a car from a friend of hers (my girlfriend's). It was an old Corolla and I loved driving it. It reminded me of the piece of shit I used to cruise down the freeway on and drove it as if it were my own.
+If you're familiar with LA, you probably know you need a car to get around. Luckily, we were able to borrow one from a friend of hers (my girlfriend's). It was a 2003 Toyota Corrola (we took the trip in 2025). I loved it. It reminded me of the piece of shit I used to cruise down the freeways on (but this one had power windows and an automatic transmission) and drove it as if it were my own.
 
-We picked up the car on the first evening of our arrival. The next morning, however, we didn't need the car as a friend of mine was coming to pick us up for some galavanting about town.
+We picked up the car on the evening of our arrival. The next morning, however, we didn't need the car as a friend of mine was coming to pick us up. That turned out to be a problem.
 
-The next morning, we had plans to hangout with a friend of mine who lived close by. He offered to come pick us up and take us wherever we'd like to go. I was wearing a puffer coat and the pockets were stuffed to the gills with multiple key sets, trash from reciepts and gum wrappers, my wallet, etc. I was tired of carrying all that crap around and decided to streamline my pocket contents before we took off.
+When he arrived, I was wearing a puffer coat. (It was the morning in socal, afterall). My pockets were stuffed to the gills with trash, keys, my wallet... all sorts of crap. I decided to clean them out before we left.
 
-Wanting to separate the borrowed keys from all the garbage in my pockets, I set those on top of the car. Then, I threw some garbage in a nearby trashcan, put my phone and wallet in my backpack and then got into the passenger seat. All set to go, we took off for his home about (a mile and a half away.)
+I set the car keys on top of the car and then threw away all the garbage I had been carring around in a nearby trashcan. Then, I put my phone and wallet into my backpack and got in the car. We were off.
 
-We chilled awhile at his house, caught up, he got to know my girlfriend, and then I suggested we head up the freeway to a neighboring town. We needed groceries and this buddy of mine used to head up that way together to hang. About halfway up the freeway, I had an urge to make sure I had all my belongings. Phone, keys, wallet, the trifecta. Phone, check. Wallet, check. Borrowed car keys...
+My buddy lived about a mile and a half away in northwest Pasadena. After chilling at his house awhile catching up on the local scene, I asked if we could make a run to the grocery store a bit up the 210 freeway in La Canada. Him and I used to hangout at a coffee shop up there, and I thought it would be fun. We also needed some food.
 
-I dug around in my bag, in my pockets, around me in the car, staving off panic [uplay emotion] and then my buddy said it. "You know what, I saw you put them... "
+About halfway up the freeway, I felt an urge to check for my belongings. Phone, keys, wallet: the trifecta. I dug into my backpack and there was my phone, right in the top pocket. I dug around a little more and put my hand on my wallet. And then dug around some more and some more and some more and started to panic. I couldn't find the car keys.
 
-Where are the keys?
+Then my buddy said:
 
----
+"You know what, I saw you put them... "
 
-Imagine I told you that same story, but instead it went like this.
+### Another Heading of Sorts
 
-I put the keys on top of the car and left them there and we drove away and i didn't realize they were missing until later.
+If you've been paying attention, I imagine you know where I left the keys. If not, well, go back and try again. I'll reveal what happened to those keys in a later lesson, but for now, imagine I told you the same story, but instead a key scene (*ahem*) went something like this: (**Spoiler Alert**)
 
-Doesn't have quite the same punch, eh?
+*"Emptying out my pockets, I put the keys on top of the car and left them there when we drove away. I didn't realize they were missing until later."*
 
-The more the mind works to reach a successful conclusion, the more positive, enjoyable, or stimulating the experience.
+Doesn't have quite the same punch, eh? Here's why.
 
-Working hard creates a great deal of personal satisfaction. Me and the ET4T, for example.
+As a reader, when you come to a conclusion on your own, it feels good. Reaching that successful conclusion on your own gives you a little boost. You're experiencing the story in a different&mdash;more engaging&mdash;way.
 
-What do you want to tell the reader? *Make that a conclusion they come to own their own*.
+See if you can use this strategy to make your copy that much more kickass. Let me explain how.
 
---
+Ask yourself what you want to tell your reader. Then, see if you can find a way to have them come to that conclusion *on their own*. Man oh man does it work. And man, oh man, is it one of my most favorite things to do.
 
-"The Seiko chronograph alarm sells for $300. The watch costs jewelers $150. And jewelers love the item, not only because of the excellent reputation of the Seiko brand,but because it's probably America's best selling new expensive digital watch. And Seiko can't supply enough of them to their dealers."
+Here's an example from an ad written by Joe Sugarman.
 
-^ what isn't being said here?
+> *"The Seiko chronograph alarm sells for $300. The watch costs jewelers $150. And jewelers love the item, not only because of the excellent reputation of the Seiko brand, but because it's probably America's best selling new expensive digital watch. And Seiko can't supply enough of them to their dealers."*
 
-Don't spoon feed it. Let people be smart.
+Why do the jewelers *really* love the watch? See how smart you are?
 
-If you are trying to present a *conclusion* don't spell it out. Let people come to it on their own.
+### Action Items
+
+Bottom line: let people be smart. Be vague sometimes, letting your reader come to the conclusion you want by their own intellegince. They'll lap that shit up. And like you&mdash;and your kickass copy&mdash;all the better for it.

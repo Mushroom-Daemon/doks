@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 910
+weight: 310
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,40 +13,41 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+##### No copy is kickass without this. (It can double response.)
 
+### Headline
 
-(maybe I should intro this as the agreement in the S.B. framework)
+Here's the deal. Even after the perfect pitch, readers may still have hesitations. Why? Because it's natural to worry about whether or not you're making the right choice (relationships, amirite?). So to make you copy that much more kickass, you need to obliterate that worry. You do that with your satisfaction conviction.
 
-After you've explained your offer, many buyers will still be on the fence. Naturally, we all have hesitations or worries and want to make sure we're making a wise choice. This makes part of your job as copywriter taking those worries and obliterating them. You do this with your Satisfaction Conviction.
+The Satisfaction Conviction is the written version of a late-night television salesman saying "I'm so *convinced* you'll love this product, I'm going to do something *CRAZY*." It's a complete risk-reversal, where you show your clients, without the shadow of a doubt, they have nothing to lose. Done right, your satisfaction conviction should make your prospects think:
 
-Naturally, we all have our worries. Your job is to take that worry away.
+* Your product or service must truly be phenomenal
 
-The Satisfaction Conviction is the late-night television salesman saying "I'm so convinced you'll love this product, I'm going to do something crazy." It's a complete risk-reversal, where you show your clients they have nothing to lose.
+and/or...
 
-Done right, your satisfaction conviction should make your prospects think:
+* You (the offerer) are going to get ripped off
 
-  • Your product or service must truly be phenomenal
+Here's an example from outdoor retailer, REI.
 
- and/or…
+### Example: REI (Recreational Equipment Incorporated)
 
-  • You (the supplier) are probably going to get taken advantage of
+> **100% Satisfaction Guarantee**
+>
+> *We stand behind everything we sell. If you are not satisfied with your purchase, you can return it for a replacement or refund&mdash;with a few exceptions&mdash;within one (1) year of the purchase date if you are an REI Co-op Member or within 90 days of your purchase if you are not a member.*
 
-For a great example of a Satisfaction Conviction, check out REI's return policy:
+What makes this return policy so great is not just its length&mdash;a generous year long return window, but that the great can be returned *used*. Try the gear for a full year. Give it hell. Don't love it after that, bring it back.
 
-WRITE MY EXAMPLE OF PRECISE BUILDER.
-
-What makes this return policy so great is not just its length---a generous year long return window (more on that in a minute), but that the great can be returned used. They're essentially letting member kick the tires out in the real world for a full year. Try it out. Give it hell. If you're still on the fence after that, bring it back for your money back or a new one.
-
-It addresses the concerns of a camper that they might like the way a bag feels in the store, but what about after 20 miles on the trail? Well, REI is letting them try it out, no holds bar.
-
-they can also get taken advantage of and you can go and get a backpack use it for a year bring it back and get a new backpack use it for a year bring it back in a new backpack… All within the rules of the return policy.
-
-Writing Your Satisfaction Conviction
+### The Key to a Great Satisfaction Conviction
 
 There are two basic keys to a great Satisfaction Conviction.
 
   1. Resolve the *actual* concerns of your customers
-  2. Then, if needed, go one step above and beyond
+  2. Then go one step above and beyond
+
+
+
+
+
 
 The first step requires understanding the worries of your customers. What are the most common hesitations or concerns you hear about your product? And don't just assume it's always about money.  they worried about losing money? A failing product? Difficulty using your product or getting it serviced?
 
@@ -56,7 +57,11 @@ But what if I'm more concerned with… Some other example… For example, you mi
 
 Don't guess---ask.
 
-A Note on Money-Back Trials and Warranties
+It addresses the concerns of a camper that they might like the way a bag feels in the store, but what about after 20 miles on the trail? Well, REI is letting them try it out, no holds bar.
+
+they can also get taken advantage of and you can go and get a backpack use it for a year bring it back and get a new backpack use it for a year bring it back in a new backpack… All within the rules of the return policy.
+
+### A Note on Trials and Warranties
 
 (A note on trial periods: typically, the longer the trial the better, and the less it gets taken advantage of. If you offer a two-week trial period, the customer will likely be thinking of whether or not they actually want the product in that two weeks. Make it longer and they relax. They know they can return it… and then don't.)
 
@@ -76,6 +81,8 @@ Consumer Hero (A $5 membership club for buying used electronics at discount pric
 Precise Builder
 
 Try the software 6 months risk-free. If you aren't loving Precise Builder after that, you get your money back. We'll even help you find and set up a better software for your company.
+
+WRITE MY EXAMPLE OF PRECISE BUILDER---my better one.
 
 
 "Beyond Warranty" Guarantees

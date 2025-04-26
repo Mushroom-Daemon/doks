@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 350
+weight: 309
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -14,34 +14,43 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-People want to belong to groups of people who already own a specific product. It's an identity thing... how they want to see themselves. But it's also wrapped up in social proof.
+##### Something kickass copy like to say.
 
-The herd mentality influences everything: what we do, what we buy, how we eat and vote...
+### Self-Identity and Belonging
 
-People don't buy a Mercedes because it has power steering.
+Here's one of my favorite psychological case studies. It comes from Robert Cialdini's must read *Influence* and shows how researchers were able to convince a group of Iowans to reduce their energy consumption.
 
-Like marlborro smokers and a rugged western image
+To do this, the experimenters did not preach environmental concerns or the horrors of international way. Nor did they mention the money savings. Instead, they told the Iowans this:
 
-"77 percent of your neighbors use fans instead of AC to conserve energy" far outpulled financial and moral incentives. [specific, social proof, desire to belong, transformation ID]
+Reduce your energy consumption over the next 30 days and we'll feature you in the newspaper† (I CAN INLUDE FOOTNOTES MARKDOWN).
 
-What is the image they are trying to cultivate?
+That promise of the limelight worked. During their initial test&mdash;during a cold midwestern winter&mdash;the residents lowered their natural gas consumpetion by an average of 12.2%. However, there was some bad news for these energy-saving folks.
 
-How do they want to see themselves?
+It was no longer possible to feature them in the local paper.
 
-Who do they think they'll be if they own or use or smoke your product? Then... *treat*...
+But that was just the beginning. Here's when the real test began. The researchers were also curious to see what would happen in the following months. And when they checked back a month later, they discovered something even more extraordinary.
 
-What group do they want to be identified with?
+The Iowans had saved even *more* gas&mdash;a full 15.5% reduction from original levels.
 
-What identity are they aiming for?
+The experiment was later repeated during the summer months with the same promise of the limelight which was later revoked. That first month, the next group of Iowans used 27.8% less energy than comparable homes in their area. Then&mdash;after their newspaper dreams had been crushed&mdash;they saved a whopping 41.6%!
 
-Sugarman thinks *this* is the bottom line. And maybe it is. It's the self-identity. How someone sees themselves. As the kind of person who...
+While everyone is free to theorize why this may be, I like the following explanation:
 
-When Volvo discovered its customer base had one of the highest educational levels of any car manufacturer, they publicized it.
+Over the course of those initial 30 days, those fine Iowans *became* the kind of people that conserve energy. Perhaps they even began to see themselves as being more ecologically-minded and globally responsible.
 
-What kinds of things do they want? What do they expect? What is their psychological profile? How do they see themselves?
+What's even more interesting is Cialdini's theory: that the original incentize may have been the only thing holding the Iowans back from knowing they were doing it for the right reasons, and with that social validation removed, they were free to fully embrace and embody their new conservationist identity.
 
-Then...
+Whatever the reason, this much is true. People want to *see* themselves a certain way&mdash;and when they do, they'll continue to actin accordance with that growing self-image.
 
-*Treat them as such.*
 
-The action is simple: Determine the group of people who already own your product and why/how they relate to it and craft your sales presentations accordingly.
+### A Note on Belonging
+
+Another way to think about this is our desire to *belong*. We want to belong to certain groups, and herd mentality influences everything&mdash;from your politics to what you eat and how you dress.
+
+My girlfriend thinks her beater Prius makes it look like she cares about the environment. There are no shortage of displayed rainbows amongst the queer community. And, at the end of the day, I think my RedWings make me look like a cool guy.
+
+However someone sees themselves, *treat them that way* in your copy.
+
+### Action Items
+
+Determine the group of people who already own your product and why/how they relate to it and see themselves. Craft your sales presentations accordingly.
