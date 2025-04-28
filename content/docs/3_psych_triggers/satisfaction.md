@@ -37,16 +37,16 @@ Here's an example from outdoor retailer, REI.
 
 What makes this return policy so great is not just its length&mdash;a generous year long return window, but that the great can be returned *used*. Try the gear for a full year. Give it hell. Don't love it after that, bring it back.
 
-### The Keys to a Great Satisfaction Conviction
+### Two Keys to a Great Satisfaction Conviction
 
 There are two keys to a great Satisfaction Conviction.
 
   1. Resolve the *actual* concerns of your customers
-  2. Then go one step above and beyond resolving those concerns
+  2. Go a step above and beyond resolving those concerns
 
 **Key #1: Resolving Hesitations**
 
-The first step may be the most important. It requires you to understand the worries of your customers in doing business with you&mdash;their most common hesitations or concerns.
+The first key may be the most important. It requires understanding the worries of your customers&mdash;their most common hesitations or concerns.
 
 If I go to the grocery store for a box of crackers, I might be worried I won't like the taste, or they'll be stale. Tell me I can bring them back for a refund and I'm happy. But what about a backpack I need to try on the trail to get a real feel for it? Or software I'm worried will be overly difficult or time-consuming to learn?
 
