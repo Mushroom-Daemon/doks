@@ -14,7 +14,7 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-just get started and you'll get better and better.
+just get started and you'll get better and better. hi.
 
 Maybe this goes under the research part. Under "The Big Ones"
 
