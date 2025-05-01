@@ -40,7 +40,7 @@ Know the emotional reasons your prospect wants to buy. Feel them and express the
 
 [Maybe a "starting to write" section where you know the emotional reasons for buying. Start with that. Feel it. Write it.]
 
-emotional prnciples in advertising:
+emotional principles in advertising:
 1. Every word has an emotion associate with it and tells a story (a courteous refund, respectfully installed---doesn't need to make sense. just needs to convey the right emotions) Every word *is* a story. material has a lot more sizzle than ":book"
 2. every good ad is an emotional outpouring of words, feelings and impressions
 3. you sell on emotion, justify with logic

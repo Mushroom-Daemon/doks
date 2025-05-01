@@ -13,6 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+Curiosity is a trigger AND and editing tool. Show both.
+
+
 You've come a long way. You've learned this and that, this and that. All sorts of shit. So, here's a question>...
 
 What do you think the *most important* part of persuasive writing is?

@@ -28,8 +28,6 @@ It's easy.
 
 It had to happen.
 
-Short, sweet, and almost incomplete.
-
 Picture this.
 
 This may surprise you.

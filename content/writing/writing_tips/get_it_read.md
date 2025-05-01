@@ -14,6 +14,25 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+But there are a few practical steps you need to be aware of. For one, your copy should be easy to read. That means no big words and no long sentences. No giants blocks of text. If you can't explain it simply, you don't know it well enough.
+
+
+
+To get people to read your copy, make it easy to read.
+
+Do not be subtle. Be bold. And say what you need to say over and over and over again.
+
+
+CLARITY
+
+right short sentences. They're easy to read. folks don't want t try too hard.  You want people to read your ads. Short sentences are easy to understand, too. that's I portant. it makes them more likely to buy from you. When people understand your ads, they're more likely to buy what you're selling. when your ads are easy to understand, people are more likely to buy from you. this isn't the place for clever turns of phrase or fancy language or double meaning. hammer out the main bits. do it clearly.
+
+don't be afraid to start your sentences with "And." And "because." Or "or." Read some Vonnegut
+
+I love this writing. I find it rather audacious. never use words like audacious in your copy. it makes you sound like a pompous ass.
+
+
+
 The benefits are not the most important thing. Getting people to read the copy is.
 
 All the elements in an advertisement are primarily designed to do one thing and one thing only: get you to read the first sentence of copy.

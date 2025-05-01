@@ -1,5 +1,5 @@
 ---
-title: "Creativity"
+title: "Being More Creative"
 description: "Double your response with a satisfaction conviction."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -34,3 +34,5 @@ Write a bunch of these... find one you like. Then list out your big ideas. Pick 
 5. Edit copy. As few words as possible to get the feeling across.
 6. Incubate. Walk away. Take a break.
 7. Edit. (repea steps 5 and 6 as necessary... but don't make yourself insane. art is never finished&mdash;it can only be left in an interesting place.)
+
+Learn all sorts of things you'll never need. It make ayou a better copywriter and writer. It gives you something to write about!
