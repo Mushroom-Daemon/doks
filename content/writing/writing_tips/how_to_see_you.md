@@ -22,3 +22,5 @@ Show your values through everything you put out. Be so honest the reader is emba
 
 
 For me: People will pay for letters that are fun to read.
+
+integrity: the look of your ad, the typeface, looking neat, etc.

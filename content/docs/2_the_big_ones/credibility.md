@@ -35,3 +35,14 @@ Write with integrity.
 (And don't be an asshole.)
 
 Now let's get down to business in lesson #2.
+
+This page *is* about honesty. And how being believable is the most persuasive element of all.
+
+The rules are simple. Here they are.
+
+1. Don't try to hide your shortcomings. People are smart. They will see straight through you.
+2. Bring up questions and objections and answer them in a straight-forward and frank way.
+3. Keep it simple.
+4. Tell the truth
+3. Don't make shit up.
+

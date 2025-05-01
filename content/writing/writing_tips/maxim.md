@@ -1,14 +1,12 @@
 ---
-title: "Writing Tips"
+title: "First Copy Maxim"
 description: ""
 summary: ""
-date: 2023-09-07T16:12:37+02:00
-lastmod: 2023-09-07T16:12:37+02:00
+date: 2023-09-07T16:13:18+02:00
+lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 400
+weight: 404
 toc: true
-sidebar:
-  collapsed: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -16,3 +14,4 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+Getting your copy read. #1. Everything that follows serves this fundamental goal.

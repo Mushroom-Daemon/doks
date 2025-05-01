@@ -17,6 +17,8 @@ You've come a long way. You've learned this and that, this and that. All sorts o
 
 What do you think the *most important* part of persuasive writing is?
 
+How Bob made $10K in 14 days making only an hour of phone calls a day.
+
 Could it be the unique benefits of your product, service, or position? That seems like a good one. Or how about the aspirational identity of your prospect&mdash;their underlying desires? That's a big deal. Or, wait a minute, maybe it's all simpler than that. ... it's a set of guarantees that'll just knock their fucking socks off and leave them chomping at the bit for more. Is that it?
 
 Nah. I mean, those things are cool and all&mdash;and they certainly do help&mdash;but they pale in comparison to what *truly* matters in persuasive writing. Ready for the secret? Here it is.

@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 355
+weight: 325
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -46,11 +46,9 @@ There are two keys to a great Satisfaction Conviction.
 
 **Key #1: Resolving Hesitations**
 
-The first key may be the most important. It requires understanding the worries of your customers&mdash;their most common hesitations or concerns.
+The first key may be the most important. It requires understanding the worries of your customers&mdash;their most common hesitations or concerns. And don't assume it's always money.
 
-If I go to the grocery store for a box of crackers, I might be worried I won't like the taste, or they'll be stale. Tell me I can bring them back for a refund and I'm happy. But what about a backpack I need to try on the trail to get a real feel for it? Or software I'm worried will be overly difficult or time-consuming to learn?
-
-Start your satisfaction Conviction with these concerns in mind. And don't assume it's always money. Ask them!
+... Ask them!
 
 **Key #2: Going Above and Beyond**
 

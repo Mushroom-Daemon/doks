@@ -1,5 +1,5 @@
 ---
-title: "2. Writing Tips"
+title: "Getting the Job Done (Writing)"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -13,18 +13,92 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+Now that you've done all the work of getting to know your product, your prospect, and how you'll connect the two, it's time to talk about something that stops many kickass copywriters dead in their tracks.
 
-just get started and you'll get better and better. hi.
+Writing the pitch.
 
-Maybe this goes under the research part. Under "The Big Ones"
+No matter how much you write, there will always remain this hesitation. I remember when I first started working as a copywriter I would have a moment of fear before beginning every assignment I was given. I'd think *How am I going to pull this off*. Because, let's face it, sometimes it feels like you're having to create something out of nothing.
 
-Here's the most important thing is persuasive writing:
+Here you'll find a few tips for making the wrting process easier. Once you get into the work of writing, I think you'll find it quite enjoyable, if you don't already. Let's go.
 
-Getting people to read your copy. It isn't hard to do.
+#### Writing Your First Draft
+
+(where do I put the thing about writing to one person? write to ONE person. it's only one person reading the ad. My secret website. I have a secret website. It's where I post all sorts of things NSFW. My girlfriend sometimes reads it, which is embarassing, for both of us. I write to one guy. Very personal. From me to you. Period. (Just like how I wrote this.)
+
+One of the hardest things about being a writer is starting. When I first got into this gig, I'd feel a pang of fear at the start of every project. *How the hell am I going to pull this off?* I'd think. here's how I've managed, and still do.
+
+To begin, focus on what you know. Think about your prospect, your product, how the two are linked. Who are you writing to? Once you've thought about all that, you're ready for the second step.
+
+Walk away for awhile. Take a break. Go on a walk. Play a musical instrument or work on something completely different (preferably fun). Let what you know incubate in the dark recesses of your mind, or the warm cockles of your heart, or the SOMETHING SOMETHING of your loind. Whatever. Then, start the emotional outpouring.
+
+emotional outpouring-----BE that person, the tired mom, the lazy bitch, the person who's riddled with insecurity (you? never.) ... my trainwell thing I sent to darian is pretty dope...
+
+Just write and write and write until you think you've got everything out you want to say to your ideal reader&mdash;no matter how ugly it looks right now. If you're working with a template (a website wireframe, say) keep moving down the page and write *something* for every section. Do not stop. Do not hesitate. Write as fast as . . . Let the ideas&mdash;some ideas, *any ideas*&mdash;flow through you like greased owl shit. This speed is important for two reasons.
+
+For starters, it helps you outrun self doubt. When I was writing this website you would not *believe* how many times my girlfriend heard me say "This is stupid. No one is going to read this. What a fucking waste of time." Supportive as all getup, she would smile and say "Someone will find this one day," or, "You're creating a resource for yourself at work" or all the other things that never help in the moment when I hate myself.
+
+I would get overwhelmed because I didn't know how to organize all of the material. I had tons of notes I'd compiled over the years from other copywriters and reading ads, as well as my own experience, but I didn't know how to put it all together. What to include, what to exlude, that sort of thing. I'd want to quit almost every time I sat down to write, or finished something. It all just sucked. But that's the key.
+
+Sucking.
+
+My first drafts always suck. *Always*. More often that not, they're absolutely unrecognizable from later versions of the ad or content. If you can accept&mdash;no, *embrace*&mdash;the fact that everything you or I will ever write on the first go (or even the many goes after that until your project manager finally says "hey, you gonna turn that shit in or what) will just plain *suck*, you'll be able to keep writing.
+
+is thetimer still going? keep writing. take you shitteist workavble idea, put it down, and keep working down the page. you aren't the next steinbeck or faulkner or stephen king. get over it. accept your fate as a shitty writer and just keep going.
+
+... Which leads us to the second point of writing.
+
+**Heading?**
+
+That leads me to the second point, a quote I read by novelist Anne Lammott.
+
+"Most writers don't know what they're doing until they've done it."
+
+And I'll tell you waht. I've never read anything more true&mdash;at least for me. I start nearly every project with doubt and fear. *How the hell am I going to pull this off.* But, it always comes through, despite&mdash;or perhaps *in spite of*&mdash;the fact that I have no fucking idea what the final draft is going to look like... Or even what the story is about.
+
+In my opinion, that makes the *worst* thing you can is think about the final draft while you're writing. I claim that the final work is *discovered*, not created in one miraculous fell swoop of creative genius. That's why you have to keep writing, keep moving down the page. It'll give you something to look at, to discover. Something to give you direction for the next draft.
+
+If you can do that, you've mastered something fundamentally important and will produce something just fine.
+
+##### Tips for Working
+
+(also something about shutting the door)
+
+Something I like to do is work with a timer. Each person is different, and we all have our creative process, but working with the timer helps me grind out work, I think, rather quickly. Here's my routine, stolen from a direct response copywriter far more successful than I can ever hope to be&mdash;the legendary Eugene Schwartz.
+
+The following is an adaptation of the Pomodoro technique.
+
+Writing is done in chunks of 33 minutes and 33 seconds. During that time, you write, or think about what you know about the assignment. You *focus* on the task at hand, whether that's writing faster than the Gingerbread Man runs or doing market research or focusing on what you know before the emotional outpouring.
+
+What you *don't* do is fuck around with your phone, or reply to slack messages, or look at your to-do list or think about or do *anything* other than the task at hand. This will likely require some training.
+
+The focus muscles need to be strengthened. This will likely tire you out in the beginning. That's okay. You're getting stronger, more effective. You're learning how to *work*&mdash;the most important part of being creative. (Everybody's got ideas, it's execution that counts.) So that's the deal. If the timer is still going, you're still focused on the task at hand.
+
+If a superior has a problem with this, send them my way. You need to protect your writing time. *They* need you to protect your writing time. It is sacred. Stay focused until the timer rings. And when it does...
+
+Take a break.
+
+Walk away from the task at hand. Close your computer. Turn off your monitor. Get the work completely out of your mind. Do something else entirely. Play a musical instrument, talk a walk, workout. Hell, maybe you can even write some weird fiction to put on your secret website. Breaks like this have a few advantages.
+
+For starters, it keeps you fresh. You're able to clear your mental cache which prevents getting "stuck" or burnt out by the work. When you hit it again, you should be a little refreshed.
+
+Secondly, it help you come to the project with fresh eyes and a fresh mind. It's also like taking set breaks in the gym. Without some time for the muscles to recouperate, the creative well to refill, you risk overtraining.
+
+I take 14 minute breaks. And yes, those are billable hours.
+
+
+
+
+
+
+
+
+
+
+
 
 But there are a few practical steps you need to be aware of. For one, your copy should be easy to read. That means no big words and no long sentences. No giants blocks of text.
 
-emotional outpouring-----BE that person, the tired mom, the lazy bitch, the person who's riddled with insecurity (you? never.) ... my trainwell thing I sent to darian is pretty dope...
+
 
 To get people to read your copy, make it easy to read.
 
@@ -36,7 +110,7 @@ Learn all sorts of things you'll never need. It make ayou a better copywriter an
 
 
 
-write to ONE person. it's only one person reading the ad. My secret website. I have a secret website. It's where I post all sorts of things NSFW. My girlfriend sometimes reads it, which is embarassing, for both of us. I write to one guy. Very personal. From me to you. Period. (Just like how I wrote this.)
+
 
 use a byline with your name and write in first person. or, introduce yourself in the into.
 
