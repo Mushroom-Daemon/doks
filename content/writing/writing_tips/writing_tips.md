@@ -1,5 +1,5 @@
 ---
-title: "Getting the Job Done (Writing)"
+title: "Writing the Pitch"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00

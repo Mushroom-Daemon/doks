@@ -16,101 +16,35 @@ seo:
 Curiosity is a trigger AND and editing tool. Show both.
 
 
-You've come a long way. You've learned this and that, this and that. All sorts of shit. So, here's a question>...
-
-What do you think the *most important* part of persuasive writing is?
 
 How Bob made $10K in 14 days making only an hour of phone calls a day.
 
-Could it be the unique benefits of your product, service, or position? That seems like a good one. Or how about the aspirational identity of your prospect&mdash;their underlying desires? That's a big deal. Or, wait a minute, maybe it's all simpler than that. ... it's a set of guarantees that'll just knock their fucking socks off and leave them chomping at the bit for more. Is that it?
 
-Nah. I mean, those things are cool and all&mdash;and they certainly do help&mdash;but they pale in comparison to what *truly* matters in persuasive writing. Ready for the secret? Here it is.
 
-Getting someone to actually read the words you write. And the following tips will help you do just that.
-
-First
 
 <mark>I am about to tell you a true story</mark>. If you believe me, you will be well rewarded. If you don't believe me, I will make it worth your while to change your mind. <mark>Let me explain</mark>.
 
-{{< callout note >}} I love the above text because it says basically nothing. But it gets ya reading. {{< /callout >}}
-
-{{< callout context="note" title="Note" icon="outline/info-circle" >}} I love the above text because it says basically nothing. But it gets ya reading. {{< /callout >}}
 
 <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-snowboarding"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 3a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M7 19l4 -2.5l-.5 -1.5" /><path d="M16 21l-1 -6l-4.5 -3l3.5 -6" /><path d="M7 9l1.5 -3h5.5l2 4l3 1" /><path d="M3 17c.399 1.154 .899 1.805 1.5 1.951c6 1.464 10.772 2.262 13.5 2.927c1.333 .325 2.333 0 3 -.976" /></svg>
 
-==This may surprise you==. ==In fact, if my hunches are correct simply reading this article may change your idea of aging for the rest of your life==. ==Here's why==.
 
-As you can see, coaching can be well worth the upfront investment. You just need to make sure of two things&mdash;<mark>The next of which we'll cover right now</mark>.
-
-
-for eyesight, blue is not a good color too. <mark>There are several reasons<mark>. First...
-
-==But almost immediately, something strange happened==.
 
 Bold, gut-wrenching copy. (==Which you'll see in a moment==.)
 
 I've got something to show you you'll never forget.
 
-==DC-10s Big Secret==: You've heard a lot of bad publicity about the DC-10. ==But here's something you may not have known==. (heading and subhead.)
 
-When I put on the pair of glasses what I saw I could not believe. Nor will you.
 
-You'll love the way we hated the Magic Stat thermostat until an amazing thing happened. (subheading)
 
-You're probably expecting our typical sales pitch, ==but get ready for a shock==. For instead of trying to tell you what a great product the Magic Stat thermostat is, we're going to tear it apart. Unmercifully. (tease what's to come.)
 
-But wait, we did find one good feature&mdash;a feature that led us to a discovery. (feature is ease of installation, discovery is wires are safe to work with "live.")
 
-And that's when we made an incredible discovery
-What made us switch from hating the thing to loving it? ==Read the following==.
-
-Big deal. What's so great about that? Read on.
 
 In that case, we invite you to listen to one more story. it's a classic piece of advice that just about everyone has received at one point or another&mdash;and why you should ignore it.
 
-That would seem to be the end of the story. But it's not.
 
-But _ is just part of the story. What you will read in the next chapter is just as important.
 
-It turned out to be what I least expected.
-But one of the most important axioms you will learn for becoming a great copywriter is my second axiom. Here it is.
 
-The axiom in this chapter is very important and very difficult to believe at first. Understand this concept, believe in it, and it will give you a very good foundation for your future writing skills. Don't believe it and you'll fall into the trap that many copywriters typically fall into.
 
-What Ginger whispered to me next took me by total surprise. In fact, there have been very few times in my life when I have been at a complete loss for words. But wait. This is a book on psychological triggers and not about the discreet goings-on behind the doors of successful direct marketing executives who are perceived by beautiful cosmetic executives as the answer to their dreams… So I'm not going to answer here. But I do in the appendix. It was very steamy.
-
-Start the Ad
-
-Begin your sales presentation with a giant slab of curiosity and promise a payoff that keeps them reading and paying attention.
-
-## Plant Seeds of Curiosity
-
-* There are even more techniques which I will reveal later in this book.
-
-## Add Lubrication
-
-Imagine your reader is sliding down through your copy. You want it to be hard to stop. Ending paragraphs with "cliffhangers" like the following have a mesmerizing effect on the reader, something like greasing ... Here are some examples.
-
-* Let me give you an example.
-* Let me review the procedure.
-* Let me explain.
-* This brings us very nicely to the next topic.
-* He continues.
-* Let's begin.
-* Let me site an example.
-* You think that's weird? Check this out.
-* Consider this.
-* But the elephant doesn't. Why? I'll explain.
-* But there's more.
-* But I didn't stop there.
-* Now here comes the good part.
-* Here's why.
-
-If you've found this book informative so far, you will find this chapter fascinating. So let's start.
-
-In the next chapter, you'll discover how…
-
-But there's one critical part of the copywriting process that really separates the best copywriters from the rest&mdash;and we cover it in the next chapter.
 
 ## Throat Grabbers
 

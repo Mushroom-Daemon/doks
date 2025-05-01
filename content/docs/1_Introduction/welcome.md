@@ -17,6 +17,8 @@ seo:
 
 JUST GET THE FUCKING POINT ACROSS
 
+Do I need to explain that this is about long-form copy? Perhaps so.
+
 Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide to writing kickass copy that converts.
 
 The Kickass Copy Playbook was written for anyone interested in persuasive writing&mdash;whether you write ads for a living, hope to suade donors or volunteers to give more of themselves, or just want to convince the girl next door you're totally worth it. I've tried it all, and through my sucesses and mistakes have learned a thing or two that work. You'll find that here. ... improve clik-thru... whatever.
