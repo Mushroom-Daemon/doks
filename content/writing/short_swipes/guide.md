@@ -13,7 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+on the guide section/authority section, don't pussyfoot around. Be brief, do it once. but make it strong. use the right words and convey serious fucking authority.
 
+Growing a business isn’t easy. And at Integro Coaching, we’ve been through it all—mastering difficulties in our own companies, leadership teams and employees, and the countless businesses we’ve helped strengthen since 2017.
 
 The following are examples of EMPATHY and some combine EMPATHY and AUTHORITY into a nice guide section.
 

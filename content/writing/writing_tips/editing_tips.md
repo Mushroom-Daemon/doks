@@ -26,6 +26,7 @@ Probably a lot.
 
 But that's the best part:
 
+less text, more emotion.
 
 
 > "Look at the act of writing the first draft as giving brith. It may be a painful, long process or it can go quite quickly and with little pain. Then compare the editing process to raising the child&mdash;the caring and nurturing required to ensure a healthy, happy child."

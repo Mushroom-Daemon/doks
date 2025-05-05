@@ -35,19 +35,26 @@
   weight = 10
 
 [[main]]
+  name = "Writing Tips"
+  url = "/writing/writing_tips/start/"
+  weight = 20
+
+[[main]]
   name = "Blog"
   url = "/blog/"
+  weight = 40
+
+[[main]]
+  name = "Portfolio"
+  url = "/portfolio/works_header/works/"
   weight = 30
 
 [[main]]
   name = "Street Cred."
-  url = "/street-cred/"
-  weight = 30
+  url = "/street_cred/"
+  weight = 50
 
-[[main]]
-name = "Writing Tips"
-url = "/writing/writing_tips/start/"
-weight = 20
+
 
 
 # [[social]]

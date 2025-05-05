@@ -1,16 +1,14 @@
 ---
-title: "Blog"
+title: "Selected Works Header"
 description: ""
 summary: ""
-date: 2023-09-07T16:21:44+02:00
-lastmod: 2023-09-07T16:21:44+02:00
+date: 2023-09-07T16:12:37+02:00
+lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 40
-categories: []
-tags: []
-contributors: []
-pinned: false
-homepage: false
+weight: 807
+toc: true
+sidebar:
+  collapsed: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
