@@ -1,5 +1,5 @@
 ---
-title: "Curiosity/Fascinations"
+title: "Throat Grabbers"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -13,40 +13,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Curiosity is a trigger AND and editing tool. Show both.
 
+The following are headlines, bullets, I see them on the back of books, in email subject and preview lines.
 
-
-How Bob made $10K in 14 days making only an hour of phone calls a day.
-
-
-
-
-<mark>I am about to tell you a true story</mark>. If you believe me, you will be well rewarded. If you don't believe me, I will make it worth your while to change your mind. <mark>Let me explain</mark>.
-
-
-<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-snowboarding"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 3a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M7 19l4 -2.5l-.5 -1.5" /><path d="M16 21l-1 -6l-4.5 -3l3.5 -6" /><path d="M7 9l1.5 -3h5.5l2 4l3 1" /><path d="M3 17c.399 1.154 .899 1.805 1.5 1.951c6 1.464 10.772 2.262 13.5 2.927c1.333 .325 2.333 0 3 -.976" /></svg>
-
-
-
-Bold, gut-wrenching copy. (==Which you'll see in a moment==.)
-
-I've got something to show you you'll never forget.
-
-
-
-
-
-
-
-In that case, we invite you to listen to one more story. it's a classic piece of advice that just about everyone has received at one point or another&mdash;and why you should ignore it.
-
-
-
-
-
-
-## Throat Grabbers
+Again, focus on what you know---who your prospect is and the nature of your product. Then, read through the following and you'll get some ideas.
 
 aka fascinations
 

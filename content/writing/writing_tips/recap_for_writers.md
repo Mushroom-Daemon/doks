@@ -1,5 +1,5 @@
 ---
-title: "Recap for Writers"
+title: "When in Doubt"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -14,15 +14,11 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-WHAT WORKS
+There will be times when everything you write sucks. There will be times when you won't have any ideas. There will be times when you really won't want to do whatever it is you have been assigned to do. When those moments come along I want you to remember this:
 
-I once read a book filled with nothing but transcribed interviews of successful peope. transcript from an interview that had been included in a book of other interviews. I don't rememeber who the person was or what they did or really anything at all about the context except for this lick:
+Work works.
 
-"when nothing works, work works."
-
-i've since shortened it to work works and make it your motto for overcoming fear.
-
-it means that if you sit your ass down and take it one step at a time (those steps revealed here in a moment) focus on your task (more on that later) the words will come. the ideas will present themselves. you will sift through the grainy river bottom a river of self doubt shit and find the filtering gold buried inside. and it will be fun. and people will think you're some kind of genius.
+Just sit down, start your timer, and do your best. The words will come. They always come. The ideas will present themselves. You will sift through the grainy bottom of a river of self doubt and find the glittering gold buried inside. And it will be fun. And people will think you're some kind of genius.
 
 sometimes I just make work goals w my creative writing. like, take this crap sorry I wrote and work on it one hour this week. twenty minutes at a time or whatever. cut parts out, add stuff in, play around and figure what it's all about. something always happens. there's a little bit of gold in there.
 

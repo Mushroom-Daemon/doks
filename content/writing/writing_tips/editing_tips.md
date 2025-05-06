@@ -1,5 +1,5 @@
 ---
-title: "Editing for Kickassery"
+title: "Editing"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -14,37 +14,59 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+While some writers may be able to upchuck genius copy without needing to go back and edit, I'm not one of them. You probably aren't either. Especially since, if you've been paying attention, your job is to write the first draft as fast as humanly possible.
 
+When you get around to your second (or thrid fourth or fifteenth rewrites) here are a few suggestions for tightening things up. I think you'll find the effort well worth it, and you final drafts will be *much* improved.
 
-EDIT
+Here are a few quick tips for editing
 
-Sometimes writers are free and easy and don't try too hard and come up with stuff that is really, really fucking cool.
+* Breaks from content help freshen your mind and eyes... If you have time, work on something else for awhile before coming back to edit your current copy
+* I find reading your drafts on another screen or device (than the one you use to write) easier to catching errors/find shorter ways to say things. If you're going to use your phone *turn off notifications*.
 
-The rest of us need to edit.
+### Edit for Brevity
 
-Probably a lot.
+Get in, make your point, get out. Your goal is to make your point with the maximum amount of emotion in the fewest words possible.
 
-But that's the best part:
+Some things to consider:
 
-less text, more emotion.
+* Fuck grammar&mdash;feelings are more important (caveat: unless your client's tone suggests otherwise)
+* Use simple words. They're the heaviest.
+* Search your document for "that" and remove/rewrite&mdash;there's ususally a shorter way to say it
+* Vary sentence length for good rhythm
+* Hyphenate sentences&mdash;makes 'em shorter
+* Try rearranging your thoughts for more emotional impact
 
+### Edit for Specificity
 
-> "Look at the act of writing the first draft as giving brith. It may be a painful, long process or it can go quite quickly and with little pain. Then compare the editing process to raising the child&mdash;the caring and nurturing required to ensure a healthy, happy child."
+Find any vague claims in your copy and make them more specific (unless you're selling on hope LINK).
 
-EDITING
+### Edit for Simplicity
 
-Getting your copy to express exactly what you want to express with the fewest words. Expressing the thoughts and emotions you want to convey with the fewest words.
+You want to keep the copy (and offer) as simple as possible.
 
-Tips:
-* Look for "that" and remove
-* Vary sentence length for a good rhythm
-* Hyphenate sentences to make them shorter
-* Eliminate unnesseccary words
-* Rearrange thoughts
+Everything must be as simple as possible while getting your message across.
 
-Try to find periodicials and remove as many words as possible.
+The message should be so basic and uncomplicated that it doesn’t take much to understand it. If you confuse, you lose. People don’t buy the best products. They buy the ones they understand. Now that I think about it, this goes for partners, too.
 
+Focus on what you’re trying to accomplish and eliminate things that complicate or aren’t necessary.
 
+Words are stories—emotional images—and simple words carry the greatest impact
 
-EDITING
-Edit for specificity <link>
+Keep your layout simple and clear—no fancy shit! (It can hurt comprehension.)
+
+Is your offer so simple anyone can understand it? How can you make the choice easy for the prospect?
+
+You want to keep the copy (and offer) as simple as possible.
+
+Everything must be as simple as possible while getting your message across.
+
+The message should be so basic and uncomplicated that it doesn’t take much to understand it. If you confuse, you lose. People don’t buy the best products. They buy the ones they understand. Now that I think about it, this goes for partners, too.
+
+Focus on what you’re trying to accomplish and eliminate things that complicate or aren’t necessary.
+
+Words are stories—emotional images—and simple words carry the greatest impact
+
+Keep your layout simple and clear—no fancy shit! (It can hurt comprehension.)
+
+Is your offer so simple anyone can understand it? How can you make the choice easy for the prospect?
+

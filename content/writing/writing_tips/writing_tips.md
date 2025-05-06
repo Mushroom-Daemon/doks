@@ -31,9 +31,53 @@ Write all the time. Letters and postcards. Every opportunity that you can. Never
 
 One of the hardest things about being a writer is starting. When I first got into this gig, I'd feel a pang of fear at the start of every project. *How the hell am I going to pull this off?* I'd think. There's a bit of resistence there. Here's how I've managed, and still do.
 
-To begin, focus on what you know. Think about your prospect, your product, how the two are linked. Who are you writing to? Once you've thought about all that, you're ready for the second step.
+To begin, focus on what you know. Think about your prospect. What is their desire? What will motivate them to become a customer? Be an expert on your product. what is the key to linking your product and consumer? ow the two are linked. Who are you writing to? Once you've thought about all that, you're ready for the second step.
+
+think about everything you’ve learned about the product. The problem you have to solve. Imagine the end result–sales, freedom, women… a pat on the back. Then, stop. Then, something else. Then, emotional outpouring. <- this is how i write my best secret website shit
 
 Walk away for awhile. Take a break. Go on a walk. Play a musical instrument or work on something completely different (preferably fun). Let what you know incubate in the dark recesses of your mind, or the warm cockles of your heart, or the SOMETHING SOMETHING of your loind. Whatever. Then, start the emotional outpouring.
+
+#### Emotion Sells... Not Logic
+
+The most effective writing is *emotional*.
+
+
+
+Buying something is an emotional event.
+
+What has been an emotional event for me? My boots. I love them. And my watch to.
+
+The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency. As does you copy. To get them to feel that way, feel that way. Maybe this goes with “emotion sells.”
+
+In fact, every element is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
+
+If you want someone to feel love reading your letter, love them.
+
+Every word has emotions associted with it and tells a story. And all good sales presentations are an emotional oupouring or words, feelings, and impressions. You sell on emotion… And then justify that purchase with logic. (After the fact.)
+
+See every word as an emotional expression of some feeling. A little story.
+
+A courteous refund. It makes no sense. But people turn that word into what they need it to mean.
+
+Signing the paperwork and signing the contract feel different.
+
+John Caples, a legendary direct marketer, changed the word “repair” to the work “fix” and saw a 20% increase in response.
+
+At its most effective, copywriting is an emotional oupouring or words and feelings onto paper. Method writing. Pour out your heart and soul.
+
+Know the emotional reasons your prospect wants to buy. Feel them and express them in your copy. Read it through and add more passion, ever more passion. More passion, more sales.
+
+[Maybe a “starting to write” section where you know the emotional reasons for buying. Start with that. Feel it. Write it.]
+
+emotional principles in advertising:
+
+Every word has an emotion associate with it and tells a story (a courteous refund, respectfully installed—doesn’t need to make sense. just needs to convey the right emotions) Every word is a story. material has a lot more sizzle than “:book”
+every good ad is an emotional outpouring of words, feelings and impressions
+you sell on emotion, justify with logic
+feel those emotions!!! tuning fork!!!
+
+
+*****
 
 emotional outpouring-----BE that person, the tired mom, the lazy bitch, the person who's riddled with insecurity (you? never.) ... my trainwell thing I sent to darian is pretty dope...
 
@@ -63,6 +107,38 @@ In my opinion, that makes the *worst* thing you can is think about the final dra
 
 If you can do that, you've mastered something fundamentally important and will produce something just fine.
 
+
+##### patterning
+
+How have others sold this product? Pattern your approach to theirs. (This is a good one for the copy.)
+
+Get the prospect saying "yes." The slippery slide. Make honest and believable statements. Ones you know they can agree with and not challenge. *You do not want them to challenge the copy*.
+
+METHOD WRITING. BE THAT PERSON!
+
+* The point is to anticipate next questions and answer (or tease) it
+* Write headline. Will it grab reader?
+* Write subhead. Will it compell reader to read further?
+* Write caption for imaginary picture. Strong enough to pull them into first sentence?
+* Write the first sentence. Suck them in like a vacuum.
+
+Try patterning ads. Copying a format.
+
+The thing here is this: there is not perfect formula, no template that all of your persuasive bits will fit into nicely. You must know the foundations of your pitch. Then, write it how it needs to be said. But I will help you navigate the templates we do use.
+
+**Head-nodding Tags**
+
+Use at the end of a sentence to illicit a "yes."
+
+Couldn't you?
+Wouldn't you?
+Don't you think?
+Eh? (Fucking Canadians. Nice day, eh? That's how they get you, eh?)
+
+
+
+Who are the winners? What are they doing that's effective? Pattern an approach after theirs&mdash;but with a twist of your own.
+
 ##### Tips for Working/The Work Environment
 
 (also something about shutting the door. I prefer total silence, cold and hungry ravenously chewing gum. mileage may vary. Qhewn you have the door shut, here's what you do (timer))
@@ -73,7 +149,7 @@ The following is an adaptation of the Pomodoro technique.
 
 Writing is done in chunks of 33 minutes and 33 seconds. During that time, you write, or think about what you know about the assignment. You *focus* on the task at hand, whether that's writing faster than the Gingerbread Man runs or doing market research or focusing on what you know before the emotional outpouring.
 
-What you *don't* do is fuck around with your phone, or reply to slack messages, or look at your to-do list or think about or do *anything* other than the task at hand. This will likely require some training.
+What you *don't* do is fuck around with your phone, or reply to slack messages, or look at your to-do list or think about or do *anything* other than the task at hand. This will likely require some training. You must completely eliminate distractions.
 
 The focus muscles need to be strengthened. This will likely tire you out in the beginning. That's okay. You're getting stronger, more effective. You're learning how to *work*&mdash;the most important part of being creative. (Everybody's got ideas, it's execution that counts.) So that's the deal. If the timer is still going, you're still focused on the task at hand.
 
@@ -94,5 +170,7 @@ I take 14 minute breaks. And yes, those are billable hours. you will be astonish
 I work for 3, 4, maybe 5 power sessions in a row. After that, I'm usually toast.
 
 Exercise (for your mind and body).
+
+CLEAN YOUR DESK.
 
 **When you start to feel overwhelmed and lost, finish your power session and then walk the fuck away.** also the clean desk. This helps a lot. And clear your desktop and close tabs. This is the creative mind stuff. I think it has to be clear. Silence.
