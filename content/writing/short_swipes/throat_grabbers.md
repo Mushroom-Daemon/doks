@@ -36,23 +36,6 @@ Want to be a highly-paid A-list copywriter?
 
 Learn how to write hooks
 
-Great hooks is what separates:
-• The CWs charging 15-25k+royalties...
-• And those charging 3-5k for a project.
-
-Not all hooks are created equal tho
-Let's talk hooks ⤵️
-
-First, what exactly is a hook?
-
-It's that first line that grabs attention...
-
-where the reader makes a snap judgment:
-
-Keep reading or...
-
-Scroll away?
-
 A hook has three elements:
 • Benefit
 • Emotion
@@ -70,71 +53,39 @@ It inspires, amazes, shocks, confuses by creating a "gap in knowledge"; a tease
 
 Let's look at some hooks:
 
-1/ NUMBER HOOKS
+**NUMBER HOOKS**
 
-• 7 ways to ___
-• The # 1 mistake beginner ____ make
-• 3 ____ every ____ needs to ____
-• Top 10 ____ you need to see now
-• The 5-Step system I use to _____
+* 7 ways to ___
+* *The # 1 mistake beginner ____ make
+* 3 ____ every ____ needs to ____
+* The 5-Step system I use to _____
 
 These are basic, reliable hooks. The number creates the curiosity.
 
-2/ WITHOUT HOOKS
+**WITHOUT HOOKS**
 
 How to get [BENEFIT] without [OBJECTION(s)]
 
-e.g. How to lose weight w/o dieting or exercising
-e.g. How to make money w/o working or investing
-e.g. How to find true love w/o apps, dates, or drama
+* How to lose weight w/o dieting or exercising
+* How to make money w/o working or investing
+* How to find true love w/o apps, dates, or drama
 
-Make sure you nail the objections. The w/o creates the curiosity.
-
-
-
-4/ GIMMICK HOOKS
+**GIMMICK HOOKS**
 
 [WEIRD OBJECT] creates [BENEFIT]
 
-e.g. Why drinking beer can build muscle
-e.g. How salt can help heart health
-e.g. Eat ice cream to lose weight
+* Why drinking beer can build muscle
+* How salt can help heart health
+* Eat ice cream to lose weight
 
-The "weird thing" creates curiosity here. Better if they defy convention. Which brings us to...
-
-5/ INCONGRUOUS JUXTAPOSITIONS
-
-Coined by my mentor John Carlton and dissected by me...
-
-These are hooks that are "woven" in with the actual product's solution or mechanism.
-
-These aren't gimmicky attention-grabbers.
-
-Incongruous juxtapositions are hooks that... have a "reveal" later that makes you go: OMG, I didn't see that coming.
-
-I'll share the headline from Carlton's most famous ad:
+**InCONGRUOUS JUXTAPOSITIONS**
 
 Amazing Secret Discovered By One-Legged Golfer Adds 50 Yards To Your Drives Eliminates Hooks
 and Slices… And Can Slash Up To 10 Strokes From You’re Game Almost Overnight!
 
-Right away, you think:
-
-What!? But how? How can a one-legged man pull off such an amazing feat?
-
-There's confusion, amazement, admiration, and a strong desire to get those results.
-
-That's cool.
-
-But y'know what's really cool?
-
 Later in the ad, the "reveal" is that...
 
 This guy golfs better than most people because... he understands "balance" in a way that only a one-legged man would
-
-Did you get that? Do you see the cleverness?
-
-The hook is baked into the core mechanism of the product!
-
 
 **Discover Something**
 
@@ -217,7 +168,6 @@ The hook is baked into the core mechanism of the product!
 
 
 * New discovery from John Hopkins University School of Medicine in Baltimore: this nutrient, found in a common vegetable, offers protection against breast cancer. See page 53.
-* Another nutrient that has such potent anti-cancer properties, it "may actually reverse precancerous conditions." See page 95.
 
 
 
@@ -228,16 +178,11 @@ The hook is baked into the core mechanism of the product!
 
 * Birth defects and air travel... inside report
 * Hair dryer/breast cancer connection
-* How to test drive 1994 cars. 12 flaws.
 * College aid for families with money
 * Airbags confidential. What can go terribly wrong.
 * Inside ways to beat the lottery. You only think it's a game of chance. page 271
 * New health peril at self-service gas pumps. *Very* scary. Page 235
 * Sexual position recommended by all the experts can cause impotence. Page 250
-* Seat belts you should replace the day you buy the car. Page 234
-* How to stay out of court; part 2 of Fred J. Halsey Jr.'s series on avoiding litigation
-* Ways to diffuse an angry customer
-* Which US and foreign cars hold their value longest
 * Useful book for retailers
 * Supermarkets: Shocking new reports
 * ... And lots more you're not supposed to know (red)
