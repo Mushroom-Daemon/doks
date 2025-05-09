@@ -93,11 +93,10 @@ This guy golfs better than most people because... he understands "balance" in a 
 * Discover the all-natural remedy for burnout and exhaustion that gives you boundless new energy without nerve-jangling caffeine.
 
 **How-to Headlines**
+
+* How to gain instant relief from a leg cramp&mdash;with apple cider vinegar! *(Instant gratification)*
+* How to disinfect an open wound&mdash;with sugar!
 * How to sleep like a baby all night—with the best all-natural alternative to prescription sleeping pills. Non-addictive. No side effects. *(This one also shows hesitations/stakes)*
-* How to gain instant relief from a leg cramp—with apple cider vinegar!
-* How to end the agony of a toothache—with only two cloves!
-* How to stop an attack of food poisoning—with a piece of bread!
-* How to disinfect an open wound—with sugar!
 
 **Do THIS for BENEFIT**
 
@@ -109,25 +108,23 @@ This guy golfs better than most people because... he understands "balance" in a 
 
 * **FOR ARTHRITIS:** Long-time sufferers see their arthritis go into complete remission. See page 51.
 * **FOR BLESSED RELIEF OF PAIN:** (The remedy on page 127) completely relieved pain in about 65 percent of 1,000 patients... while another 25 percent had enough reduced pain that they didn't need anesthesia.
-* **FOR REVERSAL OF AGING:** These (nutrients named on page 137) stop free radicals from overtaking healthy cells and thus help slow the natural aging process. They are even believed to offer protection against 60 age-related afflictions, from cancer to cataracts to heart disease and high cholesterol.  "It's hard to think of anyone in our society who couldn't benefit from taking (them)," says one leading M.D. See page 133 and 137.
-* **FOR DIABETES:** "Few people with diabetes need daily insulin injections. More than 90 percent of the time, people with Type II diabetes can help keep blood sugar level in line with (see page 273)... The trace mineral proven to reduce risk factors for both diabetes and cardiovascular disease... Improves glucose and insulin and lowers cholesterol and triglycerides.  If you want protection against diabetes and heart disease, see page 140.
+* **FOR DIARRHEA:** When mixed with water, this powder is the safest, simplest and best treatment for diarrhea there is. It has saved many a vacation. Never take a trip without it, especially in foreign countries where the water may cause you problems. See page 277.
+* **FOR REVERSAL OF AGING:** These (nutrients named on page 137) stop free radicals from overtaking healthy cells and thus help slow the natural aging process. They are even believed to offer protection against 60 age-related afflictions, from cancer to cataracts to heart disease and high cholesterol.  "It's hard to think of anyone in our society who couldn't benefit from taking (them)," says one leading M.D. See page 133 and 137. *(Authority)*
 * **FOR QUICK RELIEF OF HAY FEVER, WATERY EYES AND RUNNY NOSE:** Follow the simple instructions on page 166... See how to control your allergies without shots or antihistamines on page 165... To relieve allergic sneezing and itching, press this acupressure spot for profound relief. See page 166.
 * **FOR INHIBITED SEXUAL DESIRE:** The remedy ideal for any woman who feels "dead inside" and wants to be more passionate. See page 384... The nutrient that powerfully enhances sex drive and the foods that are rich in them. Also on page 384... The "guided imagery" sexual fantasy sure to arouse passion (a little too steamy to print here, but wait till you read page 385).
-* **TO RELIEVE HEADACHES AND NECK PAIN:** Take your thumb and press here (see page 338).
-* **FOR RELIEF OF TMD (Temporomandibular Joint Disorder):** Press here (see page 531) to relieve TMD, which can often cause earaches, headaches, stiff neck or stuffy nose.
-* **TO GET RID OF WATER RETENTION PROBLEMS:** Press here (see page 557) to improve your body's fluid balance and shed excess water that makes you look overweight with swollen fingers, plumped-up legs and a bloated belly.
-* **FOR RELIEF OF TINNITUS:** If you suffer from tinnitus—a buzzing, swishing, hissing, whirring, chirping or ringing sound in your ear—now hear this! Recent research has uncovered a connection between tinnitus and a lack of a certain nutrient in the diet. See page 553 for a quick, all-natural remedy.
-* **TO KEEP PERSKY MOSQUITOES, GNATS AND OTHER BUGS FROM BITING YOU:** This natural herbal oil (see page 202) repels insects and effectively as the synthetic chemical DEET—but without DEET's toxic effects on your body.
-* **TO BANISH ANXIETY:** Press firmly on this spot (see page 178) and take a few deep, full breaths. You may feel some relief right away... and 12 other ways to send your anxieties packing. See page 177... Plus, why your constant worries may be directly related to on of these three common foods. See page 179.
-* **FOR BOILS, BRUISES, RASHES AND SCRAPES:** The essential oil that's a "great natural antiseptic which speeds the healing of virtually any kind of skin irritation." See page 205.
-* **TO CURE EXTERNAL HEMORRHOIDS**—yes, cure them—use this simple topical ointment you can make from common ingredients in your kitchen. Hard to believe, but true. See page 355.
-* **FOR DIARRHEA:** When mixed with water, this powder is the safest, simplest and best treatment for diarrhea there is. It has saved many a vacation. Never take a trip without it, especially in foreign countries where the water may cause you problems. See page 277.
-* **FOR BOWEL PROBLEMS:** This gentle but potent internal cleanser made from Asian fruit is a mild laxative with no side effects of laxative dependency. Helps restore the tone of the large intestine, thereby restoring your own natural rhythm. See page 395.
-* **FOR MEMORY LOSS:** Many times, memory problems are caused by (see page 415), and eating (this type of food) can help open up arteries and improve blood flow... Also, the herb (see page 415) that may help reverse memory loss caused by poor circulation to the brain, according to Dr. Tyler.
 * **FOR PREGNANCY PROBLEMS:** To prevent or minimize stretch marks and to relieve swelling in the feet or legs, see page 465... If you have morning sickness and even the thought of food makes you feel ill, try a dose of (see page 467)... To ease backaches and improve tone in the abdominal area, do this (see page 467)... For sore breasts, do this (see page 468).
+
+**To [GET RESULT]**
+
+* **TO RELIEVE HEADACHES AND NECK PAIN:** Take your thumb and press here (see page 338).
+* **TO GET RID OF WATER RETENTION PROBLEMS:** Press here (see page 557) to improve your body's fluid balance and shed excess water that makes you look overweight with swollen fingers, plumped-up legs and a bloated belly.
+* **TO KEEP PERSKY MOSQUITOES, GNATS AND OTHER BUGS FROM BITING YOU:** This natural herbal oil (see page 202) repels insects and effectively as the synthetic chemical DEET—but without DEET's toxic effects on your body.
+* **TO CURE EXTERNAL HEMORRHOIDS**&mdash;yes, cure them&mdash;use this simple topical ointment you can make from common ingredients in your kitchen. Hard to believe, but true. See page 355.
+
+**Problem?**
+
 * **Indigestion?**  "I don't believe there is a gastric problem that doesn't respond to (see page 377)," says one top M.D. "Nobody really knows how or why (it) works, but it is truly a miracle."
 * **Insomnia?** Turn to page 387 and discover the world's best known herbal remedy and why it works so well.
-* **Panic attacks and phobias?**  "90 percent of phobias respond well to (see page 458)."
 * **Impotence?** Discover the herbal oil with such potent aphrodisiac qualities, just inhaling its fragrance can instantly trigger passion. Expensive—but lasts a long time and, judging by the fireworks it arouses, worth every drop! See page 369... The vitamin supplement that can stop impotence and restore virility. See page 372... The ancient herbal cocktail said to be so effective in increasing sexual energy, it can even help sperm counts to go up. See page 369.
 
 
