@@ -13,6 +13,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+These are HOOKS, FASCINATIONS, and THROAT GRABBERS
+
 The challenge for all kickass copywriters is the same: getting the ready to read your copy.
 
 In the subject line and preheader, you have at most maybe 65 characters (10 or 15 words) to grab your reader by the throat and not let go until the message is clicked on.
