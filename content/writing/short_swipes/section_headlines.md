@@ -1,11 +1,11 @@
 ---
-title: "Taglines"
+title: "One Liner"
 description: "Proving you've got what it takes to solve your prospect's problem."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 802
+weight: 801
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,15 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
- Rules
- * Come up with a three word tagline
- * Maybe four...
- * sometimes five...
 
-https://pressbooks.cuny.edu/copywriting/chapter/6-3-taglines/ (read this course... good shit here)
 
-### Taglines
-* They'll fight over it when they're dead.
-* Metamucil Get You Movin
-* Swipe Less, Date More
-* The Dating App Designed to be Deleted
+COMPANY LOGO HEADLINES
+* Companies [BENEFIT] with [PRODUCT/SERVICE]

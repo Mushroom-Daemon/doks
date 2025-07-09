@@ -70,3 +70,7 @@ Keep your layout simple and clear—no fancy shit! (It can hurt comprehension.)
 
 Is your offer so simple anyone can understand it? How can you make the choice easy for the prospect?
 
+### Make it More Impactful
+
+Sometimes, get your main thoughts and just rearrange them. Often, there's a more impactful way.
+

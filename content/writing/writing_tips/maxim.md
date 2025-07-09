@@ -80,6 +80,8 @@ So short&mdash;and easy to read&mdash;that the reader is almost sucked into it a
 * It had to happen.
 * Picture this.
 * This may surprise you.
+* Everybody wants to know.
+* It has to be said.
 
 Slide into next one...
 
