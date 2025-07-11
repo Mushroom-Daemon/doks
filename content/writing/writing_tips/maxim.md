@@ -41,12 +41,13 @@ As he puts it:
 
 *"Each element, every element, serves a single purpose. To get you to read the first sentence of copy. Don't challenge it. Just accept it. The logo? You think it has some other function? it doesn't. It's to get you to read the copy. Really.*
 
-That means your headline, subheading, picture, caption and even the design of your ad all share that singular goal. Again, it may seem obvious, but there is a trap. Think about your headline. You might assume it has to have something to do with the benefits of your product. *It doesn't.* It just has to get your prospect to read the first sentence.
+That means your headline, subheading, picture, caption and even the design of your ad all share one singular goal: getting the prospect to read the copy. Again, it may seem obvious, but there is a trap. Think about your headline. You might assume it has to have something to do with the benefits of your product. *It doesn't.* It just has to get your prospect to read the first sentence.
 
 This also has to do with formating. If something looks hard to read&mdash;is a giant block of text, for example, fewer people will start the process. You want the copy to look inviting.
 
 * Write short sentences. They're easy to read. Short sentences are also easy to understand. That's important if you want to get your point across. One point, one sentence.
 * Don't be afraid to start sentences with "And" or "Because" or "Or." It'll help keep your sentences short.
+* Use dashes&mdash;makes your copy shorter.
 
 > *"We all take our food supply for granted. And for good reason. Americans have always had plenty. But we may be heading for one of the most serious periods in our history. Let me explain."*
 

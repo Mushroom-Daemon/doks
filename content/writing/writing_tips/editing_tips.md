@@ -29,12 +29,12 @@ Get in, make your point, get out. Your goal is to make your point with the maxim
 
 Some things to consider:
 
-* Fuck grammar&mdash;feelings are more important (caveat: unless your client's tone suggests otherwise)
-* Use simple words. They're the heaviest.
-* Search your document for "that" and remove/rewrite&mdash;there's ususally a shorter way to say it
+* Grammar comes second to emotion and legibility&mdash;feelings are more important (caveat: unless your client's tone suggests otherwise)
+* Use simple words&mdash;they carry the most weight.
+* Search your document for "that" and remove/rewrite&mdash;there's ususally a shorter way to say it (show an example)
 * Vary sentence length for good rhythm
 * Hyphenate sentences&mdash;makes 'em shorter
-* Try rearranging your thoughts for more emotional impact
+* Try rearranging ideas for more emotional impact
 
 ### Edit for Specificity
 
@@ -46,21 +46,7 @@ You want to keep the copy (and offer) as simple as possible.
 
 Everything must be as simple as possible while getting your message across.
 
-The message should be so basic and uncomplicated that it doesn’t take much to understand it. If you confuse, you lose. People don’t buy the best products. They buy the ones they understand. Now that I think about it, this goes for partners, too.
-
-Focus on what you’re trying to accomplish and eliminate things that complicate or aren’t necessary.
-
-Words are stories—emotional images—and simple words carry the greatest impact
-
-Keep your layout simple and clear—no fancy shit! (It can hurt comprehension.)
-
-Is your offer so simple anyone can understand it? How can you make the choice easy for the prospect?
-
-You want to keep the copy (and offer) as simple as possible.
-
-Everything must be as simple as possible while getting your message across.
-
-The message should be so basic and uncomplicated that it doesn’t take much to understand it. If you confuse, you lose. People don’t buy the best products. They buy the ones they understand. Now that I think about it, this goes for partners, too.
+The message should be so basic and uncomplicated that it doesn’t take much to understand it. If you confuse, you lose. People don’t buy the best products. They buy the ones they understand.
 
 Focus on what you’re trying to accomplish and eliminate things that complicate or aren’t necessary.
 
