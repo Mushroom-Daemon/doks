@@ -16,4 +16,4 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-James Blackwell is the Senior Copywriter at Integro 212. He's also a Grammy award winning trumpet player. he created the Kickass Copy Playbook for business and pleasure.
+James Blackwell is a Grammy award winning trumpet player. He's also Senior Copywriter at Integro 212. He created the Kickass Copy Playbook for business and pleasure.
