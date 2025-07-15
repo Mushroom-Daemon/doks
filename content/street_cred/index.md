@@ -16,4 +16,4 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Grammy award winning trumpeter, renowned educator, Senior Copywriter at Integro 212 business consultancy, and all around cool guy.
+James Blackwell is the Senior Copywriter at Integro 212. He's also a Grammy award winning trumpet player. he created the Kickass Copy Playbook for business and pleasure.

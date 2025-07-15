@@ -17,11 +17,23 @@ Junk mail. I was mesmerized by it. Still am.
 
 Send a stranger a letter, get them to open it, *read it*, and then buy whatever you're selling? That's magic&mdash;a magic that drew me into this field years ago and a big part of what holds me here today.
 
- But not everyone has such a positive view on the topic of persuasion. In fact, many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oil salesmen. Shiesters who will do or say anything for a quick buck or vote. And here's the thing.
+ But not everyone has such a positive view on the topic of persuasion. In fact, many folks are of the opinion that marketers (which, as a persuasive writer, you are) are practicing a kind of *dark* magic. They're manipulators. Snake oilers. Shiesters who will do or say anything for a quick buck or vote. And here's the thing.
 
  Sometimes they're right.
 
-But there's also a positive side to this psychological sorcery&mdash;the good witch or wizard who uses these magic ingredients to concoct potions of mutual benefit. You too can weild these forces for good. And I believe all it takes is this.
+But there's also a positive side to this psychological sorcery&mdash;the good witch or wizard who uses these magic ingredients to concoct potions of mutual benefit. And you too can weild these forces for good. [maybe this is *really about* "so open your mind to the ideas that follow. Find ways to emply these elements that feel good and authentic to you. And have fun. So there you go...
+
+Your first lesson:
+
+Have fun.
+
+(And don't be an asshole.)
+
+Now let's get on with lesson #2.
+
+....
+
+And I believe all it takes is this.
 
 Having integrity.
 

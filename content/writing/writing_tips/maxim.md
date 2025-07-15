@@ -83,6 +83,7 @@ So short&mdash;and easy to read&mdash;that the reader is almost sucked into it a
 * This may surprise you.
 * Everybody wants to know.
 * It has to be said.
+* I liked oatmeal. But I didn't *love* oatmeal. Until this.
 
 Slide into next one...
 
