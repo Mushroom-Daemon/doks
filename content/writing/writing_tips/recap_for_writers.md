@@ -18,7 +18,7 @@ There will be times when everything you write sucks. There will be times when yo
 
 Work works.
 
-Just sit down, start your timer, and do your best. The words will come. They always come. The ideas will present themselves. You will sift through the grainy bottom of a river of self doubt and find the glittering gold buried inside. And it will be fun. And people will think you're some kind of genius.
+Just sit down, start your timer, and do your best. The words will come. They always come. The ideas will present themselves. <s>You will sift through the grainy bottom of a river of self doubt and find the glittering gold buried inside.</s> You will shift through a river of shit and find the glittering gold buried inside. And it will be fun. And people will think you're some kind of genius.
 
 sometimes I just make work goals w my creative writing. like, take this crap sorry I wrote and work on it one hour this week. twenty minutes at a time or whatever. cut parts out, add stuff in, play around and figure what it's all about. something always happens. there's a little bit of gold in there.
 
