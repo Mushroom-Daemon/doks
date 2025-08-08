@@ -15,6 +15,9 @@ seo:
 ---
 THERE IS MORE CRAP IN ONE NOTE
 
+
+Headline Ideas for Philo Problem: Check Webinar Copy... Running Your Business Shouldn't Be a Struggle
+
 Always talk about your customer's problems. It attracts them to you more--it deepens their interest in the story you're telling.
 
 The only reason they reach out to you is because they have a problem. Define the problem so clearly that when they face that issue, they go to you.

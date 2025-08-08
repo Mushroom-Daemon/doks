@@ -13,6 +13,15 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+HOW TO ORGANIZE ALL THE headers I have?
+
+Running your business shouldn't be...
+
+From overwhlemed to hopeful in 24 hours (the transformation)
+
+
+
+
 These are HOOKS, FASCINATIONS, and THROAT GRABBERS
 
 The challenge for all kickass copywriters is the same: getting the ready to read your copy.

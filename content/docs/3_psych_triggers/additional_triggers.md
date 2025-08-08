@@ -13,7 +13,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass.
+Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass. (ADD EVERYTHING FOR A QUICK REFERENCE)
+
+#### To do: add the original six or whatever. make this fast and skimmable.
+
+### These Are My Concessions
+
+This is my favorite one.
 
 ### The Feeling of Ownership
 
@@ -91,6 +97,9 @@ People love stories. Why? I don't really know or care. But if you want your read
 * Is there a story behind your discovery of this product?
 * What is the story of what you *do*? How did you get here?
 * Are there any stories about you or your customers that are of interest?
+* How did you *feel*?
+
+> Personally, I came to the training with no experience in community organizing or really in any sort of activism. I had been reading the news and feeling more and more sadness... and just felt stuck. I understood my faith calls me to action and to follow in the footsteps of Jesus, *but I felt lost on what that looks like effectively and practically.*
 
 And here's a wilcard.
 
