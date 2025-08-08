@@ -1,5 +1,5 @@
 ---
-title: "Kickass Copy Elements"
+title: "Kickass Copy Essentials"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00

@@ -13,13 +13,15 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-HOW TO ORGANIZE ALL THE headers I have?
+HOW TO ORGANIZE ALL THE headlines I have?
 
 Running your business shouldn't be...
 
 From overwhlemed to hopeful in 24 hours (the transformation)
 
+From overwhelm -> to empowerment (this was on a menno action subject line)
 
+I like something like "headline ideas" and then the little blips with a cascading menu
 
 
 These are HOOKS, FASCINATIONS, and THROAT GRABBERS
