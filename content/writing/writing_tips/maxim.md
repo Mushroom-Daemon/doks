@@ -79,6 +79,7 @@ So short&mdash;and easy to read&mdash;that the reader is almost sucked into it a
 * This just in.
 * It's easy.
 * It had to happen.
+* You'll likely agree...
 * Picture this.
 * This may surprise you.
 * Everybody wants to know.

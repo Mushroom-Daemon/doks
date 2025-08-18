@@ -13,7 +13,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-
+The best thing to do is keep  a swipe of headlines YOU like... It's your party, afterall. Find what works for you!
 
 COMPANY LOGO HEADLINES
 * Companies [BENEFIT] with [PRODUCT/SERVICE]
+
+
+HERE'S YOUR MARKETING DEGREE IN 11 SECONDS

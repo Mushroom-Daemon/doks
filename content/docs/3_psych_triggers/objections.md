@@ -23,6 +23,8 @@ And if they're thinking about you (or your product)...
 
 Here are a few examples.
 
+IDEA: Pitch *against* yourself. Why shouldn't they buy from you? Seriously.
+
 ##### Example 1:
 
 > *"The only negative feature of this house may appear to be the busy street facing the back yard..."*

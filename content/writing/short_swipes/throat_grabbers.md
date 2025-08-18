@@ -23,6 +23,7 @@ From overwhelm -> to empowerment (this was on a menno action subject line)
 
 I like something like "headline ideas" and then the little blips with a cascading menu
 
+put a QUESTION HEADER style like for AI shit... it's good and works!
 
 These are HOOKS, FASCINATIONS, and THROAT GRABBERS
 
@@ -116,6 +117,8 @@ This guy golfs better than most people because... he understands "balance" in a 
 * If you're trying to quit, just inhaling the fragrance of this tonic helps you 'ride out' the craving for a cigarette.
 * To help you quit smoking or cut down on your habit, try chewing on a small piece of (mixture named on page 505).
 * If you're trying to quit smoking cold turkey, drink a lot of (juice named on page 506)... The juice will clear your body of nicotine faster.
+
+ *** use my BTB fascinations... They're good!
 
 **For PROBLEM: SOLUTION**
 
