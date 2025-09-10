@@ -39,6 +39,12 @@ Here are a few suggestions:
   * The feeling of quality and durability in your hand
   * Etc...
 
+### Social Proof
+
+Testimonials, all that shit. This ties in with authority, but it's a good thing to include.
+
+How can you prove other people have gotten results? That you have what it takes?
+
 ### Edit for Specificity
 
 Find any vague claims you have made in your copy and make them more specific (unless you're playing on hope). Be exacting in your explanations of why things are and how they work. Doing so makes you seem more credible... And as a result, *believable*!
