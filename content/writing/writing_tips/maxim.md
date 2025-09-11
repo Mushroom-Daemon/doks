@@ -63,6 +63,8 @@ NOt copy, per say, but a great example of using short sentences (fragments) to t
 
 #### Kickass Copy Principle 3
 
+*the following are also included in the swipe section*
+
 Now, you've got the prospect down to your first sentence. What do you think the goal of that first sentence is? I'll tell you.
 
 To get them to read the second sentence.
