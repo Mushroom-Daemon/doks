@@ -27,5 +27,5 @@ seo:
 * This may surprise you.
 * Everybody wants to know.
 * It has to be said.
-* Here's a story about.
+* Here's a story about...
 * I liked oatmeal. But I didn't *love* oatmeal. Until this.
