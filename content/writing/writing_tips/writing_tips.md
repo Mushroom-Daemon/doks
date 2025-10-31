@@ -21,9 +21,11 @@ No matter how much you write, there will always remain this hesitation. I rememb
 
 Here you'll find a few tips for making the wrting process easier. Once you get into the work of writing, I think you'll find it quite enjoyable, if you don't already. Let's go.
 
+SOMEHWERE I NEED SOMETHING ABOUT WHO IT'S FOR; WHAT'S YOUR GOAL?
+
 #### Write All the Time
 
-Write all the time. Letters and postcards. Every opportunity that you can. Never worry about it being good. Just write.
+Write all the time. Letters and postcards. Every opportunity that you can. Never, ever, ever worry about it being good. Just write.
 
 #### Writing Your First Draft
 
