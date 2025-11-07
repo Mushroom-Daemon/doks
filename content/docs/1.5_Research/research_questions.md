@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-
+The following questions will help you get the information you need to write kickass copy---*fast*.
 ***customer persona***
 * What does you typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
@@ -35,11 +35,9 @@ Fill in the blank:
 * What are the benefits of working with you?
 * What are all the features of your product? (turn to benefits... the hexagonal pencil won't roll)
 
-***tell them why/empathy***
-* Why did you start the company? (sometimes leads to empath)
-
 ***empathy***
 * Do you relate to their struggles in any way?
+* Why did you start the company?
 
 ***authority***
 * What makes you an authority in this space?
