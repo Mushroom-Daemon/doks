@@ -13,28 +13,33 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-## Creating a Sense of Urgency
+
 A while back I had this girlfriend. We had a lot of fun, but she was hesitant to commit to me. No matter what I tried, she just wouldn't become "official."
 
 Then, there was another time&mdash;with another girlfriend&mdash;and *I* was the one having a hard time committing to *her*. I just couldn't help but wonder what else was out there...
 
-Both relationships eventually led to committment. But something needed to happen first. He's what tipped the scales...
+Both relationships eventually led to committment. But something needed to happen first.
 
 A breakup...
 
-And both times the dumper came crawling back for more.
+And both times the dumper came crawling back with their tail between their legs.
 
 Humans are funny. We sometimes don't appreciate what we have in the moment, but man, oh man, when there's a threat of it being taken away, we sure can hold on tight. The time to shit or get off the pot is over, and with no bathroom in sight, suddenly we've got to shit *real bad*.
 
 As a kickass copywriter, you must use this to your advantage. Because even after the perfect pitch, the most incredible offer (like getting to be my girlfriend) people might not take the bait...
 
-They'll want to think over their options. They'll hem and haw. They'll move on. *They'll probably find themselves another boyfriend or girlfriend.* Unless you do one thing.
+* They'll want to think over their options.
+* They'll hem and haw.
+* They'll move on.
+* *They'll probably find themselves another boyfriend or girlfriend.*
 
-Stoke the fire with the fear of loss. Motivate your prospects with a feeling of scarcity. Do it in every piece of kickass copy you write.
+... Unless you do one thing.
+
+Stoke the fire with the fear of loss.
 
 Here are a few ideas to get you started.
 
-## Swipes
+## Swipes (I don't need these... Go right to the big question!)
 
 * Deadlines
 * Limited supplies/product shortages

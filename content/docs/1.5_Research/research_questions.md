@@ -14,6 +14,9 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 The following questions will help you get the information you need to write kickass copy---*fast*.
+
+Ask: who else can be a part of this conversation? Who can I talk to?
+
 ***customer persona***
 * What does you typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
@@ -30,10 +33,13 @@ Fill in the blank:
 * What do they have to lose by not acting?
 * What's at stake if they go with another provider?
 
-
 ***benefits***
 * What are the benefits of working with you?
-* What are all the features of your product? (turn to benefits... the hexagonal pencil won't roll)
+* What are all the features of your product?
+* Do you take any special measures?
+* What does the process/quality control look like?
+* Why do you do it this way?
+* What options does the product come in?
 
 ***empathy***
 * Do you relate to their struggles in any way?
@@ -46,10 +52,12 @@ Fill in the blank:
 * How long have you been in business?
 * How many clients have you served?
 * Anything you're the biggest, best, first at?
+(check authority swipes?)
 
 ***hesitations/objections***
 * What are the main hesitations or objections customers have? What's holding them back? What are they afraid of?
 * What are the most common complaints you hear related to your service?
+* If you could magically improve some aspect of your product, what would it be?
 
 ***plan***
 * What's the first step in doing business with you?
@@ -58,6 +66,7 @@ Fill in the blank:
 
 ***agreement***
 * Do you offer any warranties or guarantees?
+* What service or support comes from with your product?
 
 ***urgency***
 * What do they have to lose by waiting?
@@ -68,6 +77,12 @@ Fill in the blank:
 * What about your product *isn't* easy and amazing? What kind of sucks (price, onboarding, scheduling, etc.)?
 * When is your product not a good fit?
 
+***stories***
+* Are there any interesting stories about your product? Obstacles overcome? False starts leading to brilliant realizations? A big break?
+
+***getting even more info***
+* Can you hop on an online forum for market immersion?
+* What info already exist&mdash;previous ads, brochures, direct mailers, etc.?
+
 ***customer experience (voice/tone principles)***
 * What is the experience you want them to have working with you?
-
