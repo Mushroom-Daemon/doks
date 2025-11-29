@@ -84,10 +84,10 @@ build glossaries and definition pages. each term has a self-contained explanatio
 
 IMPLEMENT SCHEMAS
 
-![semantic cues](/images/semantic_cues.png "how to write")
+![semantic cues](assets/images/semantic_cues.png "how to write")
 
-![power phrases](/images/power_phrases.png "power phrases"")
+![power phrases](assets/images/power_phrases.png "power phrases"")
 
-![writing approach](/images/ai_writing_approach.png "writing approach")
+![writing approach](assets/images/ai_writing_approach.png "writing approach")
 
-![headers](/images/how_to_write_headers.png "Excerpt from my New York Times bestseller")
+![headers](assets/images/how_to_write_headers.png "Excerpt from my New York Times bestseller")
