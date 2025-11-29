@@ -15,7 +15,7 @@ seo:
 ---
 ##### No copy is kickass without this. (It can double response.)
 
-### Headline
+### How to Write A Great Satisfaction Conviction
 
 Here's the deal. Even after the perfect pitch, readers may still have hesitations. Why? Because it's natural to worry about whether or not you're making the right choice (relationships, amirite?). So to make you copy that much more kickass, you need to obliterate that worry. You do that with your satisfaction conviction.
 
@@ -29,13 +29,6 @@ and/or...
 
 Here's an example from outdoor retailer, REI.
 
-### Example 1: REI
-
-> **100% Satisfaction Guarantee**
->
-> *We stand behind everything we sell. If you are not satisfied with your purchase, you can return it for a replacement or refund&mdash;with a few exceptions&mdash;within one (1) year of the purchase date if you are an REI Co-op Member or within 90 days of your purchase if you are not a member.*
-
-What makes this return policy so great is not just its length&mdash;a generous year long return window, but that the great can be returned *used*. Try the gear for a full year. Give it hell. Don't love it after that, bring it back.
 
 ### Two Keys to a Great Satisfaction Conviction
 
@@ -53,6 +46,15 @@ The first key may be the most important. It requires understanding the worries o
 **Key #2: Going Above and Beyond**
 
 Once you've resolved the concerns of your prospect, it's time to take it a step further. Here are a few good examples that cover all those bases.
+
+### Example 1: REI (cut this... just use mine from Integro... shows I can do it eh)
+
+> **100% Satisfaction Guarantee**
+>
+> *We stand behind everything we sell. If you are not satisfied with your purchase, you can return it for a replacement or refund&mdash;with a few exceptions&mdash;within one (1) year of the purchase date if you are an REI Co-op Member or within 90 days of your purchase if you are not a member.*
+
+What makes this return policy so great is not just its length&mdash;a generous year long return window, but that the great can be returned *used*. Try the gear for a full year. Give it hell. Don't love it after that, bring it back.
+
 
 ### Example 2: Precise Builder
 

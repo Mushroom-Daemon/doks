@@ -40,6 +40,9 @@ Some things to consider:
 
 Find any vague claims in your copy and make them more specific (unless you're selling on hope LINK).
 
+### MAYBE EDIT FOR CURIOSITY
+Then something simple—but brilliant—happened. (Dan Lapp wrote this... something about a collection of curiosity stuff that get's peoples eyes moving through the content)
+
 ### Edit for Simplicity
 
 You want to keep the copy (and offer) as simple as possible.

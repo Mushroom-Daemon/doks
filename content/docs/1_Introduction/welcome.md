@@ -13,23 +13,17 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-It's true. I'm a selfish bastard. I didn't make this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.
+It's true. I'm a selfish bastard. I didn't create this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.
 
-So I made the copy playbook.
+So I made the kickass copy playbook&mdash;a practical, user-friendly guide for anyone who wants to write kickass copy that converts.
 
-Blah blah blah...
-Not for you, but for me. But since you're here let's make you look good, too.
-
+And when I say anyone, I mean it.
 
 
+What you'll find here is a collection of ideas and teachings from some of the best copywriters, persuasive essayists, and professional writers out there&mdash;all folks who have moved the hearts, mids, and a hell of a lot of money through the power of the written word.
 
-*Who is this for? it's for someone who wants to write kickass copy that converts. Write it for Teddy. This is for anyone interested in improving their skills as a persuasive writer. I think folks with a creative and psychology bent will also find the information here interesting. Or maybe you just like a good story. There are plenty of those, as well.*
 
-JUST GET THE FUCKING POINT ACROSS
 
-Do I need to explain that this is about long-form copy? Perhaps so.
-
-Welcome to the Kickass Copy Playbook&mdash;a practical, user-friendly guide to writing kickass copy that converts.
 
 The Kickass Copy Playbook was written for anyone interested in persuasive writing&mdash;whether you write ads for a living, hope to suade donors or volunteers to give more of themselves, or just want to convince the girl next door you're totally worth it (hey, love notes are hip). I've tried it all, and through my sucesses and mistakes have learned a thing or two that work. You'll find that here. ... improve clik-thru... whatever.
 

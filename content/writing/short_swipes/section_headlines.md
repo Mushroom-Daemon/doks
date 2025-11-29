@@ -20,3 +20,15 @@ COMPANY LOGO HEADLINES
 
 
 HERE'S YOUR MARKETING DEGREE IN 11 SECONDS
+
+
+
+### Short Headlines
+
+(like billboards and stuff)
+
+Well Behaved in Two Weeks. We can train any dog.
+
+We sue drunk drivers. Lawyers you can trust.
+
+Think Traffic Sucks? Try a dry sandwich. Mayonaise.

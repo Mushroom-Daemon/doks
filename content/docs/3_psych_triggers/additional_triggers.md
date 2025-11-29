@@ -39,6 +39,13 @@ Here are a few suggestions:
   * The feeling of quality and durability in your hand
   * Etc...
 
+### Plan/Future Pacing
+
+To complete this micro course you'll need:
+1. 174 3.5" index cards (or any paper, really)
+2. A pen or pencil
+3. 30 minutes a day blocked off for the next 7 days
+
 ### Social Proof
 
 Testimonials, all that shit. This ties in with authority, but it's a good thing to include.

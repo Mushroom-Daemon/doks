@@ -13,7 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-The following questions will help you get the information you need to write kickass copy---*fast*.
+Great copy ideas don't come out of thin air. They come from research. The following questions will help you ...
+
+come from research. They The following questions will help you get the information you need to write kickass copy---*fast*.
 
 Ask: who else can be a part of this conversation? Who can I talk to?
 
@@ -40,22 +42,25 @@ Fill in the blank:
 * What does the process/quality control look like?
 * Why do you do it this way?
 * What options does the product come in?
+* How big is your team? Why is that an advantage?
+* Are you just the hardest working team in show business? (Hertz)
 
 ***empathy***
 * Do you relate to their struggles in any way?
 * Why did you start the company?
 
 ***authority***
-* What makes you an authority in this space?
 * How do your current clients find you?
 * Do you have any awards/accolades/press/certifications?
 * How long have you been in business?
 * How many clients have you served?
 * Anything you're the biggest, best, first at?
 (check authority swipes?)
+* Anything else you believe makes you an authority in this space?
 
 ***hesitations/objections***
-* What are the main hesitations or objections customers have? What's holding them back? What are they afraid of?
+* What are the main hesitations or objections customers have? What are they afraid of?
+* What are the most common questions you get asked when people call for service?
 * What are the most common complaints you hear related to your service?
 * If you could magically improve some aspect of your product, what would it be?
 
@@ -86,3 +91,5 @@ Fill in the blank:
 
 ***customer experience (voice/tone principles)***
 * What is the experience you want them to have working with you?
+
+Include a plain text download to use without all the extra crap.

@@ -18,6 +18,7 @@ seo:
 
 * Solitary confinement.
 * Secret's out.
+* Sad, but true.
 * Breaking news.
 * This just in.
 * It's easy.
@@ -29,3 +30,4 @@ seo:
 * It has to be said.
 * Here's a story about...
 * I liked oatmeal. But I didn't *love* oatmeal. Until this.
+* Imagine this. (then something bad... twist the knife)
