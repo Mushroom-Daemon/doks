@@ -1,5 +1,15 @@
 // Put your custom SCSS code here
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+
 img {
   width: 100%;
   height: auto;
   }
+
+  body {
+  font-family: Consolas, monospace !important;
+}
