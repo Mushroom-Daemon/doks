@@ -22,7 +22,7 @@ IDEAS: Get the ID transformation in here. Maybe sort the questions by "customer-
 ***customer persona***
 * What does you typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
-* When they reach out to you, are they feeling stressed, worried, overwhelmed by anything?
+* When they reach out to you, are they feeling stressed, worried, uncertain, or overwhelmed by anything?
 * Is there anything in the way of them getting what they need?
 
 ***philo copy bit***
