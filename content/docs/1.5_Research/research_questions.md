@@ -17,7 +17,7 @@ Great copy ideas don't come out of thin air. They come from research. The follow
 
 come from research. They The following questions will help you get the information you need to write kickass copy---*fast*.
 
-Ask: who else can be a part of this conversation? Who can I talk to?
+IDEAS: Get the ID transformation in here. Maybe sort the questions by "customer-centric" and then business info.
 
 ***customer persona***
 * What does you typical customer look like? What do they want?

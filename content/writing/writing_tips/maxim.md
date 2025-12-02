@@ -13,6 +13,16 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
+
+
+
+Here's an example: carmax solves a need--they get you a car. but they never talk about it. they talk about how they're not used car salesmen--and focus on alleviating the internal pains associated with buying one. what you see iswhat you pay. no commissions. quality certs and inspections to make sure every car is reliable.
+
+People are motivated to solve internal problems--even if you fabricate them. I didn't have a real problem with telling time. I had ways of telling time. I created a problem and resolved it with a watch I made a part of my story.
+
+The BUYING resolves the internal pressure. The dissonance.
+
 #### Kickass Copy Principle 1
 
 If I were to ask you what the *most* important thing to focus on with your copy, what do you think you'd say?

@@ -46,6 +46,47 @@ To complete this micro course you'll need:
 2. A pen or pencil
 3. 30 minutes a day blocked off for the next 7 days
 
+Last step of plan is feeling of ownership
+First is CTA
+
+### The Plan/Future Pacing
+
+there is a pic in onenote
+
+alleviate confusion and hesitancy. It may seem obvious--but it isn't. Spell it out.
+
+Customers trust a guide who has a plan. Once you commit, there is risk. Have a plan.
+
+Clear a path and people will walk it. Three steps is dumb. Use more.
+
+A plan needs a name. Increase perceived value.
+
+  • Easy Installation Plan
+  • World's Best Night's Sleep Plan
+  • Our Quality Guarantee
+    ○ For something like this, include the plan and then guarantee the final step w your agreement
+  * All-State Value Plan
+  * Demolish Your Debt Plan
+
+Keep it simple--like these.
+
+
+  1. Open pop tarts
+  2. Cook pop tarts
+  3. Eat pop tarts
+
+  1. Measure your space
+  2. Order items that fit
+  3. Install in minutes using basic tools
+
+  1. Test drive car
+  2. Buy car
+  3. Enjoy free maintenance for life
+
+  Give us a call, we’ll tow your car for free and have you road ready in 24 hours
+
+![You Need A Budget](/images/ynab_plan.png "Demolish Your Debt Plan")
+
 ### Social Proof
 
 Testimonials, all that shit. This ties in with authority, but it's a good thing to include.
@@ -472,52 +513,4 @@ Get them in agreement with you.
 
 Who are the winners? What are they doing that's effective? Pattern an approach after theirs&mdash;but with a twist of your own.
 
-### The Plan/Future Pacing
 
-there is a pic in onenote
-
-alleviate confusion and hesitancy. It may seem obvious--but it isn't. Spell it out.
-
-Customers trust a guide who has a plan. Once you commit, there is risk. Have a plan.
-
-Clear a path and people will walk it. Three steps is dumb. Use more.
-
-A plan needs a name. Increase perceived value.
-
-  • Easy Installation Plan
-  • World's Best Night's Sleep Plan
-  • Our Quality Guarantee
-    ○ For something like this, include the plan and then guarantee the final step w your agreement
-
-Frame that shit in your customer's mind!
-
-keep it simple.
-
-
-  1. Open pop tarts
-  2. Cook pop tarts
-  3. Eat pop tarts
-
-  1. Measure your space
-  2. Order items that fit
-  3. Install in minutes using basic tools
-
-  1. Test drive car
-  2. Buy car
-  3. Enjoy free maintenance for life
-
-
-Names
-
-  • All-State Value Plan
-
-
-Integro like to use the CTA as step one and the final benefit/primary desire as final step
-
-In business, no one oversells.
-
-So, this is for websites, but in long-form copy, include it too.
-
-Give us a call, we’ll tow your car for free and have you road ready in 24 hours
-
-![You Need A Budget](/images/ynab_plan.png "Demolish Your Debt Plan")

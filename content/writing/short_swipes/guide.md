@@ -17,24 +17,21 @@ on the guide section/authority section, don't pussyfoot around. Be brief, do it 
 
 Growing a business isn’t easy. And at Integro Coaching, we’ve been through it all—mastering difficulties in our own companies, leadership teams and employees, and the countless businesses we’ve helped strengthen since 2017.
 
-The following are examples of EMPATHY and some combine EMPATHY and AUTHORITY into a nice guide section.
 
-Start losing success over the success of your customer--not your business. Be interested in them.
 
-Commonality is a powerful marketing tool. Liking. Trust.
 
 HOW DO YOU UNDERSTAND THE FEELING?
 
 WE GET IT, MANY OF OUR CLIENTS (blah, blah, blah)
 
-  • We know how hard…
-  • We care about… (your Toyota)
-  • Many of our customers struggle with…
-  • If you're worried about… we can help you hit a grand slam.
-  • Like you, we're troubled [emotion] by…
-  • When _ happens, it hurts.
+* We know how hard…
+* We care about… (your Toyota)
+* Many of our customers struggle with…
+* If you're worried about…
+* Like you, we're troubled by…
+* When _ happens, it hurts.
 
-LIKE YOU, WE RUN OUR BUSINESS BY THE NUMBERS
+
 
 ANXIETY: EXPERT ADVICE FROM A NEUROTIC SHRINK WHO'S LIVED WITH IT ALL HIS LIFE
 
@@ -54,10 +51,6 @@ IN RAISING OUR FAMILY, FINDING WHOLESOME, ON-THE-GO SNACKS FOR OUR KIDS WASN'T E
 
 I WENT BANKRUPT A LONG TIME AGO. THEN I [FOUND THIS] AND NOW I HAVE FINANCIAL PEACE AND YOU CAN TOO.
 
-YOU MIGHT DO THIS ONCE IN YOUR LIFE - WE DO IT EVERYDAY
-
-WE DON'T JUST CARE ABOUT _ , WE CARE ABOUT YOU
-
 IT MAKES SENSE…
 
 YOU'RE RIGHT…
@@ -65,5 +58,3 @@ YOU'RE RIGHT…
 HOW DO I KNOW ALL THIS? BECAUSE I'VE LIVED THROUGH IT MY WHOLE LIFE.
 
 I'VE STRUGGLED WITH RELATIONSHIPS AND CONFIDENCE MY WHOLE LIFE. NO MATTER WHAT I DID OR WHO I DATED, I ALWAYS FELT I WASN'T ENOUGH.
-
-These lead into authority… we can use them as an intro to testimonials… right? why not?
