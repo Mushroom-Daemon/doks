@@ -306,6 +306,10 @@ My girlfriend thinks her beater Prius makes it look like she cares about the env
 
 People don't buy a Mercedes because it has power steering.
 
+### Ask them to Join
+
+What group of people do they want to join? Good for testimonial headlines.
+
 ##### Action Items
 
 Determine the group of people who already own your product and why/how they relate to it and see themselves. Craft your sales presentations accordingly.

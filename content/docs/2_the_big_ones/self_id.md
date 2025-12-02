@@ -4,7 +4,7 @@ description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
-draft: false
+draft: true
 weight: 204
 toc: true
 seo:
@@ -41,18 +41,3 @@ Over the course of those initial 30 days, those fine Iowans *became* the kind of
 What's even more interesting is Cialdini's theory: that the original incentize may have been the only thing holding the Iowans back from knowing they were doing it for the right reasons, and with that social validation removed, they were free to fully embrace and embody their new conservationist identity.
 
 Whatever the reason, this much is true. People want to *see* themselves a certain way&mdash;and when they do, they'll continue to actin accordance with that growing self-image.
-
-
-### A Note on Belonging
-
-Another way to think about this is our desire to *belong*. We want to belong to certain groups, and herd mentality influences everything&mdash;from your politics to what you eat and how you dress.
-
-My girlfriend thinks her beater Prius makes it look like she cares about the environment. There are no shortage of displayed rainbows amongst the queer community. And, at the end of the day, I think my RedWings make me look like a cool guy.
-
-However someone sees themselves, *treat them that way* in your copy.
-
-### Action Items
-
-Determine the group of people who already own your product and why/how they relate to it and see themselves. Craft your sales presentations accordingly.
-
-What group can you ask them to join? (Walnut Valley Puppies)

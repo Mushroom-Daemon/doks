@@ -13,6 +13,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+Thnk about your prospect. Their needs and desires. Their problems. The things that keep them up at night and their dreams. Then, don't write *to* that person. *Become* them.
+
 Now that you've done all the work of getting to know your product, your prospect, and how you'll connect the two, it's time to talk about something that stops many kickass copywriters dead in their tracks.
 
 Writing the pitch.
