@@ -19,10 +19,15 @@ come from research. They The following questions will help you get the informati
 
 IDEAS: Get the ID transformation in here. Maybe sort the questions by "customer-centric" and then business info.
 
+When I go through these... intro each section. Explain it to them as they go.
+
+Some people are easy t otalk to, others need the why, a little guidance. give it to them!
+TALK ABOUT THEIR PROBLEMS.
+
 ***customer persona***
 * What does you typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
-* When they reach out to you, are they feeling stressed, worried, uncertain, or overwhelmed by anything?
+* When they reach out to you, are they feeling stressed, worried, uncertain, angry, or overwhelmed by anything?
 * Is there anything in the way of them getting what they need?
 * What is important about your product to current customers? (ask them)
 
@@ -79,7 +84,7 @@ Fill in the blank:
 * Is anything limited in your service?
 
 ***concession***
-* Why shouldn't they buy from you? Why is it okay (for them) if they don't? Do they have other options?
+* Why shouldn't they buy from you? Do they have other options?
 * What about your product *isn't* easy and amazing? What kind of sucks (price, onboarding, scheduling, etc.)?
 * When is your product not a good fit?
 
@@ -89,8 +94,10 @@ Fill in the blank:
 ***getting even more info***
 * Can you hop on an online forum for market immersion?
 * What info already exist&mdash;previous ads, brochures, direct mailers, etc.?
+* What are the competition up to?
 
 ***customer experience (voice/tone principles)***
 * What is the experience you want them to have working with you?
+* What do they say they like?
 
 Include a plain text download to use without all the extra crap.
