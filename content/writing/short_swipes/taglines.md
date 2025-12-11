@@ -13,6 +13,12 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+ ### How to Brainstorm Taglines
+
+ 1. Emotional Outpouring: Write everything you know/feel about the brand
+ 2. Cut down to 10-15 words
+ 3. Play around with them!
+
  Rules
  * Come up with a three word tagline
  * Maybe four...

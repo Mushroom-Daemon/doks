@@ -54,6 +54,7 @@ Fill in the blank:
 ***empathy***
 * Do you relate to their struggles in any way?
 * Why did you start the company?
+* What do you like about what you do?
 
 ***authority***
 * How do your current clients find you?

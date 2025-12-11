@@ -39,6 +39,8 @@ Stoke the fire with the fear of loss.
 
 Here are a few ideas to get you started.
 
+Time's running out. The end is near. Reply before it's too late.
+
 ## Swipes (I don't need these... Go right to the big question!)
 
 * Deadlines

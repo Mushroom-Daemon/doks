@@ -15,7 +15,15 @@ seo:
 ---
 ### One Liner
 
+Putting up a rental cabin doesn’t have to be complicated. As builders and landlords, CabinPro has been helping investors offer thoughtfully designed, profitable retreat spaces that inspire connection, reflection, and lasting memories for their guests.
+
 ### Tagline Ideas
+
+Offer Amazing Rental
+Offer Amazing Experiences
+Amazing Rentals. Easy.
+Profitable Rentals. Easy.
+Year-Round Rentals
 
 ### Headline Ideas
 
@@ -33,21 +41,20 @@ seo:
 
 ### Customer Persona
 
-CabinPro clients tend to be property owners--either land owners or campground investors--interested in making an extra buck on their property by providing a thoughtfully-designed retreat for couples and families to go and enjoy nature.
+CabinPro clients tend to be property owners—either homeowners or campground investors—interested in making additional income from a rental unit. They appreciate CabinPro’s thoughtfully-designed retreats and enjoy providing individuals, couples, and families a place to go and enjoy nature.
 
 ### Hesitations
 
-While they may have a picture in mind, they are unsure of the steps involved in creating that vision--from working with a builder they can trust, to choosing the right design, and setting up their rental with the township. In short, they lack clarity on what they’re getting and how to go about it.
+While these investors may have a picture in mind, they are unsure of the steps involved in bringing their vision to life—from finding a builder they can trust, to choosing the right design, and setting up their rental unit with the township. In short, they lack clarity in what they need, what they’re buying, and how to go about their project.
+
+### Philo
+
+Getting a Rental Property Doesn’t Have to Be Complicated
 
 ### Guide (Empathy and Authority)
 
-Not only do we build rental cabins--we’re landlords ourselves. And since 2021, CabinPro has been helping investors set up thoughtfully designed, profitable retreat spaces for our clients and their guests.
+Not only does CabinPro build rental cabins—we’re landlords ourselves. And since 2021, we’ve been helping our clients set up thoughtfully designed, profitable retreat spaces that inspire connection, reflection, and lasting memories for their guests.
 
-(Put in first person from Marlin)
-
-### ID Transformation
-
-* Unclear to Confident
 
 ### The Plan
 
@@ -55,19 +62,37 @@ Get Started!: Give us a call or submit the online form to discuss your vision an
 Approve Your Cabin: Approve your design and timeline estimate, and our team gets to work building your perfect rental unit
 Enjoy Reliable Income: Provide a year-round retreat your guests love--and are excited to share positive reviews about!
 
+### Addresses Fears
+
+2-year workmanship warranty—we’ll make it right
+Company owner—who loves people—is just a phonecall away
+**Getting You Up And Running--Fast**
+
+As a smaller company, CabinPro is able to serve our clients more quickly than companies with longer lead times. However, the truth of construction is this.
+
+Delays happen.
+
+So while we can’t in good faith promise an exact delivery date (due to supply chain issues, unforeseen weather or delivery mishaps, etc.) what we can promise is this.
+
+Constant communication, keeping you in the loop at every step, and a company owner--who loves people, BTW--being just a phone call away.
+
 ### CTA Button
 
-* Share Your Vision
-* Speak with the Owner
 * Get Started!
+
+### ID Transformation
+
+* Unclear to Confident
 
 ### Benefits
 
 * Provide your guests with a thoughtfully designed escape and unforgettable outdoor experience
+* Regular check ins to make sure guests are enjoying stay
+
 * RVIA certified
   * No drawings or permits needed
   * Water, sewer, electric hookup and you’re ready
-* Thoughtfully designed + meticulous attention to detail = people enjoying their stay--the bedrock of our design process (ex: window placement)
+* Thoughtfully designed + meticulous attention to detail = people enjoying their stay--the **bedrock of our design process** (ex: window placement)
 * Guidance through design, township, and site prep process
 * Designed for 24/7, year-round rentals (Log cabins are drafty. Closed-cell spray foam insulation to keep your guests warm in the winter, cool in the summer, and energy efficient all year round)
 * Smaller company = personal relationship with owner + we can hit the deadlines you want
@@ -81,18 +106,6 @@ Enjoy Reliable Income: Provide a year-round retreat your guests love--and are ex
 * Don’t miss out on a great source of income
 * Longer timelines with larger companies
 * No one to help you through rental process
-
-### Addresses Fears
-
-**Getting You Up And Running--Fast**
-
-As a smaller company, CabinPro is able to serve our clients more quickly than companies with longer lead times. However, the truth of construction is this.
-
-Delays happen.
-
-So while we can’t in good faith promise an exact delivery date (due to supply chain issues, unforeseen weather or delivery mishaps, etc.) what we can promise is this.
-
-Constant communication, keeping you in the loop at every step, and a company owner--who loves people, BTW--being just a phone call away.
 
 ### Urgency
 
@@ -130,3 +143,6 @@ At CabinPro, we help people create unforgettable outdoor experiences. By guiding
 ### Words to Use
 
 * Guests (for investors’ customers)
+* Easy
+* Personal
+

@@ -25,6 +25,12 @@ Here you'll find a few tips for making the wrting process easier. Once you get i
 
 SOMEHWERE I NEED SOMETHING ABOUT WHO IT'S FOR; WHAT'S YOUR GOAL?
 
+Writing sucks. Even for people that like it. There's nothing worse than really, *really* wanting to be smart and clever and funny and then falling flat on your face and making a complete fool of yourself in front of your peers, colleagues, and loved ones. If you ever have to write, I pity you. And if you chose this for yourself, well...
+
+
+
+. It's a terrible hobby and pastime.
+
 #### Write All the Time
 
 Write all the time. Letters and postcards. Every opportunity that you can. Never, ever, ever worry about it being good. Just write.
@@ -41,7 +47,11 @@ think about everything you’ve learned about the product. The problem you have 
 
 Walk away for awhile. Take a break. Go on a walk. Play a musical instrument or work on something completely different (preferably fun). Let what you know incubate in the dark recesses of your mind, or the warm cockles of your heart, or the SOMETHING SOMETHING of your loind. Whatever. Then, start the emotional outpouring.
 
-#### Emotion Sells... Not Logic
+#### Write Faster'n Greased Owl Shit
+
+This goes after emotion.
+
+#### Emotion Sells... Not Logic or.. START w EmOTION, then justify with logic.
 
 The most effective writing is *emotional*.
 
@@ -177,4 +187,6 @@ Exercise (for your mind and body).
 
 CLEAN YOUR DESK.
 
-**When you start to feel overwhelmed and lost, finish your power session and then walk the fuck away.** also the clean desk. This helps a lot. And clear your desktop and close tabs. This is the creative mind stuff. I think it has to be clear. Silence.
+**When you start to feel overwhelmed and lost, finish your power session and then walk the fuck away.** also the clean desk. This helps a lot. And clear your desktop and close tabs. This is the creative mind stuff. I think it has to be clear. Silence. Do something mindless like that.
+
+It helps if you can take breaks before editing.
