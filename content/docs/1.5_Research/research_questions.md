@@ -25,21 +25,23 @@ Some people are easy t otalk to, others need the why, a little guidance. give it
 TALK ABOUT THEIR PROBLEMS.
 
 ***customer persona***
-* What does you typical customer look like? What do they want?
+* What does your typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
 * When they reach out to you, are they feeling stressed, worried, uncertain, angry, or overwhelmed by anything?
-* Is there anything in the way of them getting what they need?
+* They need _. What’s in the way of them getting that---just having it easily?
 * What is important about your product to current customers? (ask them)
 
 ***philo copy bit***
 
-Fill in the blank:
+Fill in the blank: (give expamples first)
+* What's something your customer experiences that you believe is just plain wrong?
 * Getting your [basic service] shouldn't/doesn't have to be _ .
 * You deserve _ .
 
 ***what's at stake?***
-* What do they have to lose by not acting?
+* What do they have to lose by not buying your products?
 * What's at stake if they go with another provider?
+* What are they afraid of losing or happening after they buy?
 
 ***benefits***
 * What are the benefits of working with you?
@@ -53,16 +55,20 @@ Fill in the blank:
 
 ***empathy***
 * Do you relate to their struggles in any way?
+* What's the strongest pain point your customer deals with, and how do you come alongside them to help overcome it?
 * Why did you start the company?
+* Why this product?
 * What do you like about what you do?
 
 ***authority***
+You have to be able to *prove* you're a trustworthy guide for solving their problems. How can you demonstrate compentency?
+
 * How do your current clients find you?
 * Do you have any awards/accolades/press/certifications?
 * How long have you been in business?
 * How many clients have you served?
-* Anything you're the biggest, best, first at?
-(check authority swipes?)
+* Anything you're the biggest, best, first, only?
+(add some swipes that's useful)
 * Anything else you believe makes you an authority in this space?
 
 ***hesitations/objections***
@@ -77,7 +83,7 @@ Fill in the blank:
 * Do you offer anything free--an easy yes?
 
 ***agreement***
-* Do you offer any warranties or guarantees?
+* Do you offer any warranties or guarantees? (he likesth farmco one... it's realistic)
 * What service or support comes from with your product?
 
 ***urgency***

@@ -13,6 +13,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
+Lot's of people are insecure about their writing chops---yours truly, included. Here are some tips for beating self-doubt, putting in the reps, and getting better (you can do it, everyone can).
+
+
 Thnk about your prospect. Their needs and desires. Their problems. The things that keep them up at night and their dreams. Then, don't write *to* that person. *Become* them.
 
 Now that you've done all the work of getting to know your product, your prospect, and how you'll connect the two, it's time to talk about something that stops many kickass copywriters dead in their tracks.
@@ -190,3 +194,18 @@ CLEAN YOUR DESK.
 **When you start to feel overwhelmed and lost, finish your power session and then walk the fuck away.** also the clean desk. This helps a lot. And clear your desktop and close tabs. This is the creative mind stuff. I think it has to be clear. Silence. Do something mindless like that.
 
 It helps if you can take breaks before editing.
+
+### write how you talk
+
+### be specific
+
+### make it scannable
+
+### getting started:
+
+TALK OUT LOUD. what's your story about? then start talking and transcribing.
+
+
+### clear, useful friendly
+
+

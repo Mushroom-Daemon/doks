@@ -87,17 +87,20 @@ So short&mdash;and easy to read&mdash;that the reader is almost sucked into it a
 
 * Solitary confinement.
 * Secret's out.
+* You've probably heard.
+* It's true. And we see it all the time.
 * Breaking news.
 * This just in.
 * It's easy.
 * It had to happen.
-* You'll likely agree...
+* You'll likely agree.
 * Picture this.
 * This may surprise you.
 * Everybody wants to know.
 * It has to be said.
 * Here's a story about.
 * I liked oatmeal. But I didn't *love* oatmeal. Until this.
+* He was not worried about any of that. But there were other things.
 
 Slide into next one...
 
@@ -138,9 +141,12 @@ How do you make a slide more slippery? Ad lube.
 
 Here's the literary version of greasing up your slide real good. Ending your paragraphs with "clifhangers." The have a hypnotic effect and draw you into the next line of copy. (At first I found these very cheesy. Now I love them.)
 
+* he was not worried about any of that. but there were other things.
 
 * This may surprise you. In fact, if my hunches are correct simply reading this article may change your idea of aging for the rest of your life. Here's why.
 * What made us switch from hating the thing to loving it? Read the following.
+* I liked oatmeal. But I didn't *love* oatmeal. Until this.
+* He was not worried about any of that. But there were other things.
 * That would seem to be the end of the story. But it's not.
 * But almost immediately, something strange happened.
 * Big deal. What's so great about that? Read on.

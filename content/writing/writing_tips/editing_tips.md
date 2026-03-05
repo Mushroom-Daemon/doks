@@ -23,6 +23,50 @@ Here are a few quick tips for editing
 * Breaks from content help freshen your mind and eyes... If you have time, work on something else for awhile before coming back to edit your current copy
 * I find reading your drafts on another screen or device (than the one you use to write) easier to catching errors/find shorter ways to say things. If you're going to use your phone *turn off notifications*.
 
+### read out loud
+
+say: "loisten to me, I have something to tell you" it's from a teacher nefifer Auger
+
+### have someone else read it out loud
+
+yikes
+
+### good writing is
+
+clear, consice, don't say composed, say wrote, don't say objective, say goal, you're not here to obtain, you're here to get. LEVERAGE? blah. use.
+
+it's also specific.
+
+consistent: like, notifications everywhere. not flags or some shit.
+
+scannable, simple sentences, conversationsil.
+
+Use the imperative when it’s appropriate. Talk to your readers, not at them. Tell them what to do in a kind and straightforward way. This little change in perspective can help you be concise.
+
+For example, avoid talking about yourself:
+
+For the holidays, our customers can find the perfect children’s books on our website.
+
+We’re excited to announce that we are introducing over 30 new products to our shop for the holidays.
+
+Instead, be direct:
+
+Find the perfect holiday gift. Shop now.
+
+There are over 30 new items in the shop today! See what’s on sale.
+
+Be careful with the passive voice, where the subject of the sentence comes after the object:
+
+You have received a gift card from Maria.
+
+Instead, use the active voice:
+
+Maria sent you a gift card.
+
+Balance being direct with being nice. Huddle your nouns and verbs close together to shorten your sentences. Active verbs help you write concisely and invigorate your prose so that it feels more like a conversation.
+
+HONEST
+
 ### Edit for Brevity
 
 Get in, make your point, get out. Your goal is to make your point with the maximum amount of emotion in the fewest words possible.
@@ -63,3 +107,38 @@ Is your offer so simple anyone can understand it? How can you make the choice ea
 
 Sometimes, get your main thoughts and just rearrange them. Often, there's a more impactful way.
 
+### avoid adjectives and adverbs and all that.
+
+Check in with your own feelings regularly. As you’re working on each sentence, make sure the writing is sincere. It should represent your real feelings or attitude on the topic. If you feel like you’re pretending or forcing specific words into a phrase, you may need to pull the language back toward reality.
+
+Be careful with adjectives and modifiers. It’s easy to overuse descriptive words and leave readers feeling unsatisfied. Replace fluffy modifiers with concrete ideas. Here are a few examples to avoid:
+
+amazing
+
+artisanal
+
+beautiful
+
+dynamic
+
+industry-leading
+
+innovative
+
+intuitive
+
+memorable
+
+natural
+
+powerful
+
+revolutionary
+
+unique
+
+everyone’s favorite
+
+it’s never been easier
+
+Show readers how your product is different or why it’s great; don’t tell them how to feel. Avoid being melodramatic:
