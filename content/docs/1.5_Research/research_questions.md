@@ -27,9 +27,8 @@ TALK ABOUT THEIR PROBLEMS.
 ***customer persona***
 * What does your typical customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
-* When they reach out to you, are they feeling stressed, worried, uncertain, angry, or overwhelmed by anything?
-* They need _. What’s in the way of them getting that---just having it easily?
-* What is important about your product to current customers? (ask them)
+* When they reach out to you, how are they feeling? Stressed, worried, overwhelmed, excited, eager, uncertain, angry?
+* What do they perceive is in the way of them getting what they want?
 
 ***philo copy bit***
 
@@ -104,6 +103,7 @@ You have to be able to *prove* you're a trustworthy guide for solving their prob
 * What are the competition up to?
 
 ***customer experience (voice/tone principles)***
+* What is important about your product to current customers? (ask them)
 * What is the experience you want them to have working with you?
 * What do they say they like?
 
