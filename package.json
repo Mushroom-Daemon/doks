@@ -26,4 +26,14 @@
   "engines": {
     "node": ">=20.11.0"
   }
+  {
+  "name": "netlify-hugo-deps",
+  "version": "1.0.0",
+  "dependencies": {
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "postcss-cli": "^10.0.0"
+  }
+}
+
 }
