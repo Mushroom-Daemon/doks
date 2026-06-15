@@ -20,6 +20,9 @@
     "thulite": "^2.5.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
     "prettier": "^3.3.3",
     "vite": "^6.2.1"
   },
