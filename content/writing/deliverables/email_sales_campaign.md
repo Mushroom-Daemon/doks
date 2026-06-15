@@ -12,7 +12,7 @@ seo:
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
-  ---
+---
   Email Sales Campaign
 Overcome objections and ask someone to buy
 Get obsessive about asking someone to buy
