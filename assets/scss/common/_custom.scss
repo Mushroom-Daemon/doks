@@ -4,5 +4,5 @@ img {
   height: auto;
   }
 body {
-  font-family: Consolas, monospace !important;
+  font-family: var(--bs-body-font-family);
 }

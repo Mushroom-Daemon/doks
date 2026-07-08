@@ -23,12 +23,14 @@ When I go through these... intro each section. Explain it to them as they go.
 
 Some people are easy t otalk to, others need the why, a little guidance. give it to them!
 TALK ABOUT THEIR PROBLEMS.
-
+***ice-breaker***
+* If you could magically improve some aspect of your business, what would it be?
 ***customer persona***
 * What does your typical (or ideal) customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
 * When they reach out to you, how are they feeling? Stressed, worried, overwhelmed, excited, eager, uncertain, angry?
 * What do they perceive is in the way of them getting what they want?
+* How aware are they?
 
 ***philo copy bit***
 
