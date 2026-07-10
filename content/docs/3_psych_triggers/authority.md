@@ -64,7 +64,7 @@ That means being the knowledgeable friend. *Knowing what you're talking about*. 
 
 ![National Examiner](/images/examiner.jpg "Fastest growing weekly")
 
-{{< callout tip >}} Some of these covers said "See why we're the fastest growing weekly in America" which adds a nice touch of curiosity as well. {{< /callout >}}
+Some of these covers said "See why we're the fastest growing weekly in America" which adds a nice touch of curiosity as well.
 
 ![National Enquirer](/images/enquirer.jpg "Fastest growing weekly")
 
@@ -76,7 +76,7 @@ That means being the knowledgeable friend. *Knowing what you're talking about*. 
 
 ![Breakthrough Advertising](/images/breakthrough.png "Most stolen book from libraries")
 
-{{< callout caution >}} The above picture (which is almost certainly not true) combined with a headline "Only a few copies left worldwide" got me *big time*. {{< /callout >}}
+The above picture (which is almost certainly not true) combined with a headline "Only a few copies left worldwide" got me *big time*.
 
 ![Goodyear Tires](/images/goodyear.jpg "Most tires on the road for 57 consecutive years")
 
@@ -84,7 +84,7 @@ That means being the knowledgeable friend. *Knowing what you're talking about*. 
 
 ![Sleep Reset](/images/sleep_experts.png "Proof Sleep Reset works")
 
-{{< callout note >}} The above example shows "proof," the stakes (link), authority, benefits, and promises. {{< /callout >}}
+The above example shows "proof," the stakes (link), authority, benefits, and promises.
 
 ![Atomic Habits](/images/atomic_habits.png "Excerpt from my New York Times bestseller")
 

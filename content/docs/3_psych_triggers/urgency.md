@@ -59,7 +59,7 @@ Time's running out. The end is near. Reply before it's too late.
 
 (The above example is almost certainly a lie (which means it fails the first rule of kickass copy LINK) but it worked on me. I persuaded the department LINK to buy it for my personal library for $200. It's a great book.)
 
-{{< callout note >}} The company Brooklinin&mdash;a linen manufacturer based out of Brooklyn&mdash;really drives the scarcity home. Here are a handful of their email subject lines. I guess selling sheets is scary business.
+The company Brooklinin&mdash;a linen manufacturer based out of Brooklyn&mdash;really drives the scarcity home. Here are a handful of their email subject lines. I guess selling sheets is scary business.
 
 * THIS WILL ONLY HAPPEN ONCE&mdash;*TAKE ADVANTAGE NOW*
 * WE DON’T WANT YOU TO MISS OUT ON THESE SAVINGS
@@ -73,7 +73,7 @@ Time's running out. The end is near. Reply before it's too late.
 
 Obviously, [SOMETHING] was usually cozy flannels or high threadcount pillow cases or... Use at your discretion.
 
-{{< /callout >}}
+
 
 ### Action Items
 

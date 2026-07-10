@@ -1,19 +1,12 @@
 import autoprefixer from 'autoprefixer';
 import purgeCSSPlugin from '@fullhuman/postcss-purgecss';
-import whitelister from 'purgecss-whitelister';
 
 const purgecss = purgeCSSPlugin({
     content: ['./hugo_stats.json'],
-
     defaultExtractor: (content) => {
         const els = JSON.parse(content).htmlElements;
-        return [
-            ...(els.tags || []),
-            ...(els.classes || []),
-            ...(els.ids || [])
-        ];
+        return [...(els.tags || []), ...(els.classes || []), ...(els.ids || [])];
     },
-
     dynamicAttributes: [
         'aria-expanded',
         'data-bs-popper',
@@ -21,30 +14,29 @@ const purgecss = purgeCSSPlugin({
         'data-bs-theme',
         'data-dark-mode',
         'data-global-alert',
-        'data-pane',
+        'data-pane', // tabs.js
         'data-popper-placement',
         'data-sizes',
-        'data-toggle-tab',
+        'data-toggle-tab', // tabs.js
         'id',
         'size',
         'type'
     ],
-
     safelist: [
         'active',
-        'btn-clipboard',
-        'clipboard',
+        'btn-clipboard', // clipboards.js
+        'clipboard', // clipboards.js
         'disabled',
         'hidden',
-        'modal-backdrop',
-        'selected',
+        'modal-backdrop', // search-modal.js
+        'selected', // search-modal.js
         'show',
         'img-fluid',
         'blur-up',
         'lazyload',
         'lazyloaded',
         'alert-link',
-        'container-fw',
+        'container-fw ',
         'container-lg',
         'container-fluid',
         'offcanvas-backdrop',
@@ -56,19 +48,14 @@ const purgecss = purgeCSSPlugin({
         'page-item',
         'page-link',
         'not-content',
-
-        ...whitelister([
-            './assets/scss/**/*.scss',
-            './node_modules/@thulite/doks-core/assets/scss/components/_code.scss',
-            './node_modules/@thulite/doks-core/assets/scss/components/_expressive-code.scss',
-            './node_modules/@thulite/doks-core/assets/scss/common/_syntax.scss'
-        ])
+        'copy',
+        'btn-copy',
     ]
 });
 
 export default {
-    plugins: [
-        autoprefixer(),
-        ...(process.env.HUGO_ENVIRONMENT === "production" ? [purgecss] : [])
-    ]
+  plugins: [
+    autoprefixer(),
+    ...(process.env.HUGO_ENVIRONMENT === "production" ? [purgecss] : []),
+  ],
 };
