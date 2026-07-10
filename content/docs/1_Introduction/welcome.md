@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-It's true. I'm a selfish bastard. I didn't create this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.
+It's true. I didn't create this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.
 
 So I made the kickass copy playbook&mdash;a practical, user-friendly guide for anyone who wants to write kickass copy that converts.
 
