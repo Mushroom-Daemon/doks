@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 101
+weight: 110
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,6 +13,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+Welcome to the Kickass Copy Playbook.
+
 It's true. I didn't create this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.
 
 So I made the kickass copy playbook&mdash;a practical, user-friendly guide for anyone who wants to write kickass copy that converts.

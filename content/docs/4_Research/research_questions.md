@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 151
+weight: 410
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -47,6 +47,7 @@ Fill in the blank: (give expamples first)
 ***benefits***
 * What are the benefits of working with you?
 * What are all the features of your product?
+* What are there expectations of this product?
 * Do you take any special measures?
 * What does the process/quality control look like?
 * Why do you do it this way?

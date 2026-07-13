@@ -1,12 +1,14 @@
 ---
-title: "Voice_Tone_Guides"
+title: "Research Questions"
 description: ""
 summary: ""
-date: 2023-09-07T16:13:18+02:00
-lastmod: 2023-09-07T16:13:18+02:00
+date: 2023-09-07T16:12:37+02:00
+lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 153
+weight: 400
 toc: true
+sidebar:
+  collapsed: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
