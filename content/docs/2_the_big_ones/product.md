@@ -21,7 +21,7 @@ What's important to me is them being happy. More specifically, them being happy 
 
 Selling ice cream as a part of a healthy diet is a fool's game. But its deliciousness? Its creamy goodness? Convincing your kids or special someone that life with you is a sweet treat? That shit sells.
 
-It's your emotional hook. It's *why* a customer chooses a Prius over a BMW, a PC over a Mac, , . Every product has one. And it's your job to ramp the ever-living piss out of it in your copy.
+It's your emotional hook. It's *why* a customer chooses a Prius over a BMW, a PC over a Mac, a Casio over a Rolex, . Every product has one. And it's your job to ramp the ever-living piss out of it in your copy.
 
 * Every product has unique practical and emotional appeals
 * The *emotional appeal* is what makes people want your product

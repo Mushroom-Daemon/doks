@@ -42,7 +42,6 @@ Fill in the blank: (give expamples first)
 ***what's at stake?***
 * What do they have to lose by not buying your products?
 * What's at stake if they go with another provider?
-* What are they afraid of losing or happening after they buy?
 
 ***benefits***
 * What are the benefits of working with you?

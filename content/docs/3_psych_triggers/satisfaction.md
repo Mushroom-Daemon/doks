@@ -47,22 +47,13 @@ The first key may be the most important. It requires understanding the worries o
 
 Once you've resolved the concerns of your prospect, it's time to take it a step further. Here are a few good examples that cover all those bases.
 
-### Example 1: REI (cut this... just use mine from Integro... shows I can do it eh)
-
-> **100% Satisfaction Guarantee**
->
-> *We stand behind everything we sell. If you are not satisfied with your purchase, you can return it for a replacement or refund&mdash;with a few exceptions&mdash;within one (1) year of the purchase date if you are an REI Co-op Member or within 90 days of your purchase if you are not a member.*
-
-What makes this return policy so great is not just its length&mdash;a generous year long return window, but that the great can be returned *used*. Try the gear for a full year. Give it hell. Don't love it after that, bring it back.
-
-
-### Example 2: Precise Builder
+### Example 1: Precise Builder
 
 Precise Builder is an estimating and project management software for exterior contractors. One of the main hesitations is onboarding (i.e. learning the software). Also note how we go above and beyond.
 
 > *Learning a new software takes time and effort&mdash;and Precise Builder is no different. Let our team walk with you until your crews are completely comfortable. If after six months Precise Builder hasn’t become one of the most valuable tools at your company, we’ll give you your money back&mdash;and help you find a different software.*
 
-### Example 3: Consumer Hero
+### Example 2: Consumer Hero
 
 Consumer Hero was a $5 membership club for buying refurbished electronics at discount prices. The concern for joinging their club would be paying the five dollars and never buying. Also note the more-than-your-money-back guarantee. The interest on $5 would be negligible, but it does the trick!
 
