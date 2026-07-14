@@ -4,7 +4,7 @@ description: "Knowing what you're selling."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
-draft: false
+draft: true
 weight: 202
 toc: true
 seo:
@@ -42,20 +42,6 @@ The speecific way the product should be presented to the customer. This is what 
 
  Every product has a unique personality. A unique nature or tone. Your job is to figure out what that is.
 
- ---
-
- TCUDORP
-
- The first job of an ad agency is to look at your product in every imaginable way: frontwards, backwards, sideways, upside down, inside out. Because somewhere, right there in the product itself, lies the drama that will sell it to people who want it.
-
- There may be 10,000 ways to bring that inherent drama to the stage. And given a world in which "me-too" products multiply like mayflies, the drama may seem that much harder to find.
-
- It is.
-
- But every good product has it.
-
- And every good agency finds it.
-
- (Please note: the "t" in tcudorp is silent.)s
+ --
 
 As a copywriter, it's up to you to discover the product's uniqueness. There are dozens. You must find the most potent of the litter and ramp the *fuck* out of it.
