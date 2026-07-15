@@ -23,6 +23,9 @@ When I go through these... intro each section. Explain it to them as they go.
 
 Some people are easy t otalk to, others need the why, a little guidance. give it to them!
 TALK ABOUT THEIR PROBLEMS.
+
+ ACTION: Determine the main reasons people buy your product, both from an emotional and logical perspective. Draft your sales presentation as follows.
+
 ***ice-breaker***
 * If you could magically improve some aspect of your business, what would it be?
 ***customer persona***
