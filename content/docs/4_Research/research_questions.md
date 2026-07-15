@@ -32,6 +32,11 @@ TALK ABOUT THEIR PROBLEMS.
 * What do they perceive is in the way of them getting what they want?
 * How aware are they?
 
+* Who are you selling to and what do they want?
+* What transformation are they hoping for?
+* What do they *really* care about (not what they say)?
+* How do they want to see themselves?
+
 ***philo copy bit***
 
 Fill in the blank: (give expamples first)

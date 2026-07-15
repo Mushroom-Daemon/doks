@@ -13,26 +13,35 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-The problem we are solving here is write something that will get read and is persuasive.
+Your goal when writing direct response copy is to persuade your reader to take action.
 
-If you think copywriting requires some creative genius,
+Achieving this goal takes no special talent. You don't have to be a creative genius. Nor do you have to sell your soul to the Devil or become some sleezy shiester.
 
-Copywriting is a research gig. If you think you have to be some kind of creative genius, you don't. The main point is that copywriting is a research gig. And the questions you ask fall into one of two buckets/ the link between the two is called a market. the better you know your market, the better your coy. It's easy. It's also easy to forget.
+In fact, the magic behind great direct response campaigns is *research*. The more you do of it, the easier time you'll have coming up with creative solutions to your problems. Your magic headline, your persuasive pitch, it really comes down to knowing two things...
 
-Writing kickass copy that converts is not complicated.
-You have to know only two things:
-* Who you're writing to
+* Who you're writing to, and
 * What you're selling
-### Nature of Your Prospect
-But while it is simple---and it is---you will have to do a bit of digging. It's not enough to know you're selling a [car] to a [middle-aged soccer mom]. You have to understand what makes that person tick. The problems they're trying to solve. How their life looks. How they want to see themselves. And how your product---regardless of what it may be---helps them self-actualize into that self-image/get what they want.
-Using the Playbook Research Questions, you'll gain insight into your prospects and how they see themselves. Learning about others doesn't take genius. It's just a simple matter of listening and paying attention and maybe leaning on a little intuition.
-This is a process that will evolve as you learn more and more. The key is to always stay open. Gather as much information on them as you can. Talk to people. Get to know their lifestyles and hobbies and about their families friends and pets. Doing this will give you all the clues you need to speak to their emotional needs: safety, security, fun, novelty, whatever.
-* Who are you selling to and what do they want?
-* What transformation are they hoping for?
-* What do they *really* care about (not what they say)?
-* How do they want to see themselves?
-Then, give them that. Adjust accordingly.
-### Nature of Your Product
+
+The Research Questions of the Persuasive Playbook will help you learn these valuable fundamentals. After a bit of digging, you'll be ready to write. You copy then links these two things---between your reader's desires and your offering---to create a *market*.
+
+And the better you know your market, the better your copy.
+
+Let's break it down.
+
+### The Nature of Your Reader
+
+Know who you're writing to and what they want. It's that simple.
+
+But it's not enough to know you're selling a [car] to a [middle-aged soccer mom]. You have to understand what makes her tick. The problems she faces on the daily. Her responsibilities, fears, frustrations, aspirations, and dreams. Come to understand her emotional needs. How she wants to see herself. Then treat her accordingly.
+
+This level of understanding is plain-old getting to know someone. Ask questions and pay attention.
+
+The folks you talk to will practically write your copy for you.
+
+### The Nature of Your Product
+
+No matter your product---be it a physical item, service, or concept---satisfies both practical and emotional needs. People It's the *emotional appeal* that persuades your readers to take action.
+
 
 
 

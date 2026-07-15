@@ -13,6 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+ALWAYS ALWAYS ALWAYS KNOW WHO YOU'RE WRITING TO... DO NOT FORGET TO DO THIS IT'S THE MOST IMPORTANT THING
 
 Lot's of people are insecure about their writing chops---yours truly, included. Here are some tips for beating self-doubt, putting in the reps, and getting better (you can do it, everyone can).
 
