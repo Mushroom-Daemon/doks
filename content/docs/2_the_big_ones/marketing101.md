@@ -75,3 +75,4 @@ I expect my Toyota to be reliable. I'd much rather by a beater Toyota than almos
 The speecific way the product should be presented to the customer. This is what Eugene called the "key." What is the nature of the product in the mind of your customer.
 
  Every product has a unique personality. A unique nature or tone. Your job is to figure out what that is.
+### How to Use the Playbook
