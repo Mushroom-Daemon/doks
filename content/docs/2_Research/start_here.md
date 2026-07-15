@@ -13,14 +13,14 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-The aim of the following questionaires is to help you uncover the basis of all great copywriting.
-
-* The nature of your reader, and
-* The nature of your product
-
-In other words...
+The aim of the following questionaires is to help you uncover the basis of all great copywriting...
 
 Who you're writing to and what you're selling.
+
+Simple enough right?
+
+Well,
+
 
 Before you begin, it's useful to keep in mind that whatever you're selling---be it a physical item, service, or concept---you're digging for more than just the practical benefits to your reader.
 

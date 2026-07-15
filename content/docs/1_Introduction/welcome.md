@@ -17,6 +17,8 @@ Welcome to the Kickass Copy Playbook.
 
 What you'll find here are the concepts, ideas, and checklists that have helped me write for our clients and team as Senior Copywriter at Integro 212.
 
+My goal in creating this resource was to help my colleagues and friends... Who am I kidding. I did it for me.
+
 A practical, user-friendly guide for anyone who wants to write kickass copy that converts.
 
 What you'll find here is a collection of ideas and teachings from some of the best copywriters, persuasive essayists, and professional writers out there&mdash;all folks who have moved the hearts, mids, and a hell of a lot of money through the power of the written word.
