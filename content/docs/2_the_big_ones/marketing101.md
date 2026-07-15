@@ -17,12 +17,14 @@ Your goal when writing direct response copy is to persuade your reader to take a
 
 Achieving this goal takes no special talent. You don't have to be a creative genius. Nor do you have to sell your soul to the Devil or become some sleezy shiester.
 
-In fact, the magic behind great direct response campaigns is *research*. The more you do of it, the easier time you'll have coming up with creative solutions to your problems. Your magic headline, your persuasive pitch, it really comes down to knowing two things...
+The magic behind great direct response campaigns is far more boring that all of that. It's *research*. And the more you do of it, the easier time you'll have coming up with creative solutions to your problems. Your magic headline, your persuasive pitch, it really comes down to knowing two things...
+
+Here's everything you need to know:
 
 * Who you're writing to, and
 * What you're selling
 
-The Research Questions of the Persuasive Playbook will help you learn these valuable fundamentals. After a bit of digging, you'll be ready to write. You copy then links these two things---between your reader's desires and your offering---to create a *market*.
+The Research Questions of the Persuasive Playbook will help you learn these valuable fundamentals. Once you have a handle on them, your copy links your reader's desires and your product to create a *market*.
 
 And the better you know your market, the better your copy.
 
