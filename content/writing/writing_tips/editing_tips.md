@@ -14,6 +14,13 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+  10. gender: know who you're talking to. offend no one.
+  11. clarity: clear, simple, short and to the point. nothing fancy. except for the technical explanation.
+  12. cliches: (advertising blah blah blah.) just don't.
+  13. rhythm: vary sentence lengths. he likes to use triads.
+    21. avoid saying too much: when editing, ask "is there a simpler way to say this?"
+
+  5. product explanation: explain complicated products in a simple way and simple products in a complex way. then, have people read it. did you explain the product sufficiently? what questions do readers have?
 While some writers may be able to upchuck genius copy without needing to go back and edit, I'm not one of them. You probably aren't either. Especially since, if you've been paying attention, your job is to write the first draft as fast as humanly possible.
 
 When you get around to your second (or thrid fourth or fifteenth rewrites) here are a few suggestions for tightening things up. I think you'll find the effort well worth it, and you final drafts will be *much* improved.

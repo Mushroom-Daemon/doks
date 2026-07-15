@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 315
+weight: 415
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -92,3 +92,4 @@ The above example shows "proof," the stakes (link), authority, benefits, and pro
 
 ### Action
 Find a way to communicate your authority and include it in *every* communication you send out.
+ 18. testimonials: but only from very credible people or organizations. endorsments, in other words. can use in copy, headline or photo. or the "reverse" testimonial "a famous gold star endorses the Lanier. Our unit is endorsed by our president. You'll save $100 as a result. (go to swipes)

@@ -1,11 +1,11 @@
 ---
-title: "Client Interview Questions"
+title: "Client Interview"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 410
+weight: 320
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,22 +13,16 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Great copy ideas don't come out of thin air. They come from research. The following questions will help you ...
+These are the questions I use at Integro for our initial client onboarding. The answers are used to create our Brand Stories (a kind of marketing cheat sheet), the content for each client's websites, and brainstorm the Kickass Copy Essentials used in all of their marketing collateral.
 
-come from research. They The following questions will help you get the information you need to write kickass copy---*fast*.
-
-IDEAS: Get the ID transformation in here. Maybe sort the questions by "customer-centric" and then business info.
-
-When I go through these... intro each section. Explain it to them as they go.
-
-Some people are easy t otalk to, others need the why, a little guidance. give it to them!
-TALK ABOUT THEIR PROBLEMS.
-
- ACTION: Determine the main reasons people buy your product, both from an emotional and logical perspective. Draft your sales presentation as follows.
+You may find it helpful to scan the questions before your interview to whittle the list down what makes most sense for your interviews. That said, if you find someone who likes to chat, asking some of the more redundant-seeming questions can spark additional insights.
 
 ***ice-breaker***
+
 * If you could magically improve some aspect of your business, what would it be?
+
 ***customer persona***
+
 * What does your typical (or ideal) customer look like? What do they want?
 * Why do they want it? Why do they want that? (Keep going)
 * When they reach out to you, how are they feeling? Stressed, worried, overwhelmed, excited, eager, uncertain, angry?
@@ -84,7 +78,10 @@ You have to be able to *prove* you're a trustworthy guide for solving their prob
 * What are the main hesitations or objections customers have? What are they afraid of?
 * What are the most common questions you get asked when people call for service?
 * What are the most common complaints you hear related to your service?
-* If you could magically improve some aspect of your product, what would it be?
+
+List all objections on one side of a piece of paper. How can you turn those objections into opportunities? Will a certain kind of person benefit from them? How are they minor compared to your product's other good features? What kinds of concessions can you make?
+
+INCLUDE EVERY OBJECTION IN COPY
 
 ***plan***
 * What's the first step in doing business with you?

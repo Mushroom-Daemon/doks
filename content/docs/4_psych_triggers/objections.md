@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 305
+weight: 405
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -25,10 +25,6 @@ Here are a few examples.
 
 IDEA: Pitch *against* yourself. Why shouldn't they buy from you? Seriously.
 
-##### Example 1:
-
-> *"The only negative feature of this house may appear to be the busy street facing the back yard..."*
-
 #### Example 1: Precise Builder
 
 Precise Builder is a estimating and project management software for exterior contractors. The most common concern before purchasing the software is the initial learning curve.
@@ -45,15 +41,6 @@ Smucker Exteriors (an exterior contractors using Precise Builder) said the main 
 >
 > *To be fair, you should shop around to make sure you’re getting the best deal. But before you go with the lowballers, ask if they’re PA licensed and fully insured. If not, it could come back to haunt you.*
 
-### Example 3: Magic Stat Thermostat
-
-This is some great ad copy by Joe Sugarman. The opening three paragraphs got into everything he *hated* about the product. Then he showed how those issues were minor compared to the ease of installation.
-
-> *When we first saw the Magic Stat, we took one look at the name and went "Yuck." We took one look at the plastic case and said "How cheap looking." And when we looked for the digital readout, it had none. So before the salesman ever showed us how it worked, we were totally turned off.*
->*...*
->
-> *So there is was&mdash;at first blush a real loser. But wait, we did find one good feature&mdash;a feature that led us to a discovery...*
-
 #### Make A Concession
 
 I like this simple concession written by Anna Lengacher.
@@ -65,7 +52,3 @@ I like this simple concession written by Anna Lengacher.
 Include negative reviews in your copy and then show why the reviews aren't bad at all. (And might be perfect for the right customer.)
 
 ![One Star](/images/one_star_review.jpg "One Star Review")
-
-#### Action Items
-
-List all objections on one side of a piece of paper. How can you turn those objections into opportunities? Will a certain kind of person benefit from them? How are they minor compared to your product's other good features? What kinds of concessions can you make?

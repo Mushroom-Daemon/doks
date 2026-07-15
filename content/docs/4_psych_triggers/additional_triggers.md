@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 360
+weight: 460
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -16,6 +16,9 @@ seo:
 Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass. (ADD EVERYTHING FOR A QUICK REFERENCE)
 
 #### To do: add the original six or whatever. make this fast and skimmable.
+
+ 6. new features: what makes the product new, unique or novel? what makes it different than anything else on the market?
+  18. testimonials: but only from very credible people or organizations. endorsments, in other words. can use in copy, headline or photo. or the "reverse" testimonial "a famous gold star endorses the Lanier. Our unit is endorsed by our president. You'll save $100 as a result. (go to swipes)
 
 ### These Are My Concessions
 
@@ -492,29 +495,4 @@ What can you provide your reader that costs very little to you but leaves them f
 
 ### Patterning
 
-Dress for the job you want. Seeing that I distrust pants, I'm destined to write from home. Lucky you.
-
-Selling in person, you want to set up a sales environment.
-
 How have others sold this product? Pattern your approach to theirs. (This is a good one for the copy.)
-
-Get the prospect saying "yes." The slippery slide. Make honest and believable statements. Ones you know they can agree with and not challenge. *You do not want them to challenge the copy*.
-
-##### Head-nodding Tags
-
-Use at the end of a sentence to illicit a "yes."
-
-Couldn't you?
-Wouldn't you?
-Don't you think?
-Eh? (Fucking Canadians. Nice day, eh? That's how they get you, eh?)
-
-It's also about getting people to like you. Dress like your prospect. Become them.
-
-Offer a coffee, have one yourself. Create rapport by mirroring. Match the behavior of your prospect by mirroring their own actions.
-
-Get them in agreement with you.
-
-Who are the winners? What are they doing that's effective? Pattern an approach after theirs&mdash;but with a twist of your own.
-
-

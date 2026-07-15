@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 320
+weight: 420
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -42,3 +42,4 @@ At any rate, educating your prospects to the inherent value of your product is a
 1. How can you prove, without the shadow of a doubt, your prospect is getting their money's worth (or whatever they're putting on the line)?
 2. In what ways can you educate your prospects to the inherent value of your product, offering, or service? How does it work? What makes it unique?
 3. How can you make your offering seem like as much of a bargain as possible?
+  17. price comparison: to another product. do this when yours is pricey. it demonstrates value. you must be 100% fair, accurate and honest. otherwise, you can get in trouble.

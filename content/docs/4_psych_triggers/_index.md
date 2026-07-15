@@ -1,11 +1,11 @@
 ---
-title: "5. Checklists"
+title: "Kickass Copy Essentials"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 700
+weight: 400
 toc: true
 sidebar:
   collapsed: false
