@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 320
+weight: 220
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -23,16 +23,17 @@ You may find it helpful to scan the questions before your interview to whittle t
 
 ***customer persona***
 
-* What does your typical (or ideal) customer look like? What do they want?
-* Why do they want it? Why do they want that? (Keep going)
-* When they reach out to you, how are they feeling? Stressed, worried, overwhelmed, excited, eager, uncertain, angry?
-* What do they perceive is in the way of them getting what they want?
-* How aware are they?
-
-* Who are you selling to and what do they want?
-* What transformation are they hoping for?
-* What do they *really* care about (not what they say)?
-* How do they want to see themselves?
+* Who is your typical (or ideal) customer? (There may be multiple "types/personas")
+* What do they want when they reach out to you?
+* Why do they want it? Why do they want *that*? (Keep asking "so they can?" to find a dominant desire, which is often internal and emotional)
+* Why don't they already have it? What's in the way?
+* When they reach out, how are they feeling? Stressed, worried, overwhelmed, excited, eager, uncertain, angry?
+* What is their level of awareness? Are they...
+  * one
+  * two
+  * three
+  * four
+  * five
 
 ***philo copy bit***
 
@@ -72,7 +73,7 @@ You have to be able to *prove* you're a trustworthy guide for solving their prob
 * How many clients have you served?
 * Anything you're the biggest, best, first, only?
 (add some swipes that's useful)
-* Anything else you believe makes you an authority in this space?
+* What do you believe makes you an authority in this space?
 
 ***hesitations/objections***
 * What are the main hesitations or objections customers have? What are they afraid of?

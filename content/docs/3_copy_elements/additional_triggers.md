@@ -1,11 +1,11 @@
 ---
-title: "Additional Kickass Elements"
+title: "Additional Copy Ideas"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 460
+weight: 370
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -16,6 +16,8 @@ seo:
 Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass. (ADD EVERYTHING FOR A QUICK REFERENCE)
 
 #### To do: add the original six or whatever. make this fast and skimmable.
+
+HONESTY
 
  6. new features: what makes the product new, unique or novel? what makes it different than anything else on the market?
   18. testimonials: but only from very credible people or organizations. endorsments, in other words. can use in copy, headline or photo. or the "reverse" testimonial "a famous gold star endorses the Lanier. Our unit is endorsed by our president. You'll save $100 as a result. (go to swipes)

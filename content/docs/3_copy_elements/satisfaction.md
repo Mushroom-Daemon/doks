@@ -1,11 +1,11 @@
 ---
-title: "The Satisfaction Conviction"
+title: "Obliterate Risk"
 description: "Double your response with a satisfaction conviction."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 425
+weight: 340
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,11 +13,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-##### No copy is kickass without this. (It can double response.)
+Here's the deal.
 
-### How to Write A Great Satisfaction Conviction
+Even after the perfect pitch, your readers may still have hesitations. Why? Because it's *natural* to worry about whether or not you're making the right choice (relationships, amirite?).
 
-Here's the deal. Even after the perfect pitch, readers may still have hesitations. Why? Because it's natural to worry about whether or not you're making the right choice (relationships, amirite?). So to make you copy that much more kickass, you need to obliterate that worry. You do that with your satisfaction conviction.
+All great copy obliterates that risk.
+
+So to make you copy that much more kickass, you need to obliterate that worry. You do that with your satisfaction conviction.
 
 The Satisfaction Conviction is the written version of a late-night television salesman saying "I'm so *convinced* you'll love this product, I'm going to do something *CRAZY*." It's a complete risk-reversal, where you show your clients, without the shadow of a doubt, they have nothing to lose. Done right, your satisfaction conviction should make your prospects think:
 
@@ -27,10 +29,7 @@ and/or...
 
 * You (the offerer) are going to get ripped off
 
-Here's an example from outdoor retailer, REI.
-
-
-### Two Keys to a Great Satisfaction Conviction
+### How to Write A Great Satisfaction Conviction
 
 There are two keys to a great Satisfaction Conviction.
 

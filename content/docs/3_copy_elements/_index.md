@@ -1,11 +1,11 @@
 ---
-title: "Kickass Copy Essentials"
+title: "Elements of Kickass Copy"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 400
+weight: 300
 toc: true
 sidebar:
   collapsed: false

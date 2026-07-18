@@ -13,6 +13,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+HeRO SECTION
+
+Can it pass the 5 second test?
+
+THE STAKES
+
+
 
  20. offer summary: summarize the offer toward the end. "so here's the deal: you send us the money like this and we'll send you this and that."
 

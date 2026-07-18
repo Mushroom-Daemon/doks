@@ -1,11 +1,11 @@
 ---
-title: "The Big Idea (Start Here)"
+title: "Discovering a Market"
 description: ""
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 310
+weight: 210
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,6 +13,16 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
+
+Once you have a handle on these fundamental pillars, your copy then links your reader---their goals and desires---and your product to create a *market*.
+
+And the better you know your market, the better your copy.
+
+It's *research*. And the more you do of it, the easier time you'll have coming up with creative solutions to your problems. Your magic headline, your persuasive pitch, it really comes down to knowing two things...
+
+
+
 The aim of the following questionaires is to help you uncover the basis of all great copywriting...
 
 Who you're writing to and what you're selling.
@@ -41,5 +51,10 @@ This is all to say that while working through these questionaires, keep in mind 
 What makes them tick? What problems do they face? What are their responsibilities, hobbies, fears, frustrations, aspriations, and dreams? How to they want to see themselves?
 
 The better able you are to answer these questions, the better copy you'll write. Period. If you want to write kickass copy that converts, get to know your product and readers frontwards, backwards, sideways, upside down, and inside out.
+
+* Who are you selling to and what do they want?
+* What transformation are they hoping for?
+* What do they *really* care about (not what they say)?
+* How do they want to see themselves?
 
 NOW A SENDOFF TO THE QUESTIONS
