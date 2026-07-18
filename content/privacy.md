@@ -12,3 +12,4 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+This is my privacy policy. Whatever that means.

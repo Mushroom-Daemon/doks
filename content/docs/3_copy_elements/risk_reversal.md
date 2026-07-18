@@ -15,7 +15,7 @@ seo:
 ---
 Here's the deal.
 
-Even after the perfect pitch, your readers may still have hesitations. Why? Because it's *natural* to worry about whether or not you're making the right choice (relationships, amirite?).
+Even after the perfect pitch, your readers may still have hesitations. And why wouldn't they? It's *natural* to worry about whether or not you're making the right choice (relationships, amirite?).
 
 All great copy obliterates that risk.
 
@@ -36,27 +36,11 @@ There are two keys to a great Satisfaction Conviction.
   1. Resolve the *actual* concerns of your customers
   2. Go a step above and beyond resolving those concerns
 
-**Key #1: Resolving Hesitations**
-
-The first key may be the most important. It requires understanding the worries of your customers&mdash;their most common hesitations or concerns. And don't assume it's always money.
-
-... Ask them!
-
-**Key #2: Going Above and Beyond**
-
-Once you've resolved the concerns of your prospect, it's time to take it a step further. Here are a few good examples that cover all those bases.
-
 ### Example 1: Precise Builder
 
 Precise Builder is an estimating and project management software for exterior contractors. One of the main hesitations is onboarding (i.e. learning the software). Also note how we go above and beyond.
 
 > *Learning a new software takes time and effort&mdash;and Precise Builder is no different. Let our team walk with you until your crews are completely comfortable. If after six months Precise Builder hasn’t become one of the most valuable tools at your company, we’ll give you your money back&mdash;and help you find a different software.*
-
-### Example 2: Consumer Hero
-
-Consumer Hero was a $5 membership club for buying refurbished electronics at discount prices. The concern for joinging their club would be paying the five dollars and never buying. Also note the more-than-your-money-back guarantee. The interest on $5 would be negligible, but it does the trick!
-
-> *"But what if you never buy from us and your two-year membership expires? Fine. Send us just your membership card and we'll fully refund your five dollars---plus send you interest on your money."*
 
 ### Example 4: Farmco
 
@@ -74,12 +58,12 @@ Farmco is a manufacturer of horse and cattle feeders in Ronks, PA. They offer a 
 
 Research shows the longer the trial period, the greater conversions and the less it gets taken advantage of. Offer a two-week trial period and the customer will likely be thinking of whether or not they actually want the product during that two weeks. Make it longer and they relax, knowing they can return it later if need be... only to never do it.
 
-### Example 5: BluBlockers
-
-> *If you're unhappy with your BluBlockers, return them anytime you want. No trial period. I'll give you your money back.*
-
 ### Action Items
 
-What are your customer's concerns or hesitations about doing business with you?
+What are your customer's concerns or hesitations about doing business with you? LINK THIS TO QUESTIONARE
 
 What can you offer above and beyond a basic money-back guarantee?
+
+### Onward &#10132;
+
+You're really cookin' now. ... let's ... on the next page.

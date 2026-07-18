@@ -18,6 +18,8 @@ seo:
 
 James Blackwell is a Grammy award winning trumpet player and Senior Copywriter at Integro 212.
 
-He created the Kickass Copy Playbook for business and pleasure.
+He lives in Lancaster Pennsylvania with his family... and practices his trumpet and writes for clients in the construction, manufacturing, puppy breeding, and solar industries.
+
+created the Kickass Copy Playbook for business and pleasure.
 
 It's true. I didn't create this website out of the goodness of my heart. I made it because I wanted work to easy. And fun. And doggone it, I want to be *good* at what I do.

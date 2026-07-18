@@ -13,6 +13,9 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+The previous six (LISTEd OUT) are you hardcore basics. The following checklist can help you come up with other kickass ideas. Pick 2 or three your like and master them... then practice a few more.
+
+
 Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass. (ADD EVERYTHING FOR A QUICK REFERENCE)
 
 #### To do: add the original six or whatever. make this fast and skimmable.
