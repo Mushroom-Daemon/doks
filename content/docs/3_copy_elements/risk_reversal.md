@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 340
+weight: 350
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -42,9 +42,11 @@ Precise Builder is an estimating and project management software for exterior co
 
 > *Learning a new software takes time and effort&mdash;and Precise Builder is no different. Let our team walk with you until your crews are completely comfortable. If after six months Precise Builder hasn’t become one of the most valuable tools at your company, we’ll give you your money back&mdash;and help you find a different software.*
 
-### Example 4: Farmco
+### Example 2: FARMCO
 
 Farmco is a manufacturer of horse and cattle feeders in Ronks, PA. They offer a limited 7-year warranty but then suggest (no official guarantee) that the products last decades. This helps to alleviate concerns after the warranty period (which is actually quite long). The copy also establishes authority.
+
+Note how: authority and then alleviating worry of risk.
 
   > **7-Year Product Warranty for Farmers**
   >

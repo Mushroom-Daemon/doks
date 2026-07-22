@@ -15,6 +15,8 @@ seo:
 ---
 Brand Voice Interview Questions
 
+These questions will help you get to know the product/ and all that, but also help you discover your fundamental experience/brand personality.
+
 Your brand voice is your company’s personality. That voice is a reflection of the people behind the company. The best brand voices grow from real experience and genuine conversations.
 
 Uncover your brand’s voice with the following questions:

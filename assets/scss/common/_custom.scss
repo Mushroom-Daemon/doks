@@ -6,3 +6,14 @@ img {
 body {
   font-family: var(--bs-body-font-family);
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th,
+table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}

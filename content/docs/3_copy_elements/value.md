@@ -1,11 +1,11 @@
 ---
-title: "Prove Value"
+title: "Educate Readers"
 description: "Educate your prospects to the value of your offer."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 360
+weight: 330
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,33 +13,44 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Everybody wants to know they're getting their money's worth. Period.
+Everyone wants to know they're getting their money's worth.
 
-This is *espcially* true if you're selling a premium product, or something that will require a large investment from your prospect. However, no matter the price...
+And while your readers often set their hearts on products or causes to satisfy emotional longings&mdash;and then justify the expenses to themselves&mdash;you can help them along by explaining exactly why they're getting every last bang for their buck.
 
-To do this, educate your prospect on the inherent value of your product of offering. Show them why it work, make sure they know what's special or unique about it&mdash;the care that goes into making something so amazing.
+Think of this as *educating* your reader as to the inherent value of your offer. Your job is to lower the percieved cost as much as possible&mdash;no matter how high.
 
-A company I think does a great job of this is Saddleback Leather based in Fort Worth, TX. Their entire marketing strategy is based on durability... And they take every opportunity to hammer that home (and the value of their products) with tidbits like:
+### Example: CabinPro LLC
 
-> * Why a full grain leather exterior and pigskin lining are the best choice for a wallet
-> * Why they stitch at seven holes per inch rather than the industry nine (less tearing over time)
-> * Where they decided to include corner stitching (and not) for allowing easy access, keeping the wallet flat, and securing bills
-> * How they use German-engineered industrial marine grade polyester thread (same stuff they use in parachutes) to sew their leather
+CabinPro, one of our clients at Integro 212, sells high-end rental cabins to investors and property owners interested in offering short-term, Airbnb style rentals.
 
-Plus, they offer a 100-year warranty and their company tagline is "They'll Fight Over it When You're Dead." I mean, c'mon. It was a no-brainer. I bought the _ in dark coffee brown and it's going strong.
+Since the cabins can cost *double* that of more rustic options, we dedicate a lot of ad space to explaining what makes CabinPro models special and how the cost is easily justified when looked at through the lens of their total ROI.
 
-### Another Heading to Break Things Up
+Things like:
 
-It feels *good* to know things. Being able to speak like an expert feels good. You appreciate your belongings more.
+* Providing insight into industry trends and stats showing the rise of "glamping" among modern and first-time campers
+* Third-party reports proving modern cabins (with full kitchens, bathrooms, and instagram-worthy designs) have higher occupancy rates and demand higher nightly fees than traditional cabins
+* Educational articles explaining the unique insulation process that makes CabinPro cabins comfortable in both below freezing winters and scorching summers... and how that affects bottom line
+* How the exterior products come with extended 50-year warranties and are extremely low-maintenance for the owner&mdash;lowering long-term upkeep and replacement costs
+* How CabinPro cabins are "plug and play" and require very little in terms of site prep and permitting to have them up and running and ready for bookings
+* Supplemental education on whether paying your cabin off quickly vs maintaining higher cash flow is a wiser decision financially
+* Case studies outlining the real-world challenges other owners have faced setting up, listing, and renting their cabins
 
-Another way you can do this is by making honest comparisons to similar products. If you're selling it an expensive bicycle or moped, compare it to the cost of owning an automobile.
+At the end of the day, consider that is feels *good* to know things. And the more your know about something, the more you tend to like it. And educating your prospects to the inherent value of your product is akin to lowering the price. So be sure to do it. It'll make your copy that much more kickass.
 
-You can also make comparisons to more or less expensive models. I can't really speak to this, but apparently, in print (your kickass copy) you will find success in attracting them to a less expensive model. Then, upsell the more expensive later in the copy. Apparently the opposite works in person.
+### Action Items/Homework/UX
 
-At any rate, educating your prospects to the inherent value of your product is akin to lowering the price. So be sure to do it. It'll make your copy that much more kickass.
+How can you prove to your prospect they're getting their money's worth?
 
-### Action Items
-1. How can you prove, without the shadow of a doubt, your prospect is getting their money's worth (or whatever they're putting on the line)?
-2. In what ways can you educate your prospects to the inherent value of your product, offering, or service? How does it work? What makes it unique?
-3. How can you make your offering seem like as much of a bargain as possible?
-  17. price comparison: to another product. do this when yours is pricey. it demonstrates value. you must be 100% fair, accurate and honest. otherwise, you can get in trouble.
+Are they comparisons you can make to other products or lifestyles?
+
+What makes your product special or unique? How does it work?
+
+What kind of interesting things can you teach your reader about your product, service, field, or offering?
+
+### Onward &#10132;
+
+Now that your readers are hip to what makes your product special... it's time to continue on with a few more essential elements of kickass caopy.
+
+In the next one, you'll learn how to prove to your reader&mdash;in a sentence or less&mdash;that you're the real deal.
+
+Click on and see you there TO ESTABLISH AUTHORITY.

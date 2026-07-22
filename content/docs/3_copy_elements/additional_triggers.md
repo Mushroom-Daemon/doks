@@ -13,389 +13,303 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-The previous six (LISTEd OUT) are you hardcore basics. The following checklist can help you come up with other kickass ideas. Pick 2 or three your like and master them... then practice a few more.
+Now that you've covered the six essential elements of kickass copy that converts, here are a few more idea-boosters to whet your whistle.
 
+Scan through the list below and see what kind of ideas might work well for your offer. Pick 3&ndash; of your favorites and practice them all the time until they sink in and become a part of your writing style.
 
-Here's some more stuff to sink your teeth into. Get ideas. Make you copy that much more badass. (ADD EVERYTHING FOR A QUICK REFERENCE)
+### Tell Readers Why
 
-#### To do: add the original six or whatever. make this fast and skimmable.
+Often, readers aren't so much interested in what you do or have, but *why*.
 
-HONESTY
+* Why did you create your product?
+* Why did you start the company?
+* Why do you do it this way?
+* Why are you offering this amazing deal?
+* Why should they care?
 
- 6. new features: what makes the product new, unique or novel? what makes it different than anything else on the market?
-  18. testimonials: but only from very credible people or organizations. endorsments, in other words. can use in copy, headline or photo. or the "reverse" testimonial "a famous gold star endorses the Lanier. Our unit is endorsed by our president. You'll save $100 as a result. (go to swipes)
+Find all your whys. Explain *everything*: shipping costs, ad costs, anything you think will help your reader understand you better...
+
+And watch your copy become that much more kickass.
+
+### Testimonials and Endorsements
+
+Testimonials for credible people and organizations, or reviews from clients, are a way of building authority through social proof.
+
+Include them in your copy, headlines, or graphics.
 
 ### These Are My Concessions
 
-This is my favorite one.
+Honesty is perhaps the most persuasive bit of all. When you can concede to some shortcoming, you develop trust and credibility.
+
+People love that shit.
+
+### New Features
+
+What makes your offering new, unique, or novel? What makes it different than anything else on the market?
+
+Newness is exciting. Plenty of people like to stay ahead of the curve.
 
 ### The Feeling of Ownership
 
-When selling in person, you have a kind of advantage.
-
-Your prospect can try the boots on. They can kick the tires. They can try the product and *see* themselves as owning it.
-
-The challenge for copywriters, then, is filling your reader's mind with the image of themselves owning&mdash;and loving&mdash;your product.
+Fill your reader's mind with the image of themselves owning&mdash;and loving&mdash;your product.
 
 Here are a few suggestions:
 
-* Talk to them as if they already own the product
+* Write to them as if they already own the product
 * Spell out how they'll use it in a practical way
 * Involve the senses:
-  * The cool stone of a new patio under their feet on a summer's eve
-  * Slipping on their new shoes for a run, light as air and soft on the ground
-  * The feeling of quality and durability in your hand
+  * The feel of cool stone under bare feet on their new patio
+  * Grandkids laughing and playing in a new inground pool
   * Etc...
 
-### Plan/Future Pacing
+### Future Pacing (i.e. The Plan)
 
-To complete this micro course you'll need:
-1. 174 3.5" index cards (or any paper, really)
-2. A pen or pencil
-3. 30 minutes a day blocked off for the next 7 days
+To alleviate confusion and hesitancy, spell out how to do business with you, how to use your product, or what's needed by outlining the Plan.
 
-Last step of plan is feeling of ownership
-First is CTA
+You'll see these 3-step plans all over website landing pages, and we use them at Integro as well. Often, the first step is the CTA, and the final, you customer loving the product.
 
-### The Plan/Future Pacing
+Here are a few simple examples: (update these with Integro copy)
 
-there is a pic in onenote
+| Pop Tarts | Online Furniture | YNAB App |
+| --- | --- | --- |
+| 1. Open Pop Tarts | 1. Measure Your Space | 1. Sign UP for a Free Trial |
+| 2. Cook Pop Tarts | 2. Orders Items That Fit | 2. Make a Plan |
+| 3. Eat Pop Tarts | 3. Install in Minutes Using Basic Tools | 3. Destroy Your Debt |
 
-alleviate confusion and hesitancy. It may seem obvious--but it isn't. Spell it out.
+You can also outline your plan in a single sentence:
 
-Customers trust a guide who has a plan. Once you commit, there is risk. Have a plan.
+*"Give us a call, we’ll tow your car for free and have you road ready in 24 hours"*
 
-Clear a path and people will walk it. Three steps is dumb. Use more.
+And be sure to give your plan a name.
 
-A plan needs a name. Increase perceived value.
+* Easy Installation Plan
+* World's Best Night's Sleep Plan
+* All-State Value Plan
+* Demolish Your Debt Plan
 
-  • Easy Installation Plan
-  • World's Best Night's Sleep Plan
-  • Our Quality Guarantee
-    ○ For something like this, include the plan and then guarantee the final step w your agreement
-  * All-State Value Plan
-  * Demolish Your Debt Plan
+For a more detailed look at The Plan, see: HOMEPAGE LINK OR WHATEVER
 
-Keep it simple--like these.
+### Specificity
 
+Scour your copy for vague claims and replace them with something more specific.
 
-  1. Open pop tarts
-  2. Cook pop tarts
-  3. Eat pop tarts
+On a recent print ad for our manufacturing client Thundura, we replaced some old ad bullets as follows.
 
-  1. Measure your space
-  2. Order items that fit
-  3. Install in minutes using basic tools
+| **Old Bullets**                 | **Updated Bullets**                                 |
+|---------------------------------|-----------------------------------------------------|
+| Long-lasting galvanized steel   | Galvanized steel frame built to last 50+ years      |
+| Extreme durability              | 15-year prorated warranty on replaceable hoop cover |
+| Revolutionary fabric structures | Custom sizes assembled in under 90 days             |
 
-  1. Test drive car
-  2. Buy car
-  3. Enjoy free maintenance for life
-
-  Give us a call, we’ll tow your car for free and have you road ready in 24 hours
-
-![You Need A Budget](/images/ynab_plan.png "Demolish Your Debt Plan")
-
-### Social Proof
-
-Testimonials, all that shit. This ties in with authority, but it's a good thing to include.
-
-How can you prove other people have gotten results? That you have what it takes?
-
-### Edit for Specificity
-
-Find any vague claims you have made in your copy and make them more specific (unless you're playing on hope). Be exacting in your explanations of why things are and how they work. Doing so makes you seem more credible... And as a result, *believable*!
-
-Here are a few examples.
-
-##### Example 1:
-
-> *"New dentists everywhere use and recommend CapSnap toothpase."*
-
-vs.
-
-> *"92 percent of dentists use and recommend..."*
-
-</br>
-
-##### Example 2:
-
-> *"Your feet are filled with nerve endings."*
-
-vs.
-
-> *"There are 72,000 nerve endings in the bottom of your feet."*
-
-</br>
-
-##### Example 3:
-
-> *"BluBlocker sunglasses let you see clearer, sharper, and with more definition."*
-
-vs.
-
-> *"... blue rays have one of the shortest wavelengths in the visible spectum (red is the longest). As a result, the color blue will focus slightly in front of the retina which is the "focusing screen" in your eye. By blocking the blue from the sunlight through a special filtration process, and only letting those rays through that indeed focus clearly on the retina, object appear to be sharper and clearer.*
->
-> *The second reason...*
-
-</br>
+Simply note how the bullets on the left say basically nothing... and how the ones on the right are more specific and accurate.
 
 ### A Human Touch
 
-Bottom line: you want people to read your copy and feel as if they know you!
+Kickass copy is personal. You want people to read your copy and feel like they know you.
 
-* Tell stories
-* Use humor (appropriately... James)
-* Write in the first person when possible
+Can you...
 
-</br>
+* Tell stories?
+* Use humor?
+* Write in the first person?
 
 ### Tell Stories
 
-Most important thing: that they read your copy.
-
-People love stories. Why? I don't really know or care. But if you want your reader to pay attention, tell them a story.
+Related to above, people *love* stories. Walk into a room and say you've got a story. See if everyone doesn't perk up.
 
 * What stories can you tell related to your offering?
 * Is there a story behind your discovery of this product?
 * What is the story of what you *do*? How did you get here?
 * Are there any stories about you or your customers that are of interest?
-* How did you *feel*?
 
-> Personally, I came to the training with no experience in community organizing or really in any sort of activism. I had been reading the news and feeling more and more sadness... and just felt stuck. I understood my faith calls me to action and to follow in the footsteps of Jesus, *but I felt lost on what that looks like effectively and practically.*
+Here's an example from a recent email I read:
 
-And here's a wilcard.
+*"Personally, I came to the training with no experience in community organizing or really in any sort of activism. I had been reading the news and feeling more and more sadness... and just felt stuck."*
 
-* Tell a story that has nothing to do with your product or offering. It's just a good way to get someone's attention!
+You can also open with a story that has *nothing* to do with your product or offering! It's still a good way to get your reader's attention.
 
-### Fear / The Stakes
+### Fear
+What does your reader fear?
 
-* FOMO
-* Fear of crime
-* Fear of death
-* Fear of aging
-  * Fear of not being able to bang
-  * Fear of not being attractive
-* Fear of losing money
+* FOMO?
+* Fear of dying?
+* Fear of wasting time?
+* Fear of not doing enough?
+* Fear of aging (not being able to get an erection... not being attractive... etc.)?
+* Fear of losing money?
+* Fear of looking like a buffoon?
 
-Use fear careefully in response to some perceived danger or lossthat one might have to face (What's at stake?)
+Poke that fear and your reader will perk up real quick.
+
+### The Stakes
+
+As the client questionar LINK asks: What's at stake for your reader if they don't act or go with another provider?
+
+Let them know.
+
+(For more examples of how to format fear/the stakes into your copy, see The Stakes. LINK)
 
 ### Linking
 
-This is a good wayt to get them to understand/relate to the product.
+Relating your product or offering to something your reader already understands is a great way to help them quickly accept and relate to your product.
 
-Relating to what a customer already knows and understands is a great way to get them to understand your product. Make it easy to understand and relate to.
+Here's an example product "card" used to direct readers from a Spring View Lawn Care's homepage to a product page promoting their robotic mower leasing.
 
-A smoke alarm is like a nose that sniffs the air.
-
-All integrated circuits use gold. But tell them it uses gold and suddenly it's of "quality."
-
-Start car from afar. Good to help mafia members not get eliminated. Also good for starting on a cold day.
-
-Vitamins for your car.
-
-what are they called? Metaphors? Similes? I mostly find the use of "like" annoying.
+> ***Automatic Mowers***
+>
+> *Like a Roomba for your lawn—quiet, hands-off, and perfectly cut grass 24/7.*
 
 ### Instant Gratification
 
-* Assure them you ship promptly and they'll have their stuff in a few days
-* List any advantages of ordering by mail
-* Something, something, something as you quickly master this skill
+We want what we want and we want it *now*.
+
+What kind of instant transformation or gratification can you offer?
+
+For example:
+
+* Prompt shipping?
+* The quick mastery of a skill?
+* An instant cure?
 
 ### Fads and Current Affairs
 
-What are people talking about?
+Are there any fads, current affairs, or pop culture references you can tie your offering to?
 
-What's in trend right now?
+Here's a favorite I spotted on a church plackard:
 
-What's in popular demand?
+> *"Normal" isn't coming back. Jesus is.*
 
-What's in the news?
+And here's an overused tagline we put to work for an exterior contractor:
 
-What do people know a lot about?
-
-The snowmobile guy banned women during the women's lib movement. Then rescinded and they flocked to him.
-
-Women were burning bras. Guy made a bra pizza.
-
-* "Normal" isn't coming back. Jesus is.
-* Blublockers alleviate all three side effects of Viagra
+> *Winter is coming. (Check your roof.)*
 
 ### Sell Cures, Not Preventions
 
-Title basically says it all. Sell wrinkle cream to people *with* wrinkles. Emphasize the curative aspects and underplay the preventative.
+Title basically says it all. Sell wrinkle cream to people *with* wrinkles&mdash;not those worried they'll end up with some.
 
-Unless you are trying to protect someone you love.
-
-How can you make your product a "cure"
+Ask: How can you make your product a "cure?"
 
 ### Exclusitivy, Rarity, or Uniqueness
 
-Also it's just about them feeling special. Make them feel special by offering them something only a few get to take advantage of.
+Make your reader feel special by offering them something only a few get to take advantage of.
 
-Collectibles, limited editions, short production run, *really* expensive, anything to make it unique. Autographs, etc.
+Related to scarcity/urgency and the desire to belong, collectibles, limited editions, short production runs, exclusive pricing (super expensive), autographs, anything to make it unique, etc.
 
-This ties into the desire to belong and also scarcity...
+How can you make your product exclcusive by limiting its availability and making this fact known?
 
-Basically, people get to join a special group by pushasing.
-
-Exclusivity *can* lead to growth in value. It doesn't always, but people are into it.
-
-"Only six made. We've been given two and have already sold one."
-
-How can you make your product exclcusive by limiting its availability and making this fact known? how can you show demand and make your product scarce?
+How can you show demand and make your product scarce?
 
 ### Even *YOU* Can Do It!
 
-This is something I come across in ads a lot. Basically, telling someone that *they too* can experience this amazing transformation. Here are a few examples.
+I see this in ads a lot&mdash;especially for those selling educational products or items aimed at boosting performance.
 
-> *"A great many have the idea that the ability to remember a large number of faces, facts and figures is a gift&mdash;that you have to come by it naturally. Nothing could be further from the truth. Any man, woman, or child of average intelligence can easily and quickly acquire a dependable memory."*
+Here's an examples:
 
-(He then goes on to tell a story of how a loser nobody tried his training and is now an *expert* on memory... Doing impossible things!)
+> *"A great many have the idea that the ability to remember a large number of faces, facts and figures is a gift&mdash;that you have to come by it naturally. Nothing could be further from the truth. Any man, woman, or child of average intelligence can easily and quickly acquire a dependable memory...*
+>
+> *"Mr. Roth’s system, which he has developed through years of study* (authority LINK)*, and which he has taught in class to hundreds of business men and others throughout the country and in person* (social proof/authority) *is so easy* (great word) *that a twelve year old child can learn it* (even YOU)*, and it is more real fun than any game you play solely for pleasure.*
 
-> *"Mr. Roth’s system, which he has developed through years of study* (authority LINK)*, and which he has taught in class to hundreds of business men and others throughout the country and in person* (more authority) *is so easy* (great word) *that a twelve year old child can learn it* (even YOU)*, and it is more real fun than any game you play solely for pleasure.*
+I also saw an ad for an online stretching course. The creator showed how he taught his entire film crew to touch their heads to their toes.
 
-One more example I liked was from an online stretching course. The creator showed how he taught his entire film crew to touch their heads to their toes. It was persuasive AF.
-
-(That guy has amazing ads.)
+It was persuasive AF.
 
 ### Involvement Devices
 
-Always remember the main goal of kickass copy:
+A neat way to get the reader to engage with your copy is by inviting them into a kind of game.
 
-Getting your reader to read it, top to bottom. A great way to do that is using something can an involvement device.
+For example:
 
-An involvement devic is a way of involving your prospect in the selling process. In person, this is the test drive, or asking them to open the box, or hold a spare part while you describe it. In writing, you're looking for a way to get the reader directly engaged with your copy.
-
-Here are a few examples.
-
-* Joe Sugarman had readers circle misspelled words in an ad for a spelling check. Each correctly circled word gave them a $2 discount. The people who needed the device most paid the most.
-* Can you get them to trace something? Draw on the ad in some way? Click something on the screen?
-* On digital platforms, can you include some kind of game?
-* I once wrote a letter to my VP at Integro asking for a reimbursement on an expensive text. In the letter, I asked him to try and identify the number of persuasive elements I included in the copy.
-
-##### Action Items
-
-How can you get the reader to engage with your copy? Doing so makes it a pretty kickass read.
+* Asking readers to circle misspelled words
+* Giving them an image to trace before ordering
+* On digital platforms, including some kind of game
+* I once wrote a letter to my VP at Integro asking him to try and identify the number of persuasive elements I included in the copy
 
 ### Lower the Bar to Entry
 
-People have a tendency to want to act consistently with their prior choices. That means that once they see your aim or whatever as a part of their lives, they're much more likely to continue taking steps with you in the future.
+Once you get your reader to say "yes," the game has changed.
 
-As a kickass copywriter&mdash;that write kickass copy that *converts*&mdash;that means getting them to a place where they can say "yes." Because once they do, the playing field has been changed.
+At that point, they see you, your product, service, or cause as a part of their lives. Based on a desire to act consistently, it becomes that much easier for them to engage with you in the future.
 
-But there's something more to it. You alwo want to diminish the committment of some products. This may tie back into resolving objections. Here are a few examples.
+To win your reader over, then, you need an easy yes. Make the initial offer small&mdash;irresitable&mdash;difficult to turn down.
+
+Then, you keep them coming back for more.
+
+What easy "yes" can you invite your reader to?
+
+How can you make the work ahead seem as easy&mdash;no big deal&mdash;as possible?
+
+Free trials and estimates are common in the service industry. This also helps to eliminate risk.
+
+>*... There’s no reason to wait on reaching out—especially when inspections and quotes come absolutely free and with zero obligation.*
+
+Notice how each of the following diminishes the commitment of your reader.
 
 > *MeetCute is a creative writing guide designed to unleash your creativity... In less time than it takes to drink 2 (maybe 3) cups of coffee."*
 
-A physical exercise program I purchased promised results training *just one time per week*.
+>*A physical exercise program I purchased promised results training just one session per week*.
 
-##### Action Items
-
-What's an invitation your reader can say "yes" to?
-
-How can you make the work ahead seem as easy as possible?
-
-### Tell Them Why
-
-Here's one I should try more often with my kids.
-
-Tell your reader *why* you're doing certain things, offering them a great deal, asking them to take action. It makes you more credible.
-
-A few things to think about:
-
-* Why are you offering this special deal?
-* Why did you start the company?
-* Why is your product placed that way in relation to the competition?
-* Explain *everything*: shipping costs, ad costs, whatever... include the stuff that helps readers understand you better
+>To complete this micro course you'll need:
+>1. 174 3.5" index cards (or any paper, really)
+>2. A pen or pencil
+>3. 30 minutes a day blocked off for the next 7 days
 
 ### Self-Identity and Belonging
 
-My girlfriend thinks her beater Prius makes it look like she cares about the environment. There are no shortage of displayed rainbows amongst the queer community. I think my RedWings make me look like a cool guy.
+My girlfriend and all her Mennonite buddies drive Prii. I think my RedWings make me look like a cool guy.
 
-People don't buy a Mercedes because it has power steering.
+What group of people already own/use your product? How do they see themselves?
 
-### Ask them to Join
-
-What group of people do they want to join? Good for testimonial headlines.
-
-##### Action Items
-
-Determine the group of people who already own your product and why/how they relate to it and see themselves. Craft your sales presentations accordingly.
+Write to them as such.
 
 ### Justify the Purchase
 
-Nobody needs a BMW. Nobody needs a Tesla. Nobody needs an Apple Watch or second pair of jeans or Puff Daddy's latest headphones. We buy these things because we *want* them... And are then very, *very* good at coming up with reasons these products are worth the cost&mdash;even at exorbitantly high prices.
+Nobody needs a BMW. Nobody needs a Tesla. Nobody needs an Apple Watch or second pair of jeans or Puff Daddy's latest headphones.
 
-As a kickass copywriter, it's your job to help customers along with these justifications. Tell them why your product is worth every penny. Tell them what justifies the cost. Tell them what they have to lose by *not* using your product.
+We buy these things because we *want* them... And are then very good at coming up with reasons these products are worth the cost&mdash;even at exorbitantly high prices.
 
-A few quick ewamples:
+As you've read, it's your job to help customers along with these justifications.
+
+You Educate Readers to the value of your product...
+
+You tell them The Stakes&mdash;what they have to lose by *not* using your product.
+
+Here are a few more examples:
 
 * You deserve it
 * You only have one set&mdash;protect your eyes
 * You'll love the way you look
 
+If your reader should feel good about themselves when they go to be, tell them.
+
 ### Play on Hope
 
-In another lesson, we talk about using specificity to make your copy more kickass. But what if you *can't* make specific claims? In that case, do this.
+Specificty is key to persuasive copy. But what if you *can't* make specific claims?
 
-Play on hope.
+In that case, play on hope.
 
-All sorts of products are sold on hope. Vitamins, organic foods, personal training, dating apps, you name it.
+Vitamins, organic foods, fitness products, dating apps... all imply the *possibility* success.
 
-To sell these products effectively, you want to imply the *possibility* of using your product or service. Here are a few ways you can play on that hope.
+Here are a few ways to play hope:
 
-* Allude to what you product is used for without making claims to specific outcomes (a hair-volumizing shampoo, for instance)
+* Allude to what your product is capable of without making claims to specific outcomes
 * Show testimonials of customers saying "wow, it really worked for me!"
-* Ramp up believability with credibility
+* Ramp up believability with credibility&mdash;experts talking about your product
 
-Let me give you an example from my personal life.
-
-Recently, I was having a period of time where I was self-conscious about the overall rigor of my erections.
-
-I did a little research and found something interesting on the internet. It seemed there was a group of folks talking about this certain exercise program for your cardiovascular system. In particular, it worked on the veins and arteries in your penis.
-
-To be honest, it kind of weirded me out at first. I won't go into the exercise in detail here (you're welcome), but it just kind of skeezed me out. However, the commenters were sharing all sorts of stuff like...
-
-"It works." "Yup, it works." "I'm in my 40s and this is the hardest I've been in my life." That social proof really helped. And this too...
-
-The guy who "invented" the exercise was going on and on about the cardiovascular makeup of the male member. He had scientific drawings of the cross section of a fallace and used scientific terminology and explanations of the systems the exercise affected. That gave him credibility. And you know what.
-
-I bought in.
-
-And it worked.
-
-##### Action Items
+Ask yourself:
 
 What do people hope for when they buy your product? A life partner? A few strokes off their golf game? A harder cock? Once you've nailed it down, ramp that shit up in your kickass copy.
 
-
 ### Familiarity
 
-My ex-wife used to watch this chick on YouTube. Her name is megsquats and I'll remember that bitch forever.
+We like what we know.
 
-And it's not just because she's pretty and I liked her smile. No, no, no. She used a psychological tactic far more nefarious than that. To start each video.... She used to start every video by saying the same thing:
+When we're familiar with something&mdash;a neighborhood, an operating system, an old beater automobile&mdash;we just plain like it.
 
-"Hello my strong, strong friends."
+This is the undercurrent of all branding: to become a familiar face in the crowd. To be known, liked, and listened to when you have something to say.
 
-And I will never forget it.
+Below are a few examples for becoming more familiar to your reader. What others will you come up with? Once you've found something you like, drive it home over and over and over again.
 
-The thing is, we like what we know. When we're familiar with something&mdash;a neighborhood, an operating system, an old beater automobile&mdash;we just plain like it. Getting people to like you and your kickass copy makes a big difference.
-
-I actually stole megsquats into idea for a newsletter and video series I used to put out about trumpeting. I opened every letter and video with "Hello my trumpet playing friends," and then closed each with the tagline "Happy trumpeting!" And it worked.
-
-People loved it. They responded to my communications and signed  their emails with "Happy Trumpeting!" We developed a community. And those folks that got involved were the very ones to buy my courses and refer their friends to my site and mailing list.
-
-The bottom line here is *being known*. Joe Sugarman, the copywriter who I learned many of these psychological triggers from shares a great story about his time serving in the military. He wanted to be known&mdash;and liked&mdash;among the commanding officers so he could.... To achieve this, he gave their children bubble gum every day and said...
-
-*"Don't tell anybody Mr. Sugarman gave you this gum. That's Mr. Sugarman. Remember, Mr. Sugarman did NOT give you this gum."*
-
-In other words, you want to be known, be liked, a familiar face in the crowd. It'll make folks comfortable with you&mdash;and all that more interested in what you have to say.
-
-Here are a few ways you can do that in your kickass copy. What others will you come up with? Once you've found something you like, drive it home over and over and over again.
-
-##### Familiarity Ideas
-
-* A familiar design (font choice, format, logo, company name, etc.)
+* A familiar design (font, format, logo, company name, etc.)
 * Familiar phrases
   * "Hello my strong, strong friends" (megsquats)
   * "Rooting for you" (Integro)
@@ -403,101 +317,48 @@ Here are a few ways you can do that in your kickass copy. What others will you c
   * Kickass copy
 * Familiar words or numbers like "Bible" or "The Seven... "
 
-Write something and post it and make it clear who wrote it.
+The bottom line:
 
-##### Action Item
-
-Ask yourself, is it absolutley clear to the reader where this kickass copy is coming from?
+Before sending out your copy, ask yourself, is it absolutley clear where this kickass copy is coming from?
 
 ### Mental Engagement
 
-(THIS CAN BE A BLOG POST--Linkedin too)
+Ask yourself what you want to tell your reader. Then, see if you can find a way to have them come to that conclusion *on their own*.
 
-I recently took a trip to southern California. My girlfriend and both had friends in the area and we spent a week bopping around Los Angeles.
+Here's an example from a short story I wrote. Notice how the narrator never comes out and says, "She was drunk."
 
-If you're familiar with LA, you probably know you need a car to get around. Luckily, we were able to borrow one from a friend of hers (my girlfriend's). It was a 2003 Toyota Corrola (we took the trip in 2025). I loved it. It reminded me of the piece of shit I used to cruise down the freeways on (but this one had power windows and an automatic transmission) and drove it as if it were my own.
+>*She looked at him without saying anything, as if she hadn’t heard him. “Nan should be here any minute. Come give your Momma a hug.”*
+>
+>*Cage walked over to her and she wrapped her arms around him. He could smell the chemical odor on her breath. “You seem tense,” she said. “Relax!” She broke her hug and pushed down on his shoulders. Releasing him, she grabbed her purse from the countertop. “I’m off,” she said. “Wish me luck!”*
+>
+>*“Have fun, ma.”*
+>
+>*After he was certain she’d gone, Cage picked up her glass up from the sink and smelled it. He set it back down in the stainless steel basin and took a thermos from an overhead cabinet, grabbed a carton of orange juice from the fridge.*
 
-We picked up the car on the evening of our arrival. The next morning, however, we didn't need the car as a friend of mine was coming to pick us up. That turned out to be a problem.
-
-When he arrived, I was wearing a puffer coat. (It was the morning in socal, afterall). My pockets were stuffed to the gills with trash, keys, my wallet... all sorts of crap. I decided to clean them out before we left.
-
-I set the car keys on top of the car and then threw away all the garbage I had been carring around in a nearby trashcan. Then, I put my phone and wallet into my backpack and got in the car. We were off.
-
-My buddy lived about a mile and a half away in northwest Pasadena. After chilling at his house awhile catching up on the local scene, I asked if we could make a run to the grocery store a bit up the 210 freeway in La Canada. Him and I used to hangout at a coffee shop up there, and I thought it would be fun. We also needed some food.
-
-About halfway up the freeway, I felt an urge to check for my belongings. Phone, keys, wallet: the trifecta. I dug into my backpack and there was my phone, right in the top pocket. I dug around a little more and put my hand on my wallet. And then dug around some more and some more and some more and started to panic. I couldn't find the car keys.
-
-Then my buddy said:
-
-"You know what, I saw you put them... "
-
-### Another Heading of Sorts
-
-If you've been paying attention, I imagine you know where I left the keys. If not, well, go back and try again. I'll reveal what happened to those keys in a later lesson, but for now, imagine I told you the same story, but instead a key scene (*ahem*) went something like this: (**Spoiler Alert**)
-
-*"Emptying out my pockets, I put the keys on top of the car and left them there when we drove away. I didn't realize they were missing until later."*
-
-Doesn't have quite the same punch, eh? Here's why.
-
-As a reader, when you come to a conclusion on your own, it feels good. Reaching that successful conclusion on your own gives you a little boost. You're experiencing the story in a different&mdash;more engaging&mdash;way.
-
-See if you can use this strategy to make your copy that much more kickass. Let me explain how.
-
-Ask yourself what you want to tell your reader. Then, see if you can find a way to have them come to that conclusion *on their own*. Man oh man does it work. And man, oh man, is it one of my most favorite things to do.
-
-Here's an example from an ad written by Joe Sugarman.
-
-> *"The Seiko chronograph alarm sells for $300. The watch costs jewelers $150. And jewelers love the item, not only because of the excellent reputation of the Seiko brand, but because it's probably America's best selling new expensive digital watch. And Seiko can't supply enough of them to their dealers."*
-
-Why do the jewelers *really* love the watch? See how smart you are?
-
-### Action Items
-
-Bottom line: let people be smart. Be vague sometimes, letting your reader come to the conclusion you want by their own intellegince. They'll lap that shit up. And like you&mdash;and your kickass copy&mdash;all the better for it.
+Skirt around the main point. Your reader is smart. Let them come to their own conclusions by there own intelligence. They'll lap that shit up. And like you&mdash;and your kickass copy&mdash;all the better for it.
 
 ### Guilt and Reciprocity
 
-Curious what happened to those keys I borrowed in the last lesson? Here, I'll tell you.
+Give something to someone, and they'll want to return the favor.
 
-So we were half a mile up the freeway when my buddy reminded me I sat the keys on the top of the car before we left. I was staving off panic as we drove turned around and headed toward our starting point. "We'll find 'em," he said.
+Here are a few ways to create a feeling of wanting to reciprocate:
 
-I was watching to road like a hawk. We drove through the budy streets of Pasadena and I couldn't take my eyes off the other side of the road. Then, when we were about a mile from where we had started in the morning, I saw them.
+* Educating your readers
+* Entertain them
+* Send repeat mailings with small gifts inside
 
-The keys were attached to a large lanyard which made them easier to spot. He pulled a U-turn in the middle of the road and parked next to the curb. I ran out and got the keys.
+What can you provide your reader that costs very little to you but leaves them feeling the need to return the favor?
 
-They had clearly been run over. Probably multiple times. The key rings were mangled, but the keys themselves seemed to be in fine shape. However, the key fob (electronic door opener... I learned what this was called on after this debacle) had broken off and just a piece of broken plastic remained.
-
-I didn't realize this until we had left *again*, but when my girlfriend asked if there had been a key fob I realized "fuck. yes. turn around."
-
-By some miracle the key fob survived. It looked like it had maybe broken off on impact and then skid into the center of the lane where it avoided being crushed by car tires. *And it worked*. The only issue was that it had broken off of the key ring.
-
-I felt like one lucky son of a bitch, let me tell you that, but still felt terrible for fucking up the key fob. Here's this person, whom I did not know personally, and she lets us borrow her car for a week and within 24 hours I fuck her keys up. I felt terrible.
-
-I started looking into key fob replacements. A new key fob from a dealer is *not* cheap. The key and programming looked to run about $200. Ultimately, I ended up paying $12 at autozone for a new case I put the electronics into. But I am here to tell you that I would have gladly paid $200 *or more* simply to alleviate my guilt. I felt terrible.
-
-...
-
-Now, you probably won't be able to manufactur a scenario quite like the one above in print (nor necessarily should you). But, you *can* instill a sense of guilt in your reader, and it might not be a bad idea. How do you do that? Like this.
-
-Give them something.
-
-When poeple receive gifts, they can feel an intense desire to reciprocate in some way.
-
-(*Side note: When I went through the new bike debacle LINK, I felt indebted to the company. I signed up for a class they offered, purchased a few more items* and *donated an unused bike. I can't say it made the staff like me anymore, but hey, what can you do.*)
-
-Here are a few things you can give your prospects with your kickass copy:
-
-* Information
-* Entertainment
-* Repeat mailings
-* Repeat lumpy mailings (mailings with small gifts inside)
-
-In reply, you really only want one thing: for them to know you.
-
-### Action Items
-
-What can you provide your reader that costs very little to you but leaves them feeling the need to "get you back"? What will make them want to buy?
+Be creative.
 
 ### Patterning
 
-How have others sold this product? Pattern your approach to theirs. (This is a good one for the copy.)
+How have others succesfully sold this product? Who are the winners? What are they doing that's effective?
+
+Pattern an approach after theirs&mdash;but with a twist of your own
+
+### Onward
+
+There are thousands, millions, infinited numbers of these little things to include. Master a small handful of them and invent your own!
+
+Okay... see you in the next lesson.
