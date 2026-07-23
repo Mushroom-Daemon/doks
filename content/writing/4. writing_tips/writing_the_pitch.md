@@ -13,6 +13,8 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+NO MATTER YOUR ASSIGNMENT, THESE TIPS WILL HELP YOU. ANY WRITING ASSIGNMENT. MUSCLE THROUGH. GRIND THORUGH.
+
 In the Persuasion Playbook, you layed the groundwork for all persuasive writing: coming to know your market better than anyone else.
 
 You did this through intensive market research, and brainstorming persuasive copy elements to potentially include in your pitch or ad campaigns.

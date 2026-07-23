@@ -25,6 +25,8 @@ Your tone is about meeting your readers where they are and how they feel when th
 
 ### Tone Modifiers
 
+(these can be helpful for the dos and don'ts in the voice/tone guideline)
+
 Informative/Educational <—> Inspiring/Entertaining
 
 Professional/Clinical <—> Friendly/Approachable

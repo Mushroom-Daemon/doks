@@ -59,6 +59,13 @@ NOt copy, per say, but a great example of using short sentences (fragments) to t
 
 Secret's out. Blackwell blew it. Here's that that means for you.
 
+Loving Precise Builder? Tell your friends. You earn $200 for every referral that leads to a sale. Your friend also gets a $100 prize. And the fun doesn’t stop there.
+
+With five successful referrals you get a free guided duck hunt on the Chesapeake Bay with software developer, Shawn Myers. Shawn’s a cool guy. And he knows ducks. Together, explore backwater creeks and the open bay for a day to remember. Plus that extra $1,000 in your pocket.
+
+This deal won’t last forever. So act now. Send your friends the info below and we’ll handle the rest. You just cash the checks.
+
+
 #### Break Up Content with Subheadings
 
 Subheadings make your content more bite-sized&mdash;and therefore, easier to read.
@@ -204,7 +211,7 @@ If you really want to
 
 
 
-
+### Read in Design
 
 
 * Breaks from content help freshen your mind and eyes... If you have time, work on something else for awhile before coming back to edit your current copy

@@ -22,3 +22,7 @@ read lots of ads... learn the lingo... what other writers do. The more ads you r
 #### Write All the Time
 
 Write all the time. Letters and postcards. Every opportunity that you can. Never, ever, ever worry about it being good. Just write.
+
+The only way is to put your grit to it, as Justin said. And edit. And have others edit. And learn from the edits and do the things in the editing section.
+
+You'll get better. Everyone gets better.

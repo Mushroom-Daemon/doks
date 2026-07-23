@@ -14,6 +14,8 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+
+CULTIVATE YOUR ON/OFF. CLEAN DESK POLICY.
 There will be times when everything you write sucks. There will be times when you won't have any ideas. There will be times when you really won't want to do whatever it is you have been assigned to do. When those moments come along I want you to remember this:
 
 Work works.

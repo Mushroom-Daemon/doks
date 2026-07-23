@@ -26,7 +26,7 @@ Again: Always talk about your customers' problems. How often do you do it? Do it
 ### Here Are Some One-Liners:
 
 * Money isn't everything, but when you and your partner aren't on the same page, it can be a major source of stress. Managing money should make you feel more connected, not less.
-* Effective websites drive sales. Lousy ones waste money. Make sure you're making the most of your online presence by scheduling a free assessment with an Intregro marketing expert today.
+* Effective websites drive sales. Lousy ones waste money. Make the most of your online presence with a free website assessment with an Intregro marketing expert today.
 * Looking for premium products at discount prices? Swing by King's for top-tier products for less. Because you never know what's in store.
 * Don’t let leads slip away. With this simple checklist, you can create compelling lead generators that get prospects onto your email list and on the road to becoming paying customers.
 * With 110 people moving to Nashville every day, people are wasting more and more time sitting in traffic. Blah, blah, blah, blah, blah so...
