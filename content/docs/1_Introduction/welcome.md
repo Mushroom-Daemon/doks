@@ -15,11 +15,13 @@ seo:
 ---
 Welcome to the Kickass Copy Playbook.
 
-What you'll find here are the [concepts, ideas, and checklists] that have helped me serve/write for our clients/move buckoos of bucks/**move millions of dollars in products** as Senior Copywriter at Integro 212.
-
 The reason for creating this resource was to help my friends and colleagues write dynamic, persuasive copy for their passion projects and clients. Just kidding.
 
 I made it because I freak out when things aren't organized. And I wanted work to be easy. And fun. And doggone it, I want to be good at what I do.
+
+What you'll find here are the [concepts, ideas, and checklists] that have helped me serve/write for our clients/move buckoos of bucks/**move millions of dollars in products** as Senior Copywriter at Integro 212.
+
+It's what I share with colleagues who enjoy taking a swing at copywriting for their ad clients ... etc.
 
 Hopefully, you can benefit from that neuroticism. I still want this website to be helpful for others, and did my best to create a practical, user-friendly guide for writing kickass copy that converts. You might find something that works for you.
 

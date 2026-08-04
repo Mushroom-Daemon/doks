@@ -5,7 +5,7 @@ summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 490
+weight: 460
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -16,6 +16,9 @@ seo:
 
 
 CULTIVATE YOUR ON/OFF. CLEAN DESK POLICY.
+
+close all tabs. clear desktop. hide your tools.
+
 There will be times when everything you write sucks. There will be times when you won't have any ideas. There will be times when you really won't want to do whatever it is you have been assigned to do. When those moments come along I want you to remember this:
 
 Work works.

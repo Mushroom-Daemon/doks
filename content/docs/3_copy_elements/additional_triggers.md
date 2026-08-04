@@ -149,6 +149,8 @@ Let them know.
 
 (For more examples of how to format fear/the stakes into your copy, see The Stakes. LINK)
 
+Also, check out the section on Improving Readability.
+
 ### Linking
 
 Relating your product or offering to something your reader already understands is a great way to help them quickly accept and relate to your product.
@@ -357,7 +359,7 @@ How have others succesfully sold this product? Who are the winners? What are the
 
 Pattern an approach after theirs&mdash;but with a twist of your own
 
-### Onward
+### Onward &#10132;
 
 There are thousands, millions, infinited numbers of these little things to include. Master a small handful of them and invent your own!
 

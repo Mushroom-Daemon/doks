@@ -1,5 +1,5 @@
 ---
-title: "Writing the Pitch"
+title: "Writing Your Pitch"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -31,14 +31,14 @@ You're starting from nothing it feels like.
 
 Lot's of people are insecure about their writing chops---yours truly, included. Here are some tips for beating self-doubt, putting in the reps, and getting better (you can do it, everyone can).
 
-### 1. Close the Door
+### 1. Eliminate Distractions
 
 Use a timer.
 
 What you *don't* do is fuck around with your phone, or reply to slack messages, or look at your to-do list or think about or do *anything* other than the task at hand. This will likely require some training. You must completely eliminate distractions.
 
 
-### 2. Become Your Reader/Know Who You're Writing To
+### 2. Become Your Reader
 
 This is the most important part of kickass copy that converts.
 
@@ -58,7 +58,7 @@ Think about writing to ONE person. From me to you. What will motivate them to be
 
 Then...
 
-### 3. Barf it Out on the Page
+### 3. Get it All Out
 
 Some people say imagine the end result... then do this.
 
@@ -87,3 +87,5 @@ By repeating these five steps, you'll muscle through any writing assignment.
 On the next page, we'll talk about editing. It's a bit much to put here, so it has it's own page.
 
 See you there.
+
+Here talk about how the following three pages will all be done at once in random order... but, this website had to be organized, so there you go.

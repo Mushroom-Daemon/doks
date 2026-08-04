@@ -17,6 +17,7 @@ seo:
 ---
 This is an example of some stuff I've done.
 
+new cbinpro ad campaign
 
 PORTFOLIO NEXTs (MONTHLY)
 - TITLE TAGS AND META DESCRIPTIONS
