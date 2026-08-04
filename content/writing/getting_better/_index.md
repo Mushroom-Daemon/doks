@@ -1,11 +1,11 @@
 ---
-title: "Integro 212 Deliverables"
+title: "Tips for Improving"
 description: ""
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00
 draft: false
-weight: 600
+weight: 500
 toc: true
 sidebar:
   collapsed: false

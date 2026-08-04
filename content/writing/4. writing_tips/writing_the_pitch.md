@@ -40,6 +40,10 @@ What you *don't* do is fuck around with your phone, or reply to slack messages, 
 
 ### 2. Become Your Reader
 
+This is the tuning fork thing.
+
+One of the most impactful things I've read was written by a friend of mine to his wife after he caught her cheating on him.
+
 This is the most important part of kickass copy that converts.
 
 Thnk about your prospect. Their needs and desires. Their problems. The things that keep them up at night and their dreams. Then, don't write *to* that person. *Become* them.

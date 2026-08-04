@@ -13,66 +13,80 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+After you've written your first draft, the real work begins. During your editing/rewriting phase, you'll be searchign for the perfect words to ... make your copy kickass and have it convert.
 
-Switch screens/print it
-READ IT OUT LOUD (or have someone else do it)
-Rework awkward phrases
-Find unfortunate typos (next slide)
-Run Grammarly*** and Google spell check
-Have Tim read it
+Remember, the purspose of persuasive copy is to get your readers to *feel* something. Notice how all of the suggestions and examples below affect the feel of the copy&mdash;that's the goal!
 
+Also notice brevity is a key factor here.
 
-### order your stuff write... take out of grease the slide (aniticpate goes here too... I like that)
+### Inject More Passion
 
+What are the emotional reasons your reader wants to take action? *Feel* those feelings yourself&mdash;connect with them. And then add more passion, ever more passion.
 
-* Anticipate and answer reader questions as you go
-* If an area feels stagnant or confusing, try rearranging main points
+More passion, more sales.
 
 
-Tell your readers what to do in a kind and straightforward way. This little change in perspective can help you be concise.
+### Learn to Love Words
 
-For example, avoid talking about yourself:
+Every word is like a chest in a drawer containing entire worlds within itself. As a Kickass Copywriter, you must learn to love finding the perfect word.
 
-For the holidays, our customers can find the perfect children’s books on our website.
 
-We’re excited to announce that we are introducing over 30 new products to our shop for the holidays.
 
-Instead, be direct:
+Think about having the material delivered to you vs getting a book in the mail.
 
-Find the perfect holiday gift. Shop now.
+Also helpful here will be your words/phrases to use from your voice/tone guidelines (lINK).
 
-There are over 30 new items in the shop today! See what’s on sale.
 
-Be careful with the passive voice, where the subject of the sentence comes after the object:
 
-You have received a gift card from Maria.
-
-Instead, use the active voice:
-
-Maria sent you a gift card.
-
-Balance being direct with being nice. Huddle your nouns and verbs close together to shorten your sentences. Active verbs help you write concisely and invigorate your prose so that it feels more like a conversation.
-
-HONEST
-
-### More Passion
-
-What's the story about? What's the primary emotional driver?
-
-(maybe this is where my emotion stuff goes?)
-
-Know the emotional reasons your prospect wants to buy. Feel them and express them in your copy. Read it through and add more passion, ever more passion. More passion, more sales.
-
-Every word has an emotion associate with it and tells a story (a courteous refund, respectfully installed—doesn’t need to make sense. just needs to convey the right emotions) Every word is a story. material has a lot more sizzle than “:book”
-every good ad is an emotional outpouring of words, feelings and impressions
-you sell on emotion, justify with logic
-feel those emotions!!! tuning fork!!!
 
 The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency. As does you copy. To get them to feel that way, feel that way.
 
 If you want someone to feel love reading your letter, love them.
 
 In fact, every element is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
+
+### Include the Senses
+
+
+
+### Consider Your Content Order
+
+With all of your main bits hammered out, it's time to put them in an impactful order.
+
+Go through your copy and ask yourself:
+
+* Am I anticipating and answering reader questions as I go?
+* Does this portion feel stagnant or flat? If so, can I rearrange the content to liven it up?
+
+### Keep it About the Reader
+
+Always speak to the reader: their problems, the benefits to them, what you want them do to.
+
+For example:
+
+> *"For the holidays, our customers can find the perfect childrens' books on our website."*
+
+Becomes:
+
+> *"Find the perfect holiday gift. Shop now."*
+
+### Favor Active Voice
+
+Passive voice has its place&mdash;especially for imbuing a sense of elegence or anonymity. Ex: "Coffee is served at 11 am." Rely on your voice/tone sheet for this.
+
+However, in most instances, favoring the active voice is the way to go.
+
+Passive =
+
+> *<strike>"You have received a gift card from Maria."</strike>*
+
+Active =
+
+> *"Blackwell sent you a gift card."*
+
+
+
+HONEST
 
 ### Choose the Right Words
 
