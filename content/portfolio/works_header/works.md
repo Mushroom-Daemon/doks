@@ -17,7 +17,9 @@ seo:
 ---
 This is an example of some stuff I've done.
 
-new cbinpro ad campaign
+new cbinpro ad campaign --- and then the one pager for trade shows
+
+FARMCO BRAND GUIDELINES
 
 PORTFOLIO NEXTs (MONTHLY)
 - TITLE TAGS AND META DESCRIPTIONS

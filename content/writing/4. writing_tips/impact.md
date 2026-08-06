@@ -105,6 +105,8 @@ Ex: "Coffee is served at 11 am." Rely on your voice/tone sheet for this.
 
 Write how you talk. Unless your tone/voice thing says otherwise.
 
+use teddy's article here. just one sentence. it's in my integro drive. corssroads construction.
+
 ### Get In, Get Out
 
 Get in, make your point, get out. Your goal is to make your point with the maximum amount of emotion in the fewest words possible.
