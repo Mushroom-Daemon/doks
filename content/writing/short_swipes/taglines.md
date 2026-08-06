@@ -31,3 +31,4 @@ https://pressbooks.cuny.edu/copywriting/chapter/6-3-taglines/ (read this course.
 * Metamucil Get You Movin
 * Swipe Less, Date More
 * The Dating App Designed to be Deleted
+* We protect what matters most (GAF)

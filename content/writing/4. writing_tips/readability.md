@@ -111,12 +111,17 @@ Here's why:
 
 The last thing you want is readers getting stuck. To suck readers through your copy like a Hoover vacuum, try the following some of the following.
 
+* Make honest and believable statements&mdash;ones you know your reader will *not* challenge
 * Tease upcoming content ("in the next section," "more on that later," "stay tuned for," etc.)
 * End paragraphs with "cliffhangers"
-  * But almost immediately, something strange happened.
-  * You think that's weird? Check this out.
-  * He was not worried about any of that. But there were other things.
-  * But here's something you may not have known.
+
+>> *But almost immediately, something strange happened.*
+>>
+>> *You think that's weird? Check this out.*
+>>
+>> *He was not worried about any of that. But there were other things.*
+>>
+>> *But here's something you may not have known.*
 
 For these cliffhangers, go through your copy and force curiosity in at the end of paragraphs. You don't have to keep them, but the practice will keep you aware of how you can add a bit of curiosity to the ends of paragraphs to keep your reader sliding along.
 

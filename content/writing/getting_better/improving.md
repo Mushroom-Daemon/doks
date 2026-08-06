@@ -15,9 +15,17 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-Just do it a lot
+Just do it a lot.
+
+There's really no substitue for doing the thing&mdash;writing, writing, writing. And editing. And learning from the edits.
+
+And then writing some more.
 
 read lots of ads... learn the lingo... what other writers do. The more ads you read, you learn discernment... you learn what kickass copy that converts looks and sounds like... it improves your tastes.
+
+One of the most fun things I've done was to buy a box of tabloids on ebay and read through them. the sensationalism. The clickbaity-ness. Tons of print ads. Tons.
+
+Pay attention to ads. Get to know the Persuasive Elements then notice where you see them in the wild. Collect your favorites. Make a website. Share with others.
 
 #### Write All the Time
 

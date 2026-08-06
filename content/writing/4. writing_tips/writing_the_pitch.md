@@ -78,6 +78,12 @@ Don't stop writing. Accept that your first draft will suck and write fast. Faste
 
 Something else you can do is start out lou.d Ask: what's my story about? What do i want to say? SAY IT and start transcribing.
 
+* The point is to anticipate next questions and answer (or tease) it
+* Write headline. Will it grab reader?
+* Write subhead. Will it compell reader to read further?
+* Write caption for imaginary picture. Strong enough to pull them into first sentence?
+* Write the first sentence. Suck them in like a vacuum.
+
 ### 4. Take a Break
 
 Walk away for awhile. Take a break. Go on a walk. Play a musical instrument or work on something completely different (preferably fun). Let what you know incubate in the dark recesses of your mind, or the warm cockles of your heart, or the SOMETHING SOMETHING of your loind. Whatever. Then, start the emotional outpouring.
@@ -93,3 +99,5 @@ On the next page, we'll talk about editing. It's a bit much to put here, so it h
 See you there.
 
 Here talk about how the following three pages will all be done at once in random order... but, this website had to be organized, so there you go.
+
+Some writers may be able to upchuck genius copy without needing revisions. I'm not one of them. You probably aren't either&mdash;especially if you've been paying attention and wrote your first draft as fast as humanly possible.

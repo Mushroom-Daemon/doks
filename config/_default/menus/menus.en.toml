@@ -29,13 +29,13 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Persuasion Playbook"
+  name = "Persuade Your Reader"
   url = "/docs/1_introduction/getting-started/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Writing Tips"
+  name = "Write Your Pitch"
   url = "/writing/4. writing_tips/writing_the_pitch/"
   weight = 20
 

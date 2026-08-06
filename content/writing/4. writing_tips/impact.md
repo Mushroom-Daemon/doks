@@ -1,5 +1,5 @@
 ---
-title: "Rewriting for Impact"
+title: "Editing for Impact"
 description: "A guide to writing kickass copy that converts."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -15,52 +15,65 @@ seo:
 ---
 After you've written your first draft, the real work begins. During your editing/rewriting phase, you'll be searchign for the perfect words to ... make your copy kickass and have it convert.
 
-Remember, the purspose of persuasive copy is to get your readers to *feel* something. Notice how all of the suggestions and examples below affect the feel of the copy&mdash;that's the goal!
+Remember, the purspose of persuasive copy is to get your readers to *feel* something/Taking action is an emotional event.
+
+Notice how all of the suggestions and examples below affect the feel of the copy&mdash;that's the goal!
 
 Also notice brevity is a key factor here.
 
+Every word has emotions associted with it and tells a story. And all good sales presentations are an emotional oupouring or words, feelings, and impressions. You sell on emotion… And then justify that purchase with logic. (After the fact.)
+
 ### Inject More Passion
 
-What are the emotional reasons your reader wants to take action? *Feel* those feelings yourself&mdash;connect with them. And then add more passion, ever more passion.
+The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency.
 
-More passion, more sales.
+If you want someone to feel love reading your letter, love them. If you want them to feel a certain fear, feel it yourself.
 
+Every element of your copy is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
+
+To get your reader to vibrate at that frequency, ask yourself: what are the emotional reasons your reader wants to take action?
+
+Then, *feel* those feelings yourself&mdash;connect with them. And then add more passion, ever more passion, into your copy.
+
+Go through your pitch. How can you inject more of the dominant emotions you want your readerto feel?
 
 ### Learn to Love Words
 
-Every word is like a chest in a drawer containing entire worlds within itself. As a Kickass Copywriter, you must learn to love finding the perfect word.
+This follows the "tuning fork" idea.
 
+Words are stories unto themselves. Think of them as drawers in a chest, containing entire worlds within itself.
 
+See every word as an emotional expression of some feeling. A little story.
 
-Think about having the material delivered to you vs getting a book in the mail.
+It's the difference between having the material delivered to you vs. getting a book in the mail. Between signing the paperwork and signing the contract.
 
-Also helpful here will be your words/phrases to use from your voice/tone guidelines (lINK).
+Every word has an emotion associate with it and tells a story (a courteous refund, respectfully installed—doesn’t need to make sense. just needs to convey the right emotions)
 
+To begin, just know that different words carry different emotional flavors and subtext. They make the reader *feel* differently. Your job, as a Kickass Copywriter, is to find the perfect words to resonate with your reader.
 
-
-
-The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency. As does you copy. To get them to feel that way, feel that way.
-
-If you want someone to feel love reading your letter, love them.
-
-In fact, every element is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
+And then record them on your voice/tone guidelines (lINK).
 
 ### Include the Senses
 
+making your reading a sensory experience gives your reader the feeling that they have already agreed to your pitch. The test drive. They're in the seat with the wind at their face.
 
+Scan your copy five times. With each pass, ask yourself where you can include language for each of the five passes.
 
-### Consider Your Content Order
+Sell back patios with the sounds of clinking glasses, the feel of stone pavers under bare feet as the sun goes down, the splashing owater droplets on your face when your grandchild does a cannonball in the new pool.
 
-With all of your main bits hammered out, it's time to put them in an impactful order.
+### Reorder Your Content
 
-Go through your copy and ask yourself:
+With all of your main bits hammered out, ask yourself a few questions:
 
 * Am I anticipating and answering reader questions as I go?
-* Does this portion feel stagnant or flat? If so, can I rearrange the content to liven it up?
+* Is the information presented in a logical flow/order?
+* Does a portion of my copy feel flat stagnant or stagnant?
 
-### Keep it About the Reader
+Often, copy can be made more impactful by simply reordering sentences and the flow of information. If something is lacking the pep/zest/simmer, copy paste some different sentnece orders to see how the emotional tone changes.
 
-Always speak to the reader: their problems, the benefits to them, what you want them do to.
+### Focus on the Reader
+
+Search your copy for areas where you're talking about yourself&mdash;your accolades, your story, etc. See if you can turn those phrases around to make them about your customer.
 
 For example:
 
@@ -70,11 +83,13 @@ Becomes:
 
 > *"Find the perfect holiday gift. Shop now."*
 
+The key is to speak to the reader: their problems, their transformation, what you want them do to.
+
+There's always room for personal anecdotes, but refrain from making it all about yourself.
+
 ### Favor Active Voice
 
-Passive voice has its place&mdash;especially for imbuing a sense of elegence or anonymity. Ex: "Coffee is served at 11 am." Rely on your voice/tone sheet for this.
-
-However, in most instances, favoring the active voice is the way to go.
+Passive voice has its place&mdash;especially for imbuing a sense of elegence or anonymity. However, in most instances, favoring the active voice is the way to go.
 
 Passive =
 
@@ -84,184 +99,22 @@ Active =
 
 > *"Blackwell sent you a gift card."*
 
+Ex: "Coffee is served at 11 am." Rely on your voice/tone sheet for this.
 
+### Keep it Conversational
 
-HONEST
+Write how you talk. Unless your tone/voice thing says otherwise.
 
-### Choose the Right Words
-
-Every word has emotions associted with it and tells a story. And all good sales presentations are an emotional oupouring or words, feelings, and impressions. You sell on emotion… And then justify that purchase with logic. (After the fact.)
-
-See every word as an emotional expression of some feeling. A little story.
-
-Signing the paperwork and signing the contract feel different.
-
-John Caples, a legendary direct marketer, changed the word “repair” to the work “fix” and saw a 20% increase in response.
-
+### Get In, Get Out
 
 Get in, make your point, get out. Your goal is to make your point with the maximum amount of emotion in the fewest words possible.
 
-Some things to consider:
+The following page will help you do that. For now, some things to consider:
 
 * Grammar comes second to emotion and legibility&mdash;feelings are more important (caveat: unless your client's tone suggests otherwise)
 * Use simple words&mdash;they carry the most weight.
-* Search your document for "that" and remove/rewrite&mdash;there's ususally a shorter way to say it (show an example)
-* Vary sentence length for good rhythm
-* Hyphenate sentences&mdash;makes 'em shorter
-* Try rearranging ideas for more emotional impact
+* Keep it specific: Find any vague claims in your copy and make them more specific (unless you're selling on hope LINK).
 
-### Edit for Specificity
+### Onward &#10132;
 
-Find any vague claims in your copy and make them more specific (unless you're selling on hope LINK).
-
-
-
-### Make it More Impactful
-
-Sometimes, get your main thoughts and just rearrange them. Often, there's a more impactful way.
-
-### write how you talk
-
-### clear, useful friendly
-
-Get the prospect saying "yes." The slippery slide. Make honest and believable statements. Ones you know they can agree with and not challenge. *You do not want them to challenge the copy*.
-
-* The point is to anticipate next questions and answer (or tease) it
-* Write headline. Will it grab reader?
-* Write subhead. Will it compell reader to read further?
-* Write caption for imaginary picture. Strong enough to pull them into first sentence?
-* Write the first sentence. Suck them in like a vacuum.
-
--------------------
-
-
-
-
-Switch screens/print it
-READ IT OUT LOUD (or have someone else do it)
-Rework awkward phrases
-Find unfortunate typos (next slide)
-Run Grammarly*** and Google spell check
-Have Tim read it
-
-### Wildcard: Open with an Unrelated Story
-
-
-### Have Someone Else Read It
-
-Before sending out your campaign, have someone else read it.
-
-At the very least, this will help with unfortunate typos and missing information. What questions does your reader have?
-
-If you really want to
-
-Try having a text reader read it.
-
-### Read in Design
-
-
-* Breaks from content help freshen your mind and eyes... If you have time, work on something else for awhile before coming back to edit your current copy
-* I find reading your drafts on another screen or device (than the one you use to write) easier to catching errors/find shorter ways to say things. If you're going to use your phone *turn off notifications*.
-
-### read out loud
-
-### have someone else read it out loud
-
-yikes
-
-### good writing is
-
-
-
-
-Use the imperative when it’s appropriate. Talk to your readers, not at them. Tell them what to do in a kind and straightforward way. This little change in perspective can help you be concise.
-
-For example, avoid talking about yourself:
-
-For the holidays, our customers can find the perfect children’s books on our website.
-
-We’re excited to announce that we are introducing over 30 new products to our shop for the holidays.
-
-Instead, be direct:
-
-Find the perfect holiday gift. Shop now.
-
-There are over 30 new items in the shop today! See what’s on sale.
-
-Be careful with the passive voice, where the subject of the sentence comes after the object:
-
-You have received a gift card from Maria.
-
-Instead, use the active voice:
-
-Maria sent you a gift card.
-
-Balance being direct with being nice. Huddle your nouns and verbs close together to shorten your sentences. Active verbs help you write concisely and invigorate your prose so that it feels more like a conversation.
-
-HONEST
-
-### More Passion
-
-What's the story about? What's the primary emotional driver?
-
-(maybe this is where my emotion stuff goes?)
-
-Know the emotional reasons your prospect wants to buy. Feel them and express them in your copy. Read it through and add more passion, ever more passion. More passion, more sales.
-
-Every word has an emotion associate with it and tells a story (a courteous refund, respectfully installed—doesn’t need to make sense. just needs to convey the right emotions) Every word is a story. material has a lot more sizzle than “:book”
-every good ad is an emotional outpouring of words, feelings and impressions
-you sell on emotion, justify with logic
-feel those emotions!!! tuning fork!!!
-
-The idea is to create the condition where the prospect is in perfect, harmonic resonance with your copy. Emotions follow the resonant frequency. As does you copy. To get them to feel that way, feel that way.
-
-If you want someone to feel love reading your letter, love them.
-
-In fact, every element is a tuning fork. The headline, the picture, the caption, the first sentence all the way to the final offer.
-
-### Choose the Right Words
-
-Every word has emotions associted with it and tells a story. And all good sales presentations are an emotional oupouring or words, feelings, and impressions. You sell on emotion… And then justify that purchase with logic. (After the fact.)
-
-See every word as an emotional expression of some feeling. A little story.
-
-Signing the paperwork and signing the contract feel different.
-
-John Caples, a legendary direct marketer, changed the word “repair” to the work “fix” and saw a 20% increase in response.
-
-
-Get in, make your point, get out. Your goal is to make your point with the maximum amount of emotion in the fewest words possible.
-
-Some things to consider:
-
-* Grammar comes second to emotion and legibility&mdash;feelings are more important (caveat: unless your client's tone suggests otherwise)
-* Use simple words&mdash;they carry the most weight.
-* Search your document for "that" and remove/rewrite&mdash;there's ususally a shorter way to say it (show an example)
-* Vary sentence length for good rhythm
-* Hyphenate sentences&mdash;makes 'em shorter
-* Try rearranging ideas for more emotional impact
-
-### Edit for Specificity
-
-Find any vague claims in your copy and make them more specific (unless you're selling on hope LINK).
-
-
-
-### Make it More Impactful
-
-Sometimes, get your main thoughts and just rearrange them. Often, there's a more impactful way.
-
-### write how you talk
-
-### clear, useful friendly
-
-Get the prospect saying "yes." The slippery slide. Make honest and believable statements. Ones you know they can agree with and not challenge. *You do not want them to challenge the copy*.
-
-* The point is to anticipate next questions and answer (or tease) it
-* Write headline. Will it grab reader?
-* Write subhead. Will it compell reader to read further?
-* Write caption for imaginary picture. Strong enough to pull them into first sentence?
-* Write the first sentence. Suck them in like a vacuum.
-
-
-Some writers may be able to upchuck genius copy without needing revisions. I'm not one of them. You probably aren't either&mdash;especially if you've been paying attention and wrote your first draft as fast as humanly possible.
+Good job. In the next section, you'll learn how to write in a way that serves the #1 goal of *all* written communication. Copy! Bah!
