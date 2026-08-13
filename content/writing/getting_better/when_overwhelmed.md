@@ -19,11 +19,21 @@ CULTIVATE YOUR ON/OFF. CLEAN DESK POLICY.
 
 close all tabs. clear desktop. hide your tools.
 
-There will be times when everything you write sucks. There will be times when you won't have any ideas. There will be times when you really won't want to do whatever it is you have been assigned to do. When those moments come along I want you to remember this:
+There will be times when everything you write sucks. When your ideas are trash. When you won't want to do the one thing that works&mdash;because you're scared.
+
+If you feel like that now. Stop reading.
+
+When that happens, sit down. Start your timer. Feel the fear and self-loathing and pour forth your river of shit.
+
+
+
+whatever it is you have been assigned to do. When those moments come along I want you to remember this:
 
 Work works.
 
-Just sit down, start your timer, and do your best. The words will come. They always come. The ideas will present themselves. <s>You will sift through the grainy bottom of a river of self doubt and find the glittering gold buried inside.</s> You will shift through a river of shit and find the glittering gold buried inside. And it will be fun. And people will think you're some kind of genius.
+Just sit down, start your timer, and do your best. The words will come. They always come. The ideas will present themselves.
+
+You will shift through a river of shit and find the glittering gold buried inside. And it will be fun. And people will think you're some kind of genius.
 
 sometimes I just make work goals w my creative writing. like, take this crap sorry I wrote and work on it one hour this week. twenty minutes at a time or whatever. cut parts out, add stuff in, play around and figure what it's all about. something always happens. there's a little bit of gold in there.
 
