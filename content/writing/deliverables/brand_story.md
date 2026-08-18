@@ -14,11 +14,16 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 ### One Liner
-Many homeowners want a fresh exterior for their home but get worried about choosing a contractor. With Smucker Exteriors you get a beautiful home that’s dry, safe and energy efficient—along with a contracting experience to remember.
+
+Read: [How to Write a One-Liner]({{< relref "one_liner" >}})
 
 ### Tagline Ideas
 
+Read: [Brainstorming Taglines]({{< relref "taglines" >}})
+
 ### A character
+
+Link: writing a customer persona
 
 Homeowner who wants to update their home’s exterior. This may be for functional reasons (the roof has a leak, siding is cracked, etc.) but most often is because clients don’t like the look of their home.
 ### Has a problem

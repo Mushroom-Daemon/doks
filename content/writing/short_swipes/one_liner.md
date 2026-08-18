@@ -21,7 +21,7 @@ Again: Always talk about your customers' problems. How often do you do it? Do it
 ### The One-Liner Should...
 
 * NAIL the problem
-* Explain what do you do
+* Explain what do you do and for who
 
 ### Here Are Some One-Liners:
 
