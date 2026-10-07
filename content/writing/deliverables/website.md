@@ -31,3 +31,12 @@ Get Your Free Quote
  20. offer summary: summarize the offer toward the end. "so here's the deal: you send us the money like this and we'll send you this and that."
 
   22. ease of ordering: recommendation -- use a coupon with a dotted line. they test better. it makes it clear you can order from the ad
+
+### Value Prop
+### Guide
+### Plan
+### Explanatory
+### Video (Optional)
+### Price Choices/Products
+(or features of Saas?)
+### Junk Drawer
