@@ -44,12 +44,12 @@ Fill in the blank: (give expamples first)
 
 ***what's at stake?***
 * What do they have to lose by not buying your products?
-* What's at stake if they go with another provider?
+* What is the risk by going with another provider?
 
 ***benefits***
 * What are the benefits of working with you?
 * What are all the features of your product?
-* What are there expectations of this product?
+* What are their expectations of a good product?
 * Do you take any special measures?
 * What does the process/quality control look like?
 * Why do you do it this way?
@@ -111,7 +111,7 @@ INCLUDE EVERY OBJECTION IN COPY
 * What are the competition up to?
 
 ***customer experience (voice/tone principles)***
-* What is important about your product to current customers? (ask them)
+* What is important about your product to current customers? What do they appreciate? (ask them)
 * What is the experience you want them to have working with you?
 * What do they say they like?
 
