@@ -32,3 +32,4 @@ https://pressbooks.cuny.edu/copywriting/chapter/6-3-taglines/ (read this course.
 * Swipe Less, Date More
 * The Dating App Designed to be Deleted
 * We protect what matters most (GAF)
+* Jesus Saves with Progressive
