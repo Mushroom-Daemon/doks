@@ -27,9 +27,9 @@ seo:
 https://pressbooks.cuny.edu/copywriting/chapter/6-3-taglines/ (read this course... good shit here)
 
 ### Taglines
-* They'll fight over it when they're dead.
-* Metamucil Get You Movin
+* They'll Fight Over it When You're Dead.
+* Metamucil Gets You Movin'
 * Swipe Less, Date More
 * The Dating App Designed to be Deleted
-* We protect what matters most (GAF)
+* We Protect What Matters Most (GAF)
 * Jesus Saves with Progressive
