@@ -55,7 +55,6 @@ Fill in the blank: (give expamples first)
 * Why do you do it this way?
 * What options does the product come in?
 * How big is your team? Why is that an advantage?
-* Are you just the hardest working team in show business? (Hertz)
 
 ***empathy***
 * Do you relate to their struggles in any way?
@@ -76,11 +75,9 @@ You have to be able to *prove* you're a trustworthy guide for solving their prob
 * What do you believe makes you an authority in this space?
 
 ***hesitations/objections***
-* What are the main hesitations or objections customers have? What are they afraid of?
 * What are the most common questions you get asked when people call for service?
 * What are the most common complaints you hear related to your service?
-
-List all objections on one side of a piece of paper. How can you turn those objections into opportunities? Will a certain kind of person benefit from them? How are they minor compared to your product's other good features? What kinds of concessions can you make?
+* What are the main hesitations or objections customers have? What are they afraid of?
 
 INCLUDE EVERY OBJECTION IN COPY
 
