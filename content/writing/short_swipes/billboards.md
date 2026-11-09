@@ -18,3 +18,6 @@ seo:
 * Well Behaved in Two Weeks. We can train any dog.
 * We sue drunk drivers. Lawyers you can trust.
 * Think Traffic Sucks? Try a dry sandwich. Mayonaise.
+* Make Fall Memories. Lapp Valley Creamery. (Picture of kid eating ice cream, falling leaves, petting a deer.)
+* Well Hung Studs. (Jeweler)
+* From Overwhelmed to Hopeful in 24 Hours. New patients seen within 24 hours.
