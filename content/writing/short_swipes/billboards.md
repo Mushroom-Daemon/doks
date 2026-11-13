@@ -21,3 +21,4 @@ seo:
 * Make Fall Memories. Lapp Valley Creamery. (Picture of kid eating ice cream, falling leaves, petting a deer.)
 * Well Hung Studs. (Jeweler)
 * From Overwhelmed to Hopeful in 24 Hours. New patients seen within 24 hours.
+* Need a New Roof? We've got you covered. (Residential roofing repairs and replacements)
