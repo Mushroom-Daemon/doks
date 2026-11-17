@@ -25,11 +25,19 @@ Read: [Brainstorming Taglines]({{< relref "taglines" >}})
 
 Link: writing a customer persona
 
-questions like: A homeowner—typically 55 years or older and able to pay cash—wants to add solar to their home. This may be to fulfill a long-time goal and is seen as a final home improvement project. Generally, they value ownership, predictability, and passing on assets to the next generation. They come from a variety of awareness levels. Some just want solar; some know the systems. All want power security.
+  * Who are they?
+  * What do they want? Whyx5
+  * What problems do they face?
+  * What’s their level of awareness?
+  * What do they need to feel comfortable buying?
+  * What do they value?
 
-Homeowner who wants to update their home’s exterior. This may be for functional reasons (the roof has a leak, siding is cracked, etc.) but most often is because clients don’t like the look of their home.
+A homeowner—typically 55 years or older and able to pay cash—wants to add solar to their home. This may be to fulfill a long-time goal and is seen as a final home improvement project. Generally, they value ownership, predictability, and passing on assets to the next generation. They come from a variety of awareness levels. Some just want solar; some know the systems. All want power security.
+
 ### Has a problem
-The problem a typical Smucker Exterior customer faces is being unsure of who to trust as a contractor. This makes them nervous—they don’t want to be taken advantage of. Smucker Exteriors is here to free them from that worry and help them enjoy the remodeling process.
+
+These homeowners don’t have a pressing problem, per se, but do face the same realities as the general public: rising energy costs, an unstable grid, and AI data centers consuming massive amounts of energy.
+
 ### And meets a guide
 Smucker Exteriors knows how important your home is—and our guys have been keeping customers’ homes energy efficient, safe and dry for over 6 years. And we’re just getting started.
 ### That gives them a plan (and calls them to action)
