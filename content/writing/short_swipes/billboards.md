@@ -22,3 +22,6 @@ seo:
 * Well Hung Studs. (Jeweler)
 * From Overwhelmed to Hopeful in 24 Hours. New patients seen within 24 hours.
 * Need a New Roof? We've got you covered. (Residential roofing repairs and replacements)
+* A 90-Year Headstart Other Firms Can't Make Up (or something)
+* We Dig This Community (excavating picture)
+
