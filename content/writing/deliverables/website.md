@@ -34,6 +34,8 @@ Get Your Free Quote
 
 ### Value Prop
 ### Guide
+### Testimonials
+### Gallery
 ### Plan
 ### Explanatory
 ### Video (Optional)
